@@ -1,0 +1,32 @@
+{
+  "name": "interno-projects",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "remotion studio",
+    "render": "remotion render HelloWorld out/video.mp4",
+    "build": "remotion bundle",
+    "lint": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dilbarxonubaydullayeva5-hue/interno-projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dilbarxonubaydullayeva5-hue/interno-projects/issues"
+  },
+  "homepage": "https://github.com/dilbarxonubaydullayeva5-hue/interno-projects#readme",
+  "dependencies": {
+    "@remotion/cli": "^4.0.535",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.535"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
