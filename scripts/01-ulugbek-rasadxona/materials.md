@@ -53,3 +53,9 @@
 ## Звуки (ElevenLabs, `eleven_text_to_sound_v2`)
 ~26 уникальных эффектов (дрон, брэм, ветер, сердцебиение, шелест, копыта, обвал, лопаты и т. д.).
 Оценка сервиса — 50 кредитов за эффект → ~1 300 кредитов. Оценки ElevenLabs уже расходились с фактом (Scribe), поэтому закладываю до ~2 000 кредитов.
+
+## Звуки — заказано (ElevenLabs `eleven_text_to_sound_v2`, flow «01 Ulugbek — SFX»)
+32 эффекта, по 1 генерации, файлы в `public/sfx/01-ulugbek-rasadxona/`: drone (30 с, петля), braam1, braam2, riser, wind_gust, wind_soft, heartbeat, heartbeat_stop, stamp, paper, whoosh_bells, bricks, clicks, stone_rumble, thud_crumble, counter, ping, swish, clock, hooves, flame_out, footsteps, wings, collapse, page_riffle, camera, ding, pen_pin, shovels, scrape, pad, city.
+Оценка до запуска 891 кредит, **фактически списано ≈ 297 кредитов**.
+
+**Итого по ролику на сейчас:** 1 806,8 (голос + расшифровка) + ≈ 297 (звуки) ≈ **2 104 кредита ElevenLabs**.
