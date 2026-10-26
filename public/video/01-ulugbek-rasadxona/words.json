@@ -1,0 +1,1573 @@
+{
+ "fps": 30,
+ "duration": 59.185,
+ "durationInFrames": 1776,
+ "words": [
+  {
+   "i": 1,
+   "word": "Обсерватория",
+   "text": "Обсерватория",
+   "start": 0.037,
+   "end": 0.569,
+   "frameStart": 1,
+   "frameEnd": 17
+  },
+  {
+   "i": 2,
+   "word": "правителя-астронома",
+   "text": "правителя-астронома",
+   "start": 0.583,
+   "end": 1.381,
+   "frameStart": 18,
+   "frameEnd": 41
+  },
+  {
+   "i": 3,
+   "word": "Улугбека",
+   "text": "Улугбека",
+   "start": 1.425,
+   "end": 1.868,
+   "frameStart": 43,
+   "frameEnd": 56
+  },
+  {
+   "i": 4,
+   "word": "пропала",
+   "text": "пропала",
+   "start": 1.935,
+   "end": 2.26,
+   "frameStart": 58,
+   "frameEnd": 68
+  },
+  {
+   "i": 5,
+   "word": "на",
+   "text": "на",
+   "start": 2.289,
+   "end": 2.363,
+   "frameStart": 69,
+   "frameEnd": 71
+  },
+  {
+   "i": 6,
+   "word": "века",
+   "text": "века.",
+   "start": 2.378,
+   "end": 2.644,
+   "frameStart": 71,
+   "frameEnd": 79
+  },
+  {
+   "i": 7,
+   "word": "А",
+   "text": "А",
+   "start": 2.939,
+   "end": 2.983,
+   "frameStart": 88,
+   "frameEnd": 89
+  },
+  {
+   "i": 8,
+   "word": "его",
+   "text": "его",
+   "start": 3.042,
+   "end": 3.19,
+   "frameStart": 91,
+   "frameEnd": 96
+  },
+  {
+   "i": 9,
+   "word": "самого",
+   "text": "самого",
+   "start": 3.22,
+   "end": 3.589,
+   "frameStart": 97,
+   "frameEnd": 108
+  },
+  {
+   "i": 10,
+   "word": "убили",
+   "text": "убили",
+   "start": 3.633,
+   "end": 4.017,
+   "frameStart": 109,
+   "frameEnd": 121
+  },
+  {
+   "i": 11,
+   "word": "по",
+   "text": "по",
+   "start": 4.032,
+   "end": 4.076,
+   "frameStart": 121,
+   "frameEnd": 122
+  },
+  {
+   "i": 12,
+   "word": "приказу",
+   "text": "приказу",
+   "start": 4.135,
+   "end": 4.445,
+   "frameStart": 124,
+   "frameEnd": 133
+  },
+  {
+   "i": 13,
+   "word": "родного",
+   "text": "родного",
+   "start": 4.475,
+   "end": 4.741,
+   "frameStart": 134,
+   "frameEnd": 142
+  },
+  {
+   "i": 14,
+   "word": "сына",
+   "text": "сына.",
+   "start": 4.859,
+   "end": 5.095,
+   "frameStart": 146,
+   "frameEnd": 153
+  },
+  {
+   "i": 15,
+   "word": "Найти",
+   "text": "Найти",
+   "start": 5.383,
+   "end": 5.664,
+   "frameStart": 161,
+   "frameEnd": 170
+  },
+  {
+   "i": 16,
+   "word": "её",
+   "text": "её",
+   "start": 5.708,
+   "end": 5.856,
+   "frameStart": 171,
+   "frameEnd": 176
+  },
+  {
+   "i": 17,
+   "word": "помогла",
+   "text": "помогла",
+   "start": 5.885,
+   "end": 6.225,
+   "frameStart": 177,
+   "frameEnd": 187
+  },
+  {
+   "i": 18,
+   "word": "одна",
+   "text": "одна",
+   "start": 6.269,
+   "end": 6.417,
+   "frameStart": 188,
+   "frameEnd": 193
+  },
+  {
+   "i": 19,
+   "word": "старая",
+   "text": "старая",
+   "start": 6.52,
+   "end": 6.757,
+   "frameStart": 196,
+   "frameEnd": 203
+  },
+  {
+   "i": 20,
+   "word": "бумага",
+   "text": "бумага.",
+   "start": 6.771,
+   "end": 7.111,
+   "frameStart": 203,
+   "frameEnd": 213
+  },
+  {
+   "i": 21,
+   "word": "Пятнадцатый",
+   "text": "Пятнадцатый",
+   "start": 7.362,
+   "end": 7.79,
+   "frameStart": 221,
+   "frameEnd": 234
+  },
+  {
+   "i": 22,
+   "word": "век",
+   "text": "век.",
+   "start": 7.82,
+   "end": 7.982,
+   "frameStart": 235,
+   "frameEnd": 239
+  },
+  {
+   "i": 23,
+   "word": "Самарканд",
+   "text": "Самарканд.",
+   "start": 8.204,
+   "end": 8.618,
+   "frameStart": 246,
+   "frameEnd": 259
+  },
+  {
+   "i": 24,
+   "word": "Улугбек",
+   "text": "Улугбек",
+   "start": 8.773,
+   "end": 9.098,
+   "frameStart": 263,
+   "frameEnd": 273
+  },
+  {
+   "i": 25,
+   "word": "строит",
+   "text": "строит",
+   "start": 9.186,
+   "end": 9.393,
+   "frameStart": 276,
+   "frameEnd": 282
+  },
+  {
+   "i": 26,
+   "word": "на",
+   "text": "на",
+   "start": 9.422,
+   "end": 9.482,
+   "frameStart": 283,
+   "frameEnd": 284
+  },
+  {
+   "i": 27,
+   "word": "холме",
+   "text": "холме",
+   "start": 9.511,
+   "end": 9.718,
+   "frameStart": 285,
+   "frameEnd": 292
+  },
+  {
+   "i": 28,
+   "word": "круглое",
+   "text": "круглое",
+   "start": 9.836,
+   "end": 10.176,
+   "frameStart": 295,
+   "frameEnd": 305
+  },
+  {
+   "i": 29,
+   "word": "трёхэтажное",
+   "text": "трёхэтажное",
+   "start": 10.19,
+   "end": 10.663,
+   "frameStart": 306,
+   "frameEnd": 320
+  },
+  {
+   "i": 30,
+   "word": "здание",
+   "text": "здание.",
+   "start": 10.707,
+   "end": 11.017,
+   "frameStart": 321,
+   "frameEnd": 331
+  },
+  {
+   "i": 31,
+   "word": "Внутри",
+   "text": "Внутри",
+   "start": 11.224,
+   "end": 11.489,
+   "frameStart": 337,
+   "frameEnd": 345
+  },
+  {
+   "i": 32,
+   "word": "огромная",
+   "text": "огромная",
+   "start": 11.63,
+   "end": 12.088,
+   "frameStart": 349,
+   "frameEnd": 363
+  },
+  {
+   "i": 33,
+   "word": "мраморная",
+   "text": "мраморная",
+   "start": 12.118,
+   "end": 12.487,
+   "frameStart": 364,
+   "frameEnd": 375
+  },
+  {
+   "i": 34,
+   "word": "дуга",
+   "text": "дуга.",
+   "start": 12.531,
+   "end": 12.753,
+   "frameStart": 376,
+   "frameEnd": 383
+  },
+  {
+   "i": 35,
+   "word": "Нижняя",
+   "text": "Нижняя",
+   "start": 12.945,
+   "end": 13.211,
+   "frameStart": 388,
+   "frameEnd": 396
+  },
+  {
+   "i": 36,
+   "word": "часть",
+   "text": "часть",
+   "start": 13.255,
+   "end": 13.521,
+   "frameStart": 398,
+   "frameEnd": 406
+  },
+  {
+   "i": 37,
+   "word": "в",
+   "text": "в",
+   "start": 13.536,
+   "end": 13.565,
+   "frameStart": 406,
+   "frameEnd": 407
+  },
+  {
+   "i": 38,
+   "word": "траншее",
+   "text": "траншее",
+   "start": 13.595,
+   "end": 13.905,
+   "frameStart": 408,
+   "frameEnd": 417
+  },
+  {
+   "i": 39,
+   "word": "под",
+   "text": "под",
+   "start": 13.949,
+   "end": 14.023,
+   "frameStart": 418,
+   "frameEnd": 421
+  },
+  {
+   "i": 40,
+   "word": "землёй",
+   "text": "землёй.",
+   "start": 14.052,
+   "end": 14.333,
+   "frameStart": 422,
+   "frameEnd": 430
+  },
+  {
+   "i": 41,
+   "word": "Радиус",
+   "text": "Радиус",
+   "start": 14.532,
+   "end": 14.857,
+   "frameStart": 436,
+   "frameEnd": 446
+  },
+  {
+   "i": 42,
+   "word": "почти",
+   "text": "почти",
+   "start": 14.916,
+   "end": 15.182,
+   "frameStart": 447,
+   "frameEnd": 455
+  },
+  {
+   "i": 43,
+   "word": "сорок",
+   "text": "сорок",
+   "start": 15.256,
+   "end": 15.522,
+   "frameStart": 458,
+   "frameEnd": 466
+  },
+  {
+   "i": 44,
+   "word": "метров",
+   "text": "метров.",
+   "start": 15.581,
+   "end": 15.906,
+   "frameStart": 467,
+   "frameEnd": 477
+  },
+  {
+   "i": 45,
+   "word": "Зачем",
+   "text": "Зачем",
+   "start": 16.076,
+   "end": 16.297,
+   "frameStart": 482,
+   "frameEnd": 489
+  },
+  {
+   "i": 46,
+   "word": "такая",
+   "text": "такая?",
+   "start": 16.327,
+   "end": 16.607,
+   "frameStart": 490,
+   "frameEnd": 498
+  },
+  {
+   "i": 47,
+   "word": "Чем",
+   "text": "Чем",
+   "start": 16.932,
+   "end": 17.05,
+   "frameStart": 508,
+   "frameEnd": 512
+  },
+  {
+   "i": 48,
+   "word": "больше",
+   "text": "больше,",
+   "start": 17.11,
+   "end": 17.39,
+   "frameStart": 513,
+   "frameEnd": 522
+  },
+  {
+   "i": 49,
+   "word": "тем",
+   "text": "тем",
+   "start": 17.538,
+   "end": 17.641,
+   "frameStart": 526,
+   "frameEnd": 529
+  },
+  {
+   "i": 50,
+   "word": "точнее",
+   "text": "точнее.",
+   "start": 17.686,
+   "end": 18.055,
+   "frameStart": 531,
+   "frameEnd": 542
+  },
+  {
+   "i": 51,
+   "word": "Каждый",
+   "text": "Каждый",
+   "start": 18.217,
+   "end": 18.483,
+   "frameStart": 547,
+   "frameEnd": 554
+  },
+  {
+   "i": 52,
+   "word": "градус",
+   "text": "градус",
+   "start": 18.513,
+   "end": 18.793,
+   "frameStart": 555,
+   "frameEnd": 564
+  },
+  {
+   "i": 53,
+   "word": "семьдесят",
+   "text": "семьдесят",
+   "start": 19.0,
+   "end": 19.34,
+   "frameStart": 570,
+   "frameEnd": 580
+  },
+  {
+   "i": 54,
+   "word": "сантиметров",
+   "text": "сантиметров!",
+   "start": 19.369,
+   "end": 19.916,
+   "frameStart": 581,
+   "frameEnd": 597
+  },
+  {
+   "i": 55,
+   "word": "По",
+   "text": "По",
+   "start": 20.056,
+   "end": 20.1,
+   "frameStart": 602,
+   "frameEnd": 603
+  },
+  {
+   "i": 56,
+   "word": "этой",
+   "text": "этой",
+   "start": 20.144,
+   "end": 20.277,
+   "frameStart": 604,
+   "frameEnd": 608
+  },
+  {
+   "i": 57,
+   "word": "дуге",
+   "text": "дуге",
+   "start": 20.307,
+   "end": 20.588,
+   "frameStart": 609,
+   "frameEnd": 618
+  },
+  {
+   "i": 58,
+   "word": "он",
+   "text": "он",
+   "start": 20.617,
+   "end": 20.691,
+   "frameStart": 619,
+   "frameEnd": 621
+  },
+  {
+   "i": 59,
+   "word": "следит",
+   "text": "следит",
+   "start": 20.72,
+   "end": 20.942,
+   "frameStart": 622,
+   "frameEnd": 628
+  },
+  {
+   "i": 60,
+   "word": "за",
+   "text": "за",
+   "start": 20.972,
+   "end": 21.016,
+   "frameStart": 629,
+   "frameEnd": 630
+  },
+  {
+   "i": 61,
+   "word": "Солнцем",
+   "text": "Солнцем",
+   "start": 21.104,
+   "end": 21.415,
+   "frameStart": 633,
+   "frameEnd": 642
+  },
+  {
+   "i": 62,
+   "word": "и",
+   "text": "и",
+   "start": 21.444,
+   "end": 21.459,
+   "frameStart": 643,
+   "frameEnd": 644
+  },
+  {
+   "i": 63,
+   "word": "измеряет",
+   "text": "измеряет",
+   "start": 21.503,
+   "end": 21.828,
+   "frameStart": 645,
+   "frameEnd": 655
+  },
+  {
+   "i": 64,
+   "word": "длину",
+   "text": "длину",
+   "start": 21.858,
+   "end": 22.035,
+   "frameStart": 656,
+   "frameEnd": 661
+  },
+  {
+   "i": 65,
+   "word": "года",
+   "text": "года.",
+   "start": 22.109,
+   "end": 22.33,
+   "frameStart": 663,
+   "frameEnd": 670
+  },
+  {
+   "i": 66,
+   "word": "Без",
+   "text": "Без",
+   "start": 22.515,
+   "end": 22.618,
+   "frameStart": 675,
+   "frameEnd": 679
+  },
+  {
+   "i": 67,
+   "word": "телескопа",
+   "text": "телескопа",
+   "start": 22.633,
+   "end": 23.091,
+   "frameStart": 679,
+   "frameEnd": 693
+  },
+  {
+   "i": 68,
+   "word": "его",
+   "text": "его",
+   "start": 23.253,
+   "end": 23.386,
+   "frameStart": 698,
+   "frameEnd": 702
+  },
+  {
+   "i": 69,
+   "word": "ещё",
+   "text": "ещё",
+   "start": 23.416,
+   "end": 23.563,
+   "frameStart": 702,
+   "frameEnd": 707
+  },
+  {
+   "i": 70,
+   "word": "не",
+   "text": "не",
+   "start": 23.608,
+   "end": 23.637,
+   "frameStart": 708,
+   "frameEnd": 709
+  },
+  {
+   "i": 71,
+   "word": "изобрели",
+   "text": "изобрели!",
+   "start": 23.667,
+   "end": 24.051,
+   "frameStart": 710,
+   "frameEnd": 722
+  },
+  {
+   "i": 72,
+   "word": "А",
+   "text": "А",
+   "start": 24.265,
+   "end": 24.28,
+   "frameStart": 728,
+   "frameEnd": 728
+  },
+  {
+   "i": 73,
+   "word": "ошибка",
+   "text": "ошибка",
+   "start": 24.309,
+   "end": 24.678,
+   "frameStart": 729,
+   "frameEnd": 740
+  },
+  {
+   "i": 74,
+   "word": "меньше",
+   "text": "меньше",
+   "start": 24.819,
+   "end": 25.04,
+   "frameStart": 745,
+   "frameEnd": 751
+  },
+  {
+   "i": 75,
+   "word": "минуты",
+   "text": "минуты",
+   "start": 25.085,
+   "end": 25.365,
+   "frameStart": 753,
+   "frameEnd": 761
+  },
+  {
+   "i": 76,
+   "word": "на",
+   "text": "на",
+   "start": 25.395,
+   "end": 25.454,
+   "frameStart": 762,
+   "frameEnd": 764
+  },
+  {
+   "i": 77,
+   "word": "целый",
+   "text": "целый",
+   "start": 25.587,
+   "end": 25.779,
+   "frameStart": 768,
+   "frameEnd": 773
+  },
+  {
+   "i": 78,
+   "word": "год",
+   "text": "год!",
+   "start": 25.867,
+   "end": 26.089,
+   "frameStart": 776,
+   "frameEnd": 783
+  },
+  {
+   "i": 79,
+   "word": "Но",
+   "text": "Но",
+   "start": 26.384,
+   "end": 26.473,
+   "frameStart": 792,
+   "frameEnd": 794
+  },
+  {
+   "i": 80,
+   "word": "в",
+   "text": "в",
+   "start": 26.502,
+   "end": 26.517,
+   "frameStart": 795,
+   "frameEnd": 796
+  },
+  {
+   "i": 81,
+   "word": "тысяча",
+   "text": "тысяча",
+   "start": 26.569,
+   "end": 26.82,
+   "frameStart": 797,
+   "frameEnd": 805
+  },
+  {
+   "i": 82,
+   "word": "четыреста",
+   "text": "четыреста",
+   "start": 26.864,
+   "end": 27.219,
+   "frameStart": 806,
+   "frameEnd": 817
+  },
+  {
+   "i": 83,
+   "word": "сорок",
+   "text": "сорок",
+   "start": 27.278,
+   "end": 27.44,
+   "frameStart": 818,
+   "frameEnd": 823
+  },
+  {
+   "i": 84,
+   "word": "девятом",
+   "text": "девятом",
+   "start": 27.47,
+   "end": 27.736,
+   "frameStart": 824,
+   "frameEnd": 832
+  },
+  {
+   "i": 85,
+   "word": "году",
+   "text": "году",
+   "start": 27.795,
+   "end": 28.09,
+   "frameStart": 834,
+   "frameEnd": 843
+  },
+  {
+   "i": 86,
+   "word": "сын",
+   "text": "сын",
+   "start": 28.149,
+   "end": 28.267,
+   "frameStart": 844,
+   "frameEnd": 848
+  },
+  {
+   "i": 87,
+   "word": "свергает",
+   "text": "свергает",
+   "start": 28.341,
+   "end": 28.74,
+   "frameStart": 850,
+   "frameEnd": 862
+  },
+  {
+   "i": 88,
+   "word": "отца",
+   "text": "отца,",
+   "start": 28.784,
+   "end": 29.153,
+   "frameStart": 864,
+   "frameEnd": 875
+  },
+  {
+   "i": 89,
+   "word": "и",
+   "text": "и",
+   "start": 29.183,
+   "end": 29.227,
+   "frameStart": 875,
+   "frameEnd": 877
+  },
+  {
+   "i": 90,
+   "word": "Улугбека",
+   "text": "Улугбека",
+   "start": 29.257,
+   "end": 29.656,
+   "frameStart": 878,
+   "frameEnd": 890
+  },
+  {
+   "i": 91,
+   "word": "убивают",
+   "text": "убивают.",
+   "start": 29.759,
+   "end": 30.202,
+   "frameStart": 893,
+   "frameEnd": 906
+  },
+  {
+   "i": 92,
+   "word": "Новый",
+   "text": "Новый",
+   "start": 30.505,
+   "end": 30.682,
+   "frameStart": 915,
+   "frameEnd": 920
+  },
+  {
+   "i": 93,
+   "word": "правитель",
+   "text": "правитель",
+   "start": 30.697,
+   "end": 31.036,
+   "frameStart": 921,
+   "frameEnd": 931
+  },
+  {
+   "i": 94,
+   "word": "учёных",
+   "text": "учёных",
+   "start": 31.081,
+   "end": 31.361,
+   "frameStart": 932,
+   "frameEnd": 941
+  },
+  {
+   "i": 95,
+   "word": "не",
+   "text": "не",
+   "start": 31.391,
+   "end": 31.465,
+   "frameStart": 942,
+   "frameEnd": 944
+  },
+  {
+   "i": 96,
+   "word": "поддерживает",
+   "text": "поддерживает.",
+   "start": 31.479,
+   "end": 32.011,
+   "frameStart": 944,
+   "frameEnd": 960
+  },
+  {
+   "i": 97,
+   "word": "Обсерваторию",
+   "text": "Обсерваторию",
+   "start": 32.174,
+   "end": 32.631,
+   "frameStart": 965,
+   "frameEnd": 979
+  },
+  {
+   "i": 98,
+   "word": "бросают",
+   "text": "бросают,",
+   "start": 32.646,
+   "end": 33.06,
+   "frameStart": 979,
+   "frameEnd": 992
+  },
+  {
+   "i": 99,
+   "word": "и",
+   "text": "и",
+   "start": 33.17,
+   "end": 33.215,
+   "frameStart": 995,
+   "frameEnd": 996
+  },
+  {
+   "i": 100,
+   "word": "она",
+   "text": "она",
+   "start": 33.259,
+   "end": 33.377,
+   "frameStart": 998,
+   "frameEnd": 1001
+  },
+  {
+   "i": 101,
+   "word": "разрушается",
+   "text": "разрушается.",
+   "start": 33.407,
+   "end": 33.953,
+   "frameStart": 1002,
+   "frameEnd": 1019
+  },
+  {
+   "i": 102,
+   "word": "Проходят",
+   "text": "Проходят",
+   "start": 34.101,
+   "end": 34.411,
+   "frameStart": 1023,
+   "frameEnd": 1032
+  },
+  {
+   "i": 103,
+   "word": "века",
+   "text": "века.",
+   "start": 34.441,
+   "end": 34.692,
+   "frameStart": 1033,
+   "frameEnd": 1041
+  },
+  {
+   "i": 104,
+   "word": "Точное",
+   "text": "Точное",
+   "start": 34.832,
+   "end": 35.113,
+   "frameStart": 1045,
+   "frameEnd": 1053
+  },
+  {
+   "i": 105,
+   "word": "место",
+   "text": "место",
+   "start": 35.142,
+   "end": 35.482,
+   "frameStart": 1054,
+   "frameEnd": 1064
+  },
+  {
+   "i": 106,
+   "word": "забывают",
+   "text": "забывают.",
+   "start": 35.541,
+   "end": 35.984,
+   "frameStart": 1066,
+   "frameEnd": 1080
+  },
+  {
+   "i": 107,
+   "word": "Может",
+   "text": "Может,",
+   "start": 36.169,
+   "end": 36.361,
+   "frameStart": 1085,
+   "frameEnd": 1091
+  },
+  {
+   "i": 108,
+   "word": "она",
+   "text": "она",
+   "start": 36.405,
+   "end": 36.523,
+   "frameStart": 1092,
+   "frameEnd": 1096
+  },
+  {
+   "i": 109,
+   "word": "исчезла",
+   "text": "исчезла",
+   "start": 36.553,
+   "end": 36.877,
+   "frameStart": 1097,
+   "frameEnd": 1106
+  },
+  {
+   "i": 110,
+   "word": "без",
+   "text": "без",
+   "start": 36.907,
+   "end": 37.01,
+   "frameStart": 1107,
+   "frameEnd": 1110
+  },
+  {
+   "i": 111,
+   "word": "следа",
+   "text": "следа?",
+   "start": 37.04,
+   "end": 37.291,
+   "frameStart": 1111,
+   "frameEnd": 1119
+  },
+  {
+   "i": 112,
+   "word": "Нет",
+   "text": "Нет.",
+   "start": 37.69,
+   "end": 37.896,
+   "frameStart": 1131,
+   "frameEnd": 1137
+  },
+  {
+   "i": 113,
+   "word": "Тысяча",
+   "text": "Тысяча",
+   "start": 38.155,
+   "end": 38.391,
+   "frameStart": 1145,
+   "frameEnd": 1152
+  },
+  {
+   "i": 114,
+   "word": "девятьсот",
+   "text": "девятьсот",
+   "start": 38.421,
+   "end": 38.701,
+   "frameStart": 1153,
+   "frameEnd": 1161
+  },
+  {
+   "i": 115,
+   "word": "восьмой",
+   "text": "восьмой",
+   "start": 38.731,
+   "end": 38.967,
+   "frameStart": 1162,
+   "frameEnd": 1169
+  },
+  {
+   "i": 116,
+   "word": "год",
+   "text": "год.",
+   "start": 39.026,
+   "end": 39.189,
+   "frameStart": 1171,
+   "frameEnd": 1176
+  },
+  {
+   "i": 117,
+   "word": "Археолог",
+   "text": "Археолог",
+   "start": 39.351,
+   "end": 39.691,
+   "frameStart": 1181,
+   "frameEnd": 1191
+  },
+  {
+   "i": 118,
+   "word": "Василий",
+   "text": "Василий",
+   "start": 39.72,
+   "end": 39.986,
+   "frameStart": 1192,
+   "frameEnd": 1200
+  },
+  {
+   "i": 119,
+   "word": "Вяткин",
+   "text": "Вяткин",
+   "start": 40.031,
+   "end": 40.311,
+   "frameStart": 1201,
+   "frameEnd": 1209
+  },
+  {
+   "i": 120,
+   "word": "читает",
+   "text": "читает",
+   "start": 40.385,
+   "end": 40.621,
+   "frameStart": 1212,
+   "frameEnd": 1219
+  },
+  {
+   "i": 121,
+   "word": "земельный",
+   "text": "земельный",
+   "start": 40.651,
+   "end": 40.917,
+   "frameStart": 1220,
+   "frameEnd": 1228
+  },
+  {
+   "i": 122,
+   "word": "документ",
+   "text": "документ",
+   "start": 40.961,
+   "end": 41.271,
+   "frameStart": 1229,
+   "frameEnd": 1238
+  },
+  {
+   "i": 123,
+   "word": "семнадцатого",
+   "text": "семнадцатого",
+   "start": 41.301,
+   "end": 41.773,
+   "frameStart": 1239,
+   "frameEnd": 1253
+  },
+  {
+   "i": 124,
+   "word": "века",
+   "text": "века.",
+   "start": 41.803,
+   "end": 42.024,
+   "frameStart": 1254,
+   "frameEnd": 1261
+  },
+  {
+   "i": 125,
+   "word": "Вот",
+   "text": "Вот",
+   "start": 42.268,
+   "end": 42.445,
+   "frameStart": 1268,
+   "frameEnd": 1273
+  },
+  {
+   "i": 126,
+   "word": "та",
+   "text": "та",
+   "start": 42.475,
+   "end": 42.534,
+   "frameStart": 1274,
+   "frameEnd": 1276
+  },
+  {
+   "i": 127,
+   "word": "самая",
+   "text": "самая",
+   "start": 42.622,
+   "end": 42.844,
+   "frameStart": 1279,
+   "frameEnd": 1285
+  },
+  {
+   "i": 128,
+   "word": "бумага",
+   "text": "бумага!",
+   "start": 42.874,
+   "end": 43.228,
+   "frameStart": 1286,
+   "frameEnd": 1297
+  },
+  {
+   "i": 129,
+   "word": "В",
+   "text": "В",
+   "start": 43.523,
+   "end": 43.538,
+   "frameStart": 1306,
+   "frameEnd": 1306
+  },
+  {
+   "i": 130,
+   "word": "ней",
+   "text": "ней",
+   "start": 43.568,
+   "end": 43.686,
+   "frameStart": 1307,
+   "frameEnd": 1311
+  },
+  {
+   "i": 131,
+   "word": "подробно",
+   "text": "подробно",
+   "start": 43.715,
+   "end": 44.07,
+   "frameStart": 1311,
+   "frameEnd": 1322
+  },
+  {
+   "i": 132,
+   "word": "описано",
+   "text": "описано",
+   "start": 44.099,
+   "end": 44.424,
+   "frameStart": 1323,
+   "frameEnd": 1333
+  },
+  {
+   "i": 133,
+   "word": "нужное",
+   "text": "нужное",
+   "start": 44.453,
+   "end": 44.705,
+   "frameStart": 1334,
+   "frameEnd": 1341
+  },
+  {
+   "i": 134,
+   "word": "место",
+   "text": "место.",
+   "start": 44.734,
+   "end": 45.015,
+   "frameStart": 1342,
+   "frameEnd": 1350
+  },
+  {
+   "i": 135,
+   "word": "Вяткин",
+   "text": "Вяткин",
+   "start": 45.2,
+   "end": 45.495,
+   "frameStart": 1356,
+   "frameEnd": 1365
+  },
+  {
+   "i": 136,
+   "word": "начинает",
+   "text": "начинает",
+   "start": 45.584,
+   "end": 45.908,
+   "frameStart": 1368,
+   "frameEnd": 1377
+  },
+  {
+   "i": 137,
+   "word": "раскопки",
+   "text": "раскопки.",
+   "start": 45.938,
+   "end": 46.352,
+   "frameStart": 1378,
+   "frameEnd": 1391
+  },
+  {
+   "i": 139,
+   "word": "из-под",
+   "text": "из-под",
+   "start": 46.529,
+   "end": 46.824,
+   "frameStart": 1396,
+   "frameEnd": 1405
+  },
+  {
+   "i": 140,
+   "word": "земли",
+   "text": "земли",
+   "start": 46.868,
+   "end": 47.12,
+   "frameStart": 1406,
+   "frameEnd": 1414
+  },
+  {
+   "i": 141,
+   "word": "появляется",
+   "text": "появляется",
+   "start": 47.193,
+   "end": 47.592,
+   "frameStart": 1416,
+   "frameEnd": 1428
+  },
+  {
+   "i": 142,
+   "word": "мраморная",
+   "text": "мраморная",
+   "start": 47.651,
+   "end": 48.079,
+   "frameStart": 1430,
+   "frameEnd": 1442
+  },
+  {
+   "i": 143,
+   "word": "дуга",
+   "text": "дуга",
+   "start": 48.124,
+   "end": 48.345,
+   "frameStart": 1444,
+   "frameEnd": 1450
+  },
+  {
+   "i": 144,
+   "word": "с",
+   "text": "с",
+   "start": 48.419,
+   "end": 48.463,
+   "frameStart": 1453,
+   "frameEnd": 1454
+  },
+  {
+   "i": 145,
+   "word": "высеченными",
+   "text": "высеченными",
+   "start": 48.493,
+   "end": 48.892,
+   "frameStart": 1455,
+   "frameEnd": 1467
+  },
+  {
+   "i": 146,
+   "word": "градусами",
+   "text": "градусами!",
+   "start": 48.951,
+   "end": 49.379,
+   "frameStart": 1469,
+   "frameEnd": 1481
+  },
+  {
+   "i": 147,
+   "word": "Уцелела",
+   "text": "Уцелела",
+   "start": 49.704,
+   "end": 50.132,
+   "frameStart": 1491,
+   "frameEnd": 1504
+  },
+  {
+   "i": 148,
+   "word": "та",
+   "text": "та",
+   "start": 50.199,
+   "end": 50.287,
+   "frameStart": 1506,
+   "frameEnd": 1509
+  },
+  {
+   "i": 149,
+   "word": "самая",
+   "text": "самая",
+   "start": 50.406,
+   "end": 50.657,
+   "frameStart": 1512,
+   "frameEnd": 1520
+  },
+  {
+   "i": 150,
+   "word": "подземная",
+   "text": "подземная",
+   "start": 50.686,
+   "end": 51.1,
+   "frameStart": 1521,
+   "frameEnd": 1533
+  },
+  {
+   "i": 151,
+   "word": "часть",
+   "text": "часть.",
+   "start": 51.144,
+   "end": 51.425,
+   "frameStart": 1534,
+   "frameEnd": 1543
+  },
+  {
+   "i": 152,
+   "word": "Здание",
+   "text": "Здание",
+   "start": 51.624,
+   "end": 51.905,
+   "frameStart": 1549,
+   "frameEnd": 1557
+  },
+  {
+   "i": 153,
+   "word": "исчезло",
+   "text": "исчезло.",
+   "start": 51.949,
+   "end": 52.377,
+   "frameStart": 1558,
+   "frameEnd": 1571
+  },
+  {
+   "i": 154,
+   "word": "А",
+   "text": "А",
+   "start": 52.532,
+   "end": 52.577,
+   "frameStart": 1576,
+   "frameEnd": 1577
+  },
+  {
+   "i": 155,
+   "word": "главный",
+   "text": "главный",
+   "start": 52.621,
+   "end": 52.842,
+   "frameStart": 1579,
+   "frameEnd": 1585
+  },
+  {
+   "i": 156,
+   "word": "инструмент",
+   "text": "инструмент",
+   "start": 52.857,
+   "end": 53.3,
+   "frameStart": 1586,
+   "frameEnd": 1599
+  },
+  {
+   "i": 157,
+   "word": "сохранила",
+   "text": "сохранила",
+   "start": 53.404,
+   "end": 53.773,
+   "frameStart": 1602,
+   "frameEnd": 1613
+  },
+  {
+   "i": 158,
+   "word": "земля",
+   "text": "земля.",
+   "start": 53.817,
+   "end": 54.068,
+   "frameStart": 1615,
+   "frameEnd": 1622
+  },
+  {
+   "i": 159,
+   "word": "Сегодня",
+   "text": "Сегодня",
+   "start": 54.378,
+   "end": 54.777,
+   "frameStart": 1631,
+   "frameEnd": 1643
+  },
+  {
+   "i": 160,
+   "word": "эту",
+   "text": "эту",
+   "start": 54.807,
+   "end": 54.925,
+   "frameStart": 1644,
+   "frameEnd": 1648
+  },
+  {
+   "i": 161,
+   "word": "дугу",
+   "text": "дугу",
+   "start": 54.954,
+   "end": 55.146,
+   "frameStart": 1649,
+   "frameEnd": 1654
+  },
+  {
+   "i": 162,
+   "word": "можно",
+   "text": "можно",
+   "start": 55.176,
+   "end": 55.368,
+   "frameStart": 1655,
+   "frameEnd": 1661
+  },
+  {
+   "i": 163,
+   "word": "увидеть",
+   "text": "увидеть",
+   "start": 55.383,
+   "end": 55.604,
+   "frameStart": 1661,
+   "frameEnd": 1668
+  },
+  {
+   "i": 164,
+   "word": "в",
+   "text": "в",
+   "start": 55.619,
+   "end": 55.634,
+   "frameStart": 1669,
+   "frameEnd": 1669
+  },
+  {
+   "i": 165,
+   "word": "Самарканде",
+   "text": "Самарканде",
+   "start": 55.663,
+   "end": 56.077,
+   "frameStart": 1670,
+   "frameEnd": 1682
+  },
+  {
+   "i": 166,
+   "word": "своими",
+   "text": "своими",
+   "start": 56.165,
+   "end": 56.475,
+   "frameStart": 1685,
+   "frameEnd": 1694
+  },
+  {
+   "i": 167,
+   "word": "глазами",
+   "text": "глазами.",
+   "start": 56.505,
+   "end": 56.889,
+   "frameStart": 1695,
+   "frameEnd": 1707
+  },
+  {
+   "i": 168,
+   "word": "А",
+   "text": "А",
+   "start": 57.051,
+   "end": 57.081,
+   "frameStart": 1712,
+   "frameEnd": 1712
+  },
+  {
+   "i": 169,
+   "word": "вы",
+   "text": "вы",
+   "start": 57.14,
+   "end": 57.273,
+   "frameStart": 1714,
+   "frameEnd": 1718
+  },
+  {
+   "i": 170,
+   "word": "видели",
+   "text": "видели",
+   "start": 57.288,
+   "end": 57.539,
+   "frameStart": 1719,
+   "frameEnd": 1726
+  },
+  {
+   "i": 171,
+   "word": "её",
+   "text": "её",
+   "start": 57.598,
+   "end": 57.687,
+   "frameStart": 1728,
+   "frameEnd": 1731
+  },
+  {
+   "i": 172,
+   "word": "вживую",
+   "text": "вживую?",
+   "start": 57.701,
+   "end": 58.026,
+   "frameStart": 1731,
+   "frameEnd": 1741
+  },
+  {
+   "i": 173,
+   "word": "Напишите",
+   "text": "Напишите",
+   "start": 58.218,
+   "end": 58.543,
+   "frameStart": 1747,
+   "frameEnd": 1756
+  },
+  {
+   "i": 174,
+   "word": "в",
+   "text": "в",
+   "start": 58.558,
+   "end": 58.587,
+   "frameStart": 1757,
+   "frameEnd": 1758
+  },
+  {
+   "i": 175,
+   "word": "комментариях",
+   "text": "комментариях.",
+   "start": 58.617,
+   "end": 59.075,
+   "frameStart": 1759,
+   "frameEnd": 1772
+  }
+ ]
+}
