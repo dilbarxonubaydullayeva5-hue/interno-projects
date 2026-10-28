@@ -8,6 +8,7 @@
 | Сцена | media_id | с | кр | Промпт движения |
 |---|---|---|---|---|
 | S01 | 39aa53a3-f768-4e05-ad83-d5cfe74cfed7 | 3 | 5.25 | The blue streak of moonlight slowly slides across her eyes from left to right, she narrows her eyes slightly and her gaze sharpens toward the camera. Very slow push-in. |
+| S02 | 0fc059bd-9fa7-4923-84f6-fa06794c6959 | 4 | 7 | Zeus narrows his eyes and slowly tightens his grip on the lightning bolt, lightning flashes in the clouds behind him and the bolt crackles brighter. Slow push-in toward his face. |
 | S03 | 4eb49200-674c-4694-a833-916e5732d6b9 | 4 | 7 | The huge shadow slowly spreads across the hall and swallows Metis; she pulls her hands closer to her belly and looks up in fear. Static camera, slight slow push-in. Ends with the frame almost fully dark. |
 | S04 | 70b690f5-03b8-4351-9edf-03aa8467184f | 3 | 5.25 | The golden glow pulses slowly like a heartbeat, gold dust drifts around it. Static camera. |
 | S05 | 0bbe6fae-6505-4cef-a9ac-15145c78e584 | 4 | 7 | Zeus squeezes his head harder and groans, lightning sparks crackle and flicker around his skull, the camera shakes slightly. |
@@ -23,8 +24,9 @@
 | S13 | eee75aad-3ca3-4343-8515-8a9a3fe7bd07 | 5 | 8.75 | The olive tree grows taller and its leaves unfold, catching the dawn light; the people below raise their hands. Slow push-in toward the tree. |
 | S14 | ff478d0e-f831-465a-bbf0-8c3f4728e5a4 | 4 | 7 | Slow push-in toward her reflection in the shield, the candle flame flickers, she blinks slowly. |
 | S15 | 2ded4825-e3a2-4658-b78f-56eafedc32cd | 5 | 8.75 | The face of Metis in the shield becomes clearer, as if rising through water, and she slowly closes and opens her eyes. Very slow push-in. |
+| S16 | 29803ce8-00a0-447e-8976-6a0dd473a883 | 4 | 7 | She slowly lifts the helmet off her head, her dark hair falls loose around her face, a tear rolls down her cheek, candle flames flicker behind her. Very slow push-in. |
 | S17 | 194dc7c1-5564-4559-84a9-072c0a486673 | 6 | 10.5 | Slow camera pull-back revealing more of the night city and sky, her hair and dress move in the wind, the owl settles its wings. |
 
-**Итого 17 клипов: 64 с = 112 кредитов.**
+**Итого 19 клипов: 72 с = 126 кредитов.**
 
-Ждут перегенерации во Flow: S02 (4 с, 7 кр.), S16 (4 с, 7 кр.) — ещё 14 кредитов.
+Все сцены готовы.
