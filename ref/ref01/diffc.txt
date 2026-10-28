@@ -1,0 +1,2690 @@
+frame:0    pts:512     pts_time:0.0416667
+lavfi.signalstats.YAVG=1.04593
+frame:1    pts:1024    pts_time:0.0833333
+lavfi.signalstats.YAVG=3.62613
+frame:2    pts:1536    pts_time:0.125
+lavfi.signalstats.YAVG=0.896
+frame:3    pts:2048    pts_time:0.166667
+lavfi.signalstats.YAVG=3.06042
+frame:4    pts:2560    pts_time:0.208333
+lavfi.signalstats.YAVG=0.836028
+frame:5    pts:3072    pts_time:0.25
+lavfi.signalstats.YAVG=3.39235
+frame:6    pts:3584    pts_time:0.291667
+lavfi.signalstats.YAVG=0.787736
+frame:7    pts:4096    pts_time:0.333333
+lavfi.signalstats.YAVG=4.51451
+frame:8    pts:4608    pts_time:0.375
+lavfi.signalstats.YAVG=0.810153
+frame:9    pts:5120    pts_time:0.416667
+lavfi.signalstats.YAVG=5.22794
+frame:10   pts:5632    pts_time:0.458333
+lavfi.signalstats.YAVG=0.653431
+frame:11   pts:6144    pts_time:0.5
+lavfi.signalstats.YAVG=4.89003
+frame:12   pts:6656    pts_time:0.541667
+lavfi.signalstats.YAVG=0.8165
+frame:13   pts:7168    pts_time:0.583333
+lavfi.signalstats.YAVG=4.76615
+frame:14   pts:7680    pts_time:0.625
+lavfi.signalstats.YAVG=0.810181
+frame:15   pts:8192    pts_time:0.666667
+lavfi.signalstats.YAVG=4.83699
+frame:16   pts:8704    pts_time:0.708333
+lavfi.signalstats.YAVG=1.03461
+frame:17   pts:9216    pts_time:0.75
+lavfi.signalstats.YAVG=4.11192
+frame:18   pts:9728    pts_time:0.791667
+lavfi.signalstats.YAVG=0.710986
+frame:19   pts:10240   pts_time:0.833333
+lavfi.signalstats.YAVG=4.14236
+frame:20   pts:10752   pts_time:0.875
+lavfi.signalstats.YAVG=1.43407
+frame:21   pts:11264   pts_time:0.916667
+lavfi.signalstats.YAVG=4.46149
+frame:22   pts:11776   pts_time:0.958333
+lavfi.signalstats.YAVG=1.26376
+frame:23   pts:12288   pts_time:1
+lavfi.signalstats.YAVG=4.61381
+frame:24   pts:12800   pts_time:1.04167
+lavfi.signalstats.YAVG=1.39669
+frame:25   pts:13312   pts_time:1.08333
+lavfi.signalstats.YAVG=4.2885
+frame:26   pts:13824   pts_time:1.125
+lavfi.signalstats.YAVG=1.50001
+frame:27   pts:14336   pts_time:1.16667
+lavfi.signalstats.YAVG=3.8091
+frame:28   pts:14848   pts_time:1.20833
+lavfi.signalstats.YAVG=1.06357
+frame:29   pts:15360   pts_time:1.25
+lavfi.signalstats.YAVG=2.48676
+frame:30   pts:15872   pts_time:1.29167
+lavfi.signalstats.YAVG=1.32089
+frame:31   pts:16384   pts_time:1.33333
+lavfi.signalstats.YAVG=2.70631
+frame:32   pts:16896   pts_time:1.375
+lavfi.signalstats.YAVG=1.35336
+frame:33   pts:17408   pts_time:1.41667
+lavfi.signalstats.YAVG=1.27349
+frame:34   pts:17920   pts_time:1.45833
+lavfi.signalstats.YAVG=0.9045
+frame:35   pts:18432   pts_time:1.5
+lavfi.signalstats.YAVG=0.596583
+frame:36   pts:18944   pts_time:1.54167
+lavfi.signalstats.YAVG=0.599569
+frame:37   pts:19456   pts_time:1.58333
+lavfi.signalstats.YAVG=4.66183
+frame:38   pts:19968   pts_time:1.625
+lavfi.signalstats.YAVG=4.61158
+frame:39   pts:20480   pts_time:1.66667
+lavfi.signalstats.YAVG=0.565806
+frame:40   pts:20992   pts_time:1.70833
+lavfi.signalstats.YAVG=0.107306
+frame:41   pts:21504   pts_time:1.75
+lavfi.signalstats.YAVG=0.984667
+frame:42   pts:22016   pts_time:1.79167
+lavfi.signalstats.YAVG=0.168639
+frame:43   pts:22528   pts_time:1.83333
+lavfi.signalstats.YAVG=1.34608
+frame:44   pts:23040   pts_time:1.875
+lavfi.signalstats.YAVG=0.344736
+frame:45   pts:23552   pts_time:1.91667
+lavfi.signalstats.YAVG=1.90249
+frame:46   pts:24064   pts_time:1.95833
+lavfi.signalstats.YAVG=0.0775694
+frame:47   pts:24576   pts_time:2
+lavfi.signalstats.YAVG=2.1221
+frame:48   pts:25088   pts_time:2.04167
+lavfi.signalstats.YAVG=0.458917
+frame:49   pts:25600   pts_time:2.08333
+lavfi.signalstats.YAVG=3.35181
+frame:50   pts:26112   pts_time:2.125
+lavfi.signalstats.YAVG=0.56625
+frame:51   pts:26624   pts_time:2.16667
+lavfi.signalstats.YAVG=5.62061
+frame:52   pts:27136   pts_time:2.20833
+lavfi.signalstats.YAVG=0.208931
+frame:53   pts:27648   pts_time:2.25
+lavfi.signalstats.YAVG=6.23967
+frame:54   pts:28160   pts_time:2.29167
+lavfi.signalstats.YAVG=0.760972
+frame:55   pts:28672   pts_time:2.33333
+lavfi.signalstats.YAVG=7.15907
+frame:56   pts:29184   pts_time:2.375
+lavfi.signalstats.YAVG=0.750403
+frame:57   pts:29696   pts_time:2.41667
+lavfi.signalstats.YAVG=3.18628
+frame:58   pts:30208   pts_time:2.45833
+lavfi.signalstats.YAVG=0.212569
+frame:59   pts:30720   pts_time:2.5
+lavfi.signalstats.YAVG=2.11854
+frame:60   pts:31232   pts_time:2.54167
+lavfi.signalstats.YAVG=1.03799
+frame:61   pts:31744   pts_time:2.58333
+lavfi.signalstats.YAVG=1.91206
+frame:62   pts:32256   pts_time:2.625
+lavfi.signalstats.YAVG=0.815347
+frame:63   pts:32768   pts_time:2.66667
+lavfi.signalstats.YAVG=1.10979
+frame:64   pts:33280   pts_time:2.70833
+lavfi.signalstats.YAVG=0.205347
+frame:65   pts:33792   pts_time:2.75
+lavfi.signalstats.YAVG=0.613319
+frame:66   pts:34304   pts_time:2.79167
+lavfi.signalstats.YAVG=0.721431
+frame:67   pts:34816   pts_time:2.83333
+lavfi.signalstats.YAVG=0.792819
+frame:68   pts:35328   pts_time:2.875
+lavfi.signalstats.YAVG=0.644569
+frame:69   pts:35840   pts_time:2.91667
+lavfi.signalstats.YAVG=0.352639
+frame:70   pts:36352   pts_time:2.95833
+lavfi.signalstats.YAVG=0.185931
+frame:71   pts:36864   pts_time:3
+lavfi.signalstats.YAVG=0.357931
+frame:72   pts:37376   pts_time:3.04167
+lavfi.signalstats.YAVG=0.176708
+frame:73   pts:37888   pts_time:3.08333
+lavfi.signalstats.YAVG=0.896458
+frame:74   pts:38400   pts_time:3.125
+lavfi.signalstats.YAVG=0.408944
+frame:75   pts:38912   pts_time:3.16667
+lavfi.signalstats.YAVG=0.547167
+frame:76   pts:39424   pts_time:3.20833
+lavfi.signalstats.YAVG=42.4065
+frame:77   pts:39936   pts_time:3.25
+lavfi.signalstats.YAVG=0.116819
+frame:78   pts:40448   pts_time:3.29167
+lavfi.signalstats.YAVG=0.06575
+frame:79   pts:40960   pts_time:3.33333
+lavfi.signalstats.YAVG=0.0657361
+frame:80   pts:41472   pts_time:3.375
+lavfi.signalstats.YAVG=1.45568
+frame:81   pts:41984   pts_time:3.41667
+lavfi.signalstats.YAVG=0.792403
+frame:82   pts:42496   pts_time:3.45833
+lavfi.signalstats.YAVG=2.32586
+frame:83   pts:43008   pts_time:3.5
+lavfi.signalstats.YAVG=0.583569
+frame:84   pts:43520   pts_time:3.54167
+lavfi.signalstats.YAVG=0.924069
+frame:85   pts:44032   pts_time:3.58333
+lavfi.signalstats.YAVG=3.27451
+frame:86   pts:44544   pts_time:3.625
+lavfi.signalstats.YAVG=0.656903
+frame:87   pts:45056   pts_time:3.66667
+lavfi.signalstats.YAVG=0.216931
+frame:88   pts:45568   pts_time:3.70833
+lavfi.signalstats.YAVG=3.27913
+frame:89   pts:46080   pts_time:3.75
+lavfi.signalstats.YAVG=4.47938
+frame:90   pts:46592   pts_time:3.79167
+lavfi.signalstats.YAVG=0.781986
+frame:91   pts:47104   pts_time:3.83333
+lavfi.signalstats.YAVG=1.14951
+frame:92   pts:47616   pts_time:3.875
+lavfi.signalstats.YAVG=0.720444
+frame:93   pts:48128   pts_time:3.91667
+lavfi.signalstats.YAVG=0.433722
+frame:94   pts:48640   pts_time:3.95833
+lavfi.signalstats.YAVG=3.29913
+frame:95   pts:49152   pts_time:4
+lavfi.signalstats.YAVG=2.35644
+frame:96   pts:49664   pts_time:4.04167
+lavfi.signalstats.YAVG=0.646292
+frame:97   pts:50176   pts_time:4.08333
+lavfi.signalstats.YAVG=0.905111
+frame:98   pts:50688   pts_time:4.125
+lavfi.signalstats.YAVG=2.63758
+frame:99   pts:51200   pts_time:4.16667
+lavfi.signalstats.YAVG=1.90324
+frame:100  pts:51712   pts_time:4.20833
+lavfi.signalstats.YAVG=0.838347
+frame:101  pts:52224   pts_time:4.25
+lavfi.signalstats.YAVG=0.732806
+frame:102  pts:52736   pts_time:4.29167
+lavfi.signalstats.YAVG=0.927361
+frame:103  pts:53248   pts_time:4.33333
+lavfi.signalstats.YAVG=2.11533
+frame:104  pts:53760   pts_time:4.375
+lavfi.signalstats.YAVG=0.912764
+frame:105  pts:54272   pts_time:4.41667
+lavfi.signalstats.YAVG=0.224181
+frame:106  pts:54784   pts_time:4.45833
+lavfi.signalstats.YAVG=0.640833
+frame:107  pts:55296   pts_time:4.5
+lavfi.signalstats.YAVG=1.25919
+frame:108  pts:55808   pts_time:4.54167
+lavfi.signalstats.YAVG=0.89675
+frame:109  pts:56320   pts_time:4.58333
+lavfi.signalstats.YAVG=0.290458
+frame:110  pts:56832   pts_time:4.625
+lavfi.signalstats.YAVG=0.663847
+frame:111  pts:57344   pts_time:4.66667
+lavfi.signalstats.YAVG=1.0495
+frame:112  pts:57856   pts_time:4.70833
+lavfi.signalstats.YAVG=0.195569
+frame:113  pts:58368   pts_time:4.75
+lavfi.signalstats.YAVG=0.586111
+frame:114  pts:58880   pts_time:4.79167
+lavfi.signalstats.YAVG=0.253042
+frame:115  pts:59392   pts_time:4.83333
+lavfi.signalstats.YAVG=0.59625
+frame:116  pts:59904   pts_time:4.875
+lavfi.signalstats.YAVG=1.32589
+frame:117  pts:60416   pts_time:4.91667
+lavfi.signalstats.YAVG=0.620125
+frame:118  pts:60928   pts_time:4.95833
+lavfi.signalstats.YAVG=0.506694
+frame:119  pts:61440   pts_time:5
+lavfi.signalstats.YAVG=1.10482
+frame:120  pts:61952   pts_time:5.04167
+lavfi.signalstats.YAVG=1.41917
+frame:121  pts:62464   pts_time:5.08333
+lavfi.signalstats.YAVG=1.21837
+frame:122  pts:62976   pts_time:5.125
+lavfi.signalstats.YAVG=0.254653
+frame:123  pts:63488   pts_time:5.16667
+lavfi.signalstats.YAVG=0.739222
+frame:124  pts:64000   pts_time:5.20833
+lavfi.signalstats.YAVG=1.35003
+frame:125  pts:64512   pts_time:5.25
+lavfi.signalstats.YAVG=1.47086
+frame:126  pts:65024   pts_time:5.29167
+lavfi.signalstats.YAVG=0.943944
+frame:127  pts:65536   pts_time:5.33333
+lavfi.signalstats.YAVG=1.2485
+frame:128  pts:66048   pts_time:5.375
+lavfi.signalstats.YAVG=0.723319
+frame:129  pts:66560   pts_time:5.41667
+lavfi.signalstats.YAVG=1.38532
+frame:130  pts:67072   pts_time:5.45833
+lavfi.signalstats.YAVG=0.887819
+frame:131  pts:67584   pts_time:5.5
+lavfi.signalstats.YAVG=1.05261
+frame:132  pts:68096   pts_time:5.54167
+lavfi.signalstats.YAVG=1.07885
+frame:133  pts:68608   pts_time:5.58333
+lavfi.signalstats.YAVG=1.49247
+frame:134  pts:69120   pts_time:5.625
+lavfi.signalstats.YAVG=0.182653
+frame:135  pts:69632   pts_time:5.66667
+lavfi.signalstats.YAVG=0.959431
+frame:136  pts:70144   pts_time:5.70833
+lavfi.signalstats.YAVG=0.566542
+frame:137  pts:70656   pts_time:5.75
+lavfi.signalstats.YAVG=0.958986
+frame:138  pts:71168   pts_time:5.79167
+lavfi.signalstats.YAVG=1.06892
+frame:139  pts:71680   pts_time:5.83333
+lavfi.signalstats.YAVG=0.675333
+frame:140  pts:72192   pts_time:5.875
+lavfi.signalstats.YAVG=0.183208
+frame:141  pts:72704   pts_time:5.91667
+lavfi.signalstats.YAVG=0.666528
+frame:142  pts:73216   pts_time:5.95833
+lavfi.signalstats.YAVG=1.752
+frame:143  pts:73728   pts_time:6
+lavfi.signalstats.YAVG=0.750028
+frame:144  pts:74240   pts_time:6.04167
+lavfi.signalstats.YAVG=0.221236
+frame:145  pts:74752   pts_time:6.08333
+lavfi.signalstats.YAVG=0.1275
+frame:146  pts:75264   pts_time:6.125
+lavfi.signalstats.YAVG=0.802681
+frame:147  pts:75776   pts_time:6.16667
+lavfi.signalstats.YAVG=1.06621
+frame:148  pts:76288   pts_time:6.20833
+lavfi.signalstats.YAVG=0.550222
+frame:149  pts:76800   pts_time:6.25
+lavfi.signalstats.YAVG=0.391083
+frame:150  pts:77312   pts_time:6.29167
+lavfi.signalstats.YAVG=1.09186
+frame:151  pts:77824   pts_time:6.33333
+lavfi.signalstats.YAVG=1.07772
+frame:152  pts:78336   pts_time:6.375
+lavfi.signalstats.YAVG=0.514472
+frame:153  pts:78848   pts_time:6.41667
+lavfi.signalstats.YAVG=0.278625
+frame:154  pts:79360   pts_time:6.45833
+lavfi.signalstats.YAVG=0.898486
+frame:155  pts:79872   pts_time:6.5
+lavfi.signalstats.YAVG=1.40758
+frame:156  pts:80384   pts_time:6.54167
+lavfi.signalstats.YAVG=0.928694
+frame:157  pts:80896   pts_time:6.58333
+lavfi.signalstats.YAVG=0.937208
+frame:158  pts:81408   pts_time:6.625
+lavfi.signalstats.YAVG=0.202722
+frame:159  pts:81920   pts_time:6.66667
+lavfi.signalstats.YAVG=0.989861
+frame:160  pts:82432   pts_time:6.70833
+lavfi.signalstats.YAVG=1.35703
+frame:161  pts:82944   pts_time:6.75
+lavfi.signalstats.YAVG=1.847
+frame:162  pts:83456   pts_time:6.79167
+lavfi.signalstats.YAVG=0.596403
+frame:163  pts:83968   pts_time:6.83333
+lavfi.signalstats.YAVG=1.18029
+frame:164  pts:84480   pts_time:6.875
+lavfi.signalstats.YAVG=2.20644
+frame:165  pts:84992   pts_time:6.91667
+lavfi.signalstats.YAVG=1.12308
+frame:166  pts:85504   pts_time:6.95833
+lavfi.signalstats.YAVG=0.531597
+frame:167  pts:86016   pts_time:7
+lavfi.signalstats.YAVG=0.738389
+frame:168  pts:86528   pts_time:7.04167
+lavfi.signalstats.YAVG=2.19943
+frame:169  pts:87040   pts_time:7.08333
+lavfi.signalstats.YAVG=2.72779
+frame:170  pts:87552   pts_time:7.125
+lavfi.signalstats.YAVG=0.971847
+frame:171  pts:88064   pts_time:7.16667
+lavfi.signalstats.YAVG=0.337875
+frame:172  pts:88576   pts_time:7.20833
+lavfi.signalstats.YAVG=2.47397
+frame:173  pts:89088   pts_time:7.25
+lavfi.signalstats.YAVG=3.00043
+frame:174  pts:89600   pts_time:7.29167
+lavfi.signalstats.YAVG=1.01603
+frame:175  pts:90112   pts_time:7.33333
+lavfi.signalstats.YAVG=0.385069
+frame:176  pts:90624   pts_time:7.375
+lavfi.signalstats.YAVG=8.58451
+frame:177  pts:91136   pts_time:7.41667
+lavfi.signalstats.YAVG=6.57519
+frame:178  pts:91648   pts_time:7.45833
+lavfi.signalstats.YAVG=1.25167
+frame:179  pts:92160   pts_time:7.5
+lavfi.signalstats.YAVG=0.161931
+frame:180  pts:92672   pts_time:7.54167
+lavfi.signalstats.YAVG=0.155972
+frame:181  pts:93184   pts_time:7.58333
+lavfi.signalstats.YAVG=7.06075
+frame:182  pts:93696   pts_time:7.625
+lavfi.signalstats.YAVG=45.8008
+frame:183  pts:94208   pts_time:7.66667
+lavfi.signalstats.YAVG=0.952681
+frame:184  pts:94720   pts_time:7.70833
+lavfi.signalstats.YAVG=0.582361
+frame:185  pts:95232   pts_time:7.75
+lavfi.signalstats.YAVG=4.61147
+frame:186  pts:95744   pts_time:7.79167
+lavfi.signalstats.YAVG=4.56175
+frame:187  pts:96256   pts_time:7.83333
+lavfi.signalstats.YAVG=1.56124
+frame:188  pts:96768   pts_time:7.875
+lavfi.signalstats.YAVG=0.533069
+frame:189  pts:97280   pts_time:7.91667
+lavfi.signalstats.YAVG=5.71236
+frame:190  pts:97792   pts_time:7.95833
+lavfi.signalstats.YAVG=0.547708
+frame:191  pts:98304   pts_time:8
+lavfi.signalstats.YAVG=7.55489
+frame:192  pts:98816   pts_time:8.04167
+lavfi.signalstats.YAVG=1.99919
+frame:193  pts:99328   pts_time:8.08333
+lavfi.signalstats.YAVG=0.354264
+frame:194  pts:99840   pts_time:8.125
+lavfi.signalstats.YAVG=8.66344
+frame:195  pts:100352  pts_time:8.16667
+lavfi.signalstats.YAVG=7.19556
+frame:196  pts:100864  pts_time:8.20833
+lavfi.signalstats.YAVG=2.45497
+frame:197  pts:101376  pts_time:8.25
+lavfi.signalstats.YAVG=0.898375
+frame:198  pts:101888  pts_time:8.29167
+lavfi.signalstats.YAVG=9.04929
+frame:199  pts:102400  pts_time:8.33333
+lavfi.signalstats.YAVG=6.56565
+frame:200  pts:102912  pts_time:8.375
+lavfi.signalstats.YAVG=2.40807
+frame:201  pts:103424  pts_time:8.41667
+lavfi.signalstats.YAVG=0.620972
+frame:202  pts:103936  pts_time:8.45833
+lavfi.signalstats.YAVG=0.571667
+frame:203  pts:104448  pts_time:8.5
+lavfi.signalstats.YAVG=8.20754
+frame:204  pts:104960  pts_time:8.54167
+lavfi.signalstats.YAVG=6.04421
+frame:205  pts:105472  pts_time:8.58333
+lavfi.signalstats.YAVG=2.41226
+frame:206  pts:105984  pts_time:8.625
+lavfi.signalstats.YAVG=0.3915
+frame:207  pts:106496  pts_time:8.66667
+lavfi.signalstats.YAVG=7.4281
+frame:208  pts:107008  pts_time:8.70833
+lavfi.signalstats.YAVG=5.43376
+frame:209  pts:107520  pts_time:8.75
+lavfi.signalstats.YAVG=2.17215
+frame:210  pts:108032  pts_time:8.79167
+lavfi.signalstats.YAVG=0.108458
+frame:211  pts:108544  pts_time:8.83333
+lavfi.signalstats.YAVG=5.34044
+frame:212  pts:109056  pts_time:8.875
+lavfi.signalstats.YAVG=1.29932
+frame:213  pts:109568  pts_time:8.91667
+lavfi.signalstats.YAVG=6.17003
+frame:214  pts:110080  pts_time:8.95833
+lavfi.signalstats.YAVG=1.87765
+frame:215  pts:110592  pts_time:9
+lavfi.signalstats.YAVG=0.367389
+frame:216  pts:111104  pts_time:9.04167
+lavfi.signalstats.YAVG=4.85358
+frame:217  pts:111616  pts_time:9.08333
+lavfi.signalstats.YAVG=5.61021
+frame:218  pts:112128  pts_time:9.125
+lavfi.signalstats.YAVG=1.87043
+frame:219  pts:112640  pts_time:9.16667
+lavfi.signalstats.YAVG=0.492972
+frame:220  pts:113152  pts_time:9.20833
+lavfi.signalstats.YAVG=5.01665
+frame:221  pts:113664  pts_time:9.25
+lavfi.signalstats.YAVG=5.39694
+frame:222  pts:114176  pts_time:9.29167
+lavfi.signalstats.YAVG=0.963625
+frame:223  pts:114688  pts_time:9.33333
+lavfi.signalstats.YAVG=0.605917
+frame:224  pts:115200  pts_time:9.375
+lavfi.signalstats.YAVG=0.661403
+frame:225  pts:115712  pts_time:9.41667
+lavfi.signalstats.YAVG=5.23935
+frame:226  pts:116224  pts_time:9.45833
+lavfi.signalstats.YAVG=4.40936
+frame:227  pts:116736  pts_time:9.5
+lavfi.signalstats.YAVG=1.40442
+frame:228  pts:117248  pts_time:9.54167
+lavfi.signalstats.YAVG=0.334069
+frame:229  pts:117760  pts_time:9.58333
+lavfi.signalstats.YAVG=4.17704
+frame:230  pts:118272  pts_time:9.625
+lavfi.signalstats.YAVG=3.69501
+frame:231  pts:118784  pts_time:9.66667
+lavfi.signalstats.YAVG=1.029
+frame:232  pts:119296  pts_time:9.70833
+lavfi.signalstats.YAVG=0.740222
+frame:233  pts:119808  pts_time:9.75
+lavfi.signalstats.YAVG=2.30033
+frame:234  pts:120320  pts_time:9.79167
+lavfi.signalstats.YAVG=0.243194
+frame:235  pts:120832  pts_time:9.83333
+lavfi.signalstats.YAVG=1.79672
+frame:236  pts:121344  pts_time:9.875
+lavfi.signalstats.YAVG=0.554875
+frame:237  pts:121856  pts_time:9.91667
+lavfi.signalstats.YAVG=0.428889
+frame:238  pts:122368  pts_time:9.95833
+lavfi.signalstats.YAVG=0.831778
+frame:239  pts:122880  pts_time:10
+lavfi.signalstats.YAVG=1.58497
+frame:240  pts:123392  pts_time:10.0417
+lavfi.signalstats.YAVG=0.0647639
+frame:241  pts:123904  pts_time:10.0833
+lavfi.signalstats.YAVG=0.0953194
+frame:242  pts:124416  pts_time:10.125
+lavfi.signalstats.YAVG=0.324153
+frame:243  pts:124928  pts_time:10.1667
+lavfi.signalstats.YAVG=0.430681
+frame:244  pts:125440  pts_time:10.2083
+lavfi.signalstats.YAVG=0.192528
+frame:245  pts:125952  pts_time:10.25
+lavfi.signalstats.YAVG=0.0480417
+frame:246  pts:126464  pts_time:10.2917
+lavfi.signalstats.YAVG=0.169833
+frame:247  pts:126976  pts_time:10.3333
+lavfi.signalstats.YAVG=0.308472
+frame:248  pts:127488  pts_time:10.375
+lavfi.signalstats.YAVG=0.127944
+frame:249  pts:128000  pts_time:10.4167
+lavfi.signalstats.YAVG=0.109014
+frame:250  pts:128512  pts_time:10.4583
+lavfi.signalstats.YAVG=0.145097
+frame:251  pts:129024  pts_time:10.5
+lavfi.signalstats.YAVG=0.0972222
+frame:252  pts:129536  pts_time:10.5417
+lavfi.signalstats.YAVG=0.330097
+frame:253  pts:130048  pts_time:10.5833
+lavfi.signalstats.YAVG=66.8652
+frame:254  pts:130560  pts_time:10.625
+lavfi.signalstats.YAVG=0.497653
+frame:255  pts:131072  pts_time:10.6667
+lavfi.signalstats.YAVG=0.765431
+frame:256  pts:131584  pts_time:10.7083
+lavfi.signalstats.YAVG=1.00732
+frame:257  pts:132096  pts_time:10.75
+lavfi.signalstats.YAVG=1.07375
+frame:258  pts:132608  pts_time:10.7917
+lavfi.signalstats.YAVG=1.53881
+frame:259  pts:133120  pts_time:10.8333
+lavfi.signalstats.YAVG=1.1234
+frame:260  pts:133632  pts_time:10.875
+lavfi.signalstats.YAVG=1.64929
+frame:261  pts:134144  pts_time:10.9167
+lavfi.signalstats.YAVG=1.63069
+frame:262  pts:134656  pts_time:10.9583
+lavfi.signalstats.YAVG=1.84964
+frame:263  pts:135168  pts_time:11
+lavfi.signalstats.YAVG=0.356694
+frame:264  pts:135680  pts_time:11.0417
+lavfi.signalstats.YAVG=2.06387
+frame:265  pts:136192  pts_time:11.0833
+lavfi.signalstats.YAVG=1.81676
+frame:266  pts:136704  pts_time:11.125
+lavfi.signalstats.YAVG=1.64786
+frame:267  pts:137216  pts_time:11.1667
+lavfi.signalstats.YAVG=0.997069
+frame:268  pts:137728  pts_time:11.2083
+lavfi.signalstats.YAVG=1.25882
+frame:269  pts:138240  pts_time:11.25
+lavfi.signalstats.YAVG=0.758944
+frame:270  pts:138752  pts_time:11.2917
+lavfi.signalstats.YAVG=1.73103
+frame:271  pts:139264  pts_time:11.3333
+lavfi.signalstats.YAVG=1.38053
+frame:272  pts:139776  pts_time:11.375
+lavfi.signalstats.YAVG=0.539611
+frame:273  pts:140288  pts_time:11.4167
+lavfi.signalstats.YAVG=0.925375
+frame:274  pts:140800  pts_time:11.4583
+lavfi.signalstats.YAVG=1.18036
+frame:275  pts:141312  pts_time:11.5
+lavfi.signalstats.YAVG=0.939222
+frame:276  pts:141824  pts_time:11.5417
+lavfi.signalstats.YAVG=0.537764
+frame:277  pts:142336  pts_time:11.5833
+lavfi.signalstats.YAVG=1.05285
+frame:278  pts:142848  pts_time:11.625
+lavfi.signalstats.YAVG=1.28382
+frame:279  pts:143360  pts_time:11.6667
+lavfi.signalstats.YAVG=0.426639
+frame:280  pts:143872  pts_time:11.7083
+lavfi.signalstats.YAVG=0.797639
+frame:281  pts:144384  pts_time:11.75
+lavfi.signalstats.YAVG=0.510931
+frame:282  pts:144896  pts_time:11.7917
+lavfi.signalstats.YAVG=0.995042
+frame:283  pts:145408  pts_time:11.8333
+lavfi.signalstats.YAVG=1.32865
+frame:284  pts:145920  pts_time:11.875
+lavfi.signalstats.YAVG=0.953417
+frame:285  pts:146432  pts_time:11.9167
+lavfi.signalstats.YAVG=0.778361
+frame:286  pts:146944  pts_time:11.9583
+lavfi.signalstats.YAVG=1.09271
+frame:287  pts:147456  pts_time:12
+lavfi.signalstats.YAVG=1.51454
+frame:288  pts:147968  pts_time:12.0417
+lavfi.signalstats.YAVG=0.890361
+frame:289  pts:148480  pts_time:12.0833
+lavfi.signalstats.YAVG=0.746014
+frame:290  pts:148992  pts_time:12.125
+lavfi.signalstats.YAVG=0.993528
+frame:291  pts:149504  pts_time:12.1667
+lavfi.signalstats.YAVG=1.42783
+frame:292  pts:150016  pts_time:12.2083
+lavfi.signalstats.YAVG=2.16017
+frame:293  pts:150528  pts_time:12.25
+lavfi.signalstats.YAVG=1.68742
+frame:294  pts:151040  pts_time:12.2917
+lavfi.signalstats.YAVG=1.40629
+frame:295  pts:151552  pts_time:12.3333
+lavfi.signalstats.YAVG=1.47289
+frame:296  pts:152064  pts_time:12.375
+lavfi.signalstats.YAVG=2.07192
+frame:297  pts:152576  pts_time:12.4167
+lavfi.signalstats.YAVG=1.54144
+frame:298  pts:153088  pts_time:12.4583
+lavfi.signalstats.YAVG=0.766472
+frame:299  pts:153600  pts_time:12.5
+lavfi.signalstats.YAVG=1.2269
+frame:300  pts:154112  pts_time:12.5417
+lavfi.signalstats.YAVG=1.68008
+frame:301  pts:154624  pts_time:12.5833
+lavfi.signalstats.YAVG=2.16579
+frame:302  pts:155136  pts_time:12.625
+lavfi.signalstats.YAVG=1.2015
+frame:303  pts:155648  pts_time:12.6667
+lavfi.signalstats.YAVG=1.11835
+frame:304  pts:156160  pts_time:12.7083
+lavfi.signalstats.YAVG=0.606819
+frame:305  pts:156672  pts_time:12.75
+lavfi.signalstats.YAVG=0.898722
+frame:306  pts:157184  pts_time:12.7917
+lavfi.signalstats.YAVG=0.433417
+frame:307  pts:157696  pts_time:12.8333
+lavfi.signalstats.YAVG=0.421083
+frame:308  pts:158208  pts_time:12.875
+lavfi.signalstats.YAVG=0.591542
+frame:309  pts:158720  pts_time:12.9167
+lavfi.signalstats.YAVG=0.660917
+frame:310  pts:159232  pts_time:12.9583
+lavfi.signalstats.YAVG=0.328833
+frame:311  pts:159744  pts_time:13
+lavfi.signalstats.YAVG=0.375583
+frame:312  pts:160256  pts_time:13.0417
+lavfi.signalstats.YAVG=0.476014
+frame:313  pts:160768  pts_time:13.0833
+lavfi.signalstats.YAVG=0.322736
+frame:314  pts:161280  pts_time:13.125
+lavfi.signalstats.YAVG=0.453236
+frame:315  pts:161792  pts_time:13.1667
+lavfi.signalstats.YAVG=0.390528
+frame:316  pts:162304  pts_time:13.2083
+lavfi.signalstats.YAVG=0.34475
+frame:317  pts:162816  pts_time:13.25
+lavfi.signalstats.YAVG=0.330681
+frame:318  pts:163328  pts_time:13.2917
+lavfi.signalstats.YAVG=0.718778
+frame:319  pts:163840  pts_time:13.3333
+lavfi.signalstats.YAVG=0.718069
+frame:320  pts:164352  pts_time:13.375
+lavfi.signalstats.YAVG=0.691667
+frame:321  pts:164864  pts_time:13.4167
+lavfi.signalstats.YAVG=0.403417
+frame:322  pts:165376  pts_time:13.4583
+lavfi.signalstats.YAVG=0.608556
+frame:323  pts:165888  pts_time:13.5
+lavfi.signalstats.YAVG=0.507847
+frame:324  pts:166400  pts_time:13.5417
+lavfi.signalstats.YAVG=1.24085
+frame:325  pts:166912  pts_time:13.5833
+lavfi.signalstats.YAVG=0.969111
+frame:326  pts:167424  pts_time:13.625
+lavfi.signalstats.YAVG=1.04278
+frame:327  pts:167936  pts_time:13.6667
+lavfi.signalstats.YAVG=0.468986
+frame:328  pts:168448  pts_time:13.7083
+lavfi.signalstats.YAVG=62.666
+frame:329  pts:168960  pts_time:13.75
+lavfi.signalstats.YAVG=0.316056
+frame:330  pts:169472  pts_time:13.7917
+lavfi.signalstats.YAVG=1.02765
+frame:331  pts:169984  pts_time:13.8333
+lavfi.signalstats.YAVG=0.775486
+frame:332  pts:170496  pts_time:13.875
+lavfi.signalstats.YAVG=0.671292
+frame:333  pts:171008  pts_time:13.9167
+lavfi.signalstats.YAVG=0.311847
+frame:334  pts:171520  pts_time:13.9583
+lavfi.signalstats.YAVG=0.825861
+frame:335  pts:172032  pts_time:14
+lavfi.signalstats.YAVG=0.71175
+frame:336  pts:172544  pts_time:14.0417
+lavfi.signalstats.YAVG=1.1684
+frame:337  pts:173056  pts_time:14.0833
+lavfi.signalstats.YAVG=1.10997
+frame:338  pts:173568  pts_time:14.125
+lavfi.signalstats.YAVG=0.562764
+frame:339  pts:174080  pts_time:14.1667
+lavfi.signalstats.YAVG=0.428264
+frame:340  pts:174592  pts_time:14.2083
+lavfi.signalstats.YAVG=1.0986
+frame:341  pts:175104  pts_time:14.25
+lavfi.signalstats.YAVG=0.831069
+frame:342  pts:175616  pts_time:14.2917
+lavfi.signalstats.YAVG=0.488722
+frame:343  pts:176128  pts_time:14.3333
+lavfi.signalstats.YAVG=0.723764
+frame:344  pts:176640  pts_time:14.375
+lavfi.signalstats.YAVG=2.33919
+frame:345  pts:177152  pts_time:14.4167
+lavfi.signalstats.YAVG=0.304306
+frame:346  pts:177664  pts_time:14.4583
+lavfi.signalstats.YAVG=1.23046
+frame:347  pts:178176  pts_time:14.5
+lavfi.signalstats.YAVG=0.448611
+frame:348  pts:178688  pts_time:14.5417
+lavfi.signalstats.YAVG=3.89658
+frame:349  pts:179200  pts_time:14.5833
+lavfi.signalstats.YAVG=5.57065
+frame:350  pts:179712  pts_time:14.625
+lavfi.signalstats.YAVG=1.92119
+frame:351  pts:180224  pts_time:14.6667
+lavfi.signalstats.YAVG=0.513278
+frame:352  pts:180736  pts_time:14.7083
+lavfi.signalstats.YAVG=3.01047
+frame:353  pts:181248  pts_time:14.75
+lavfi.signalstats.YAVG=5.34624
+frame:354  pts:181760  pts_time:14.7917
+lavfi.signalstats.YAVG=3.23357
+frame:355  pts:182272  pts_time:14.8333
+lavfi.signalstats.YAVG=0.467347
+frame:356  pts:182784  pts_time:14.875
+lavfi.signalstats.YAVG=0.792889
+frame:357  pts:183296  pts_time:14.9167
+lavfi.signalstats.YAVG=2.36693
+frame:358  pts:183808  pts_time:14.9583
+lavfi.signalstats.YAVG=5.00444
+frame:359  pts:184320  pts_time:15
+lavfi.signalstats.YAVG=3.44125
+frame:360  pts:184832  pts_time:15.0417
+lavfi.signalstats.YAVG=0.581208
+frame:361  pts:185344  pts_time:15.0833
+lavfi.signalstats.YAVG=3.52444
+frame:362  pts:185856  pts_time:15.125
+lavfi.signalstats.YAVG=5.52524
+frame:363  pts:186368  pts_time:15.1667
+lavfi.signalstats.YAVG=3.02093
+frame:364  pts:186880  pts_time:15.2083
+lavfi.signalstats.YAVG=1.0036
+frame:365  pts:187392  pts_time:15.25
+lavfi.signalstats.YAVG=4.11735
+frame:366  pts:187904  pts_time:15.2917
+lavfi.signalstats.YAVG=6.99014
+frame:367  pts:188416  pts_time:15.3333
+lavfi.signalstats.YAVG=0.823
+frame:368  pts:188928  pts_time:15.375
+lavfi.signalstats.YAVG=2.47472
+frame:369  pts:189440  pts_time:15.4167
+lavfi.signalstats.YAVG=0.984069
+frame:370  pts:189952  pts_time:15.4583
+lavfi.signalstats.YAVG=5.66382
+frame:371  pts:190464  pts_time:15.5
+lavfi.signalstats.YAVG=7.92008
+frame:372  pts:190976  pts_time:15.5417
+lavfi.signalstats.YAVG=3.97536
+frame:373  pts:191488  pts_time:15.5833
+lavfi.signalstats.YAVG=0.563806
+frame:374  pts:192000  pts_time:15.625
+lavfi.signalstats.YAVG=7.3709
+frame:375  pts:192512  pts_time:15.6667
+lavfi.signalstats.YAVG=9.763
+frame:376  pts:193024  pts_time:15.7083
+lavfi.signalstats.YAVG=5.65651
+frame:377  pts:193536  pts_time:15.75
+lavfi.signalstats.YAVG=0.644292
+frame:378  pts:194048  pts_time:15.7917
+lavfi.signalstats.YAVG=8.8251
+frame:379  pts:194560  pts_time:15.8333
+lavfi.signalstats.YAVG=0.284875
+frame:380  pts:195072  pts_time:15.875
+lavfi.signalstats.YAVG=10.2851
+frame:381  pts:195584  pts_time:15.9167
+lavfi.signalstats.YAVG=9.49611
+frame:382  pts:196096  pts_time:15.9583
+lavfi.signalstats.YAVG=0.702708
+frame:383  pts:196608  pts_time:16
+lavfi.signalstats.YAVG=11.0337
+frame:384  pts:197120  pts_time:16.0417
+lavfi.signalstats.YAVG=8.82361
+frame:385  pts:197632  pts_time:16.0833
+lavfi.signalstats.YAVG=9.53388
+frame:386  pts:198144  pts_time:16.125
+lavfi.signalstats.YAVG=0.886167
+frame:387  pts:198656  pts_time:16.1667
+lavfi.signalstats.YAVG=11.5654
+frame:388  pts:199168  pts_time:16.2083
+lavfi.signalstats.YAVG=10.2858
+frame:389  pts:199680  pts_time:16.25
+lavfi.signalstats.YAVG=7.80537
+frame:390  pts:200192  pts_time:16.2917
+lavfi.signalstats.YAVG=0.501625
+frame:391  pts:200704  pts_time:16.3333
+lavfi.signalstats.YAVG=0.575028
+frame:392  pts:201216  pts_time:16.375
+lavfi.signalstats.YAVG=7.03483
+frame:393  pts:201728  pts_time:16.4167
+lavfi.signalstats.YAVG=11.2979
+frame:394  pts:202240  pts_time:16.4583
+lavfi.signalstats.YAVG=7.51981
+frame:395  pts:202752  pts_time:16.5
+lavfi.signalstats.YAVG=1.52779
+frame:396  pts:203264  pts_time:16.5417
+lavfi.signalstats.YAVG=7.00168
+frame:397  pts:203776  pts_time:16.5833
+lavfi.signalstats.YAVG=10.8682
+frame:398  pts:204288  pts_time:16.625
+lavfi.signalstats.YAVG=7.22451
+frame:399  pts:204800  pts_time:16.6667
+lavfi.signalstats.YAVG=0.743014
+frame:400  pts:205312  pts_time:16.7083
+lavfi.signalstats.YAVG=7.21762
+frame:401  pts:205824  pts_time:16.75
+lavfi.signalstats.YAVG=0.241597
+frame:402  pts:206336  pts_time:16.7917
+lavfi.signalstats.YAVG=10.7308
+frame:403  pts:206848  pts_time:16.8333
+lavfi.signalstats.YAVG=7.43749
+frame:404  pts:207360  pts_time:16.875
+lavfi.signalstats.YAVG=0.849903
+frame:405  pts:207872  pts_time:16.9167
+lavfi.signalstats.YAVG=7.39068
+frame:406  pts:208384  pts_time:16.9583
+lavfi.signalstats.YAVG=10.5499
+frame:407  pts:208896  pts_time:17
+lavfi.signalstats.YAVG=6.5391
+frame:408  pts:209408  pts_time:17.0417
+lavfi.signalstats.YAVG=0.554083
+frame:409  pts:209920  pts_time:17.0833
+lavfi.signalstats.YAVG=6.09353
+frame:410  pts:210432  pts_time:17.125
+lavfi.signalstats.YAVG=8.99304
+frame:411  pts:210944  pts_time:17.1667
+lavfi.signalstats.YAVG=5.57182
+frame:412  pts:211456  pts_time:17.2083
+lavfi.signalstats.YAVG=0.283125
+frame:413  pts:211968  pts_time:17.25
+lavfi.signalstats.YAVG=0.215306
+frame:414  pts:212480  pts_time:17.2917
+lavfi.signalstats.YAVG=5.12312
+frame:415  pts:212992  pts_time:17.3333
+lavfi.signalstats.YAVG=7.59964
+frame:416  pts:213504  pts_time:17.375
+lavfi.signalstats.YAVG=4.12579
+frame:417  pts:214016  pts_time:17.4167
+lavfi.signalstats.YAVG=0.277389
+frame:418  pts:214528  pts_time:17.4583
+lavfi.signalstats.YAVG=3.80007
+frame:419  pts:215040  pts_time:17.5
+lavfi.signalstats.YAVG=5.97729
+frame:420  pts:215552  pts_time:17.5417
+lavfi.signalstats.YAVG=2.94649
+frame:421  pts:216064  pts_time:17.5833
+lavfi.signalstats.YAVG=0.340889
+frame:422  pts:216576  pts_time:17.625
+lavfi.signalstats.YAVG=2.79865
+frame:423  pts:217088  pts_time:17.6667
+lavfi.signalstats.YAVG=0.23325
+frame:424  pts:217600  pts_time:17.7083
+lavfi.signalstats.YAVG=3.93553
+frame:425  pts:218112  pts_time:17.75
+lavfi.signalstats.YAVG=1.85579
+frame:426  pts:218624  pts_time:17.7917
+lavfi.signalstats.YAVG=0.786417
+frame:427  pts:219136  pts_time:17.8333
+lavfi.signalstats.YAVG=1.25647
+frame:428  pts:219648  pts_time:17.875
+lavfi.signalstats.YAVG=1.79731
+frame:429  pts:220160  pts_time:17.9167
+lavfi.signalstats.YAVG=0.943236
+frame:430  pts:220672  pts_time:17.9583
+lavfi.signalstats.YAVG=0.545944
+frame:431  pts:221184  pts_time:18
+lavfi.signalstats.YAVG=0.898806
+frame:432  pts:221696  pts_time:18.0417
+lavfi.signalstats.YAVG=73.9745
+frame:433  pts:222208  pts_time:18.0833
+lavfi.signalstats.YAVG=1.11058
+frame:434  pts:222720  pts_time:18.125
+lavfi.signalstats.YAVG=0.355389
+frame:435  pts:223232  pts_time:18.1667
+lavfi.signalstats.YAVG=0.389069
+frame:436  pts:223744  pts_time:18.2083
+lavfi.signalstats.YAVG=2.31992
+frame:437  pts:224256  pts_time:18.25
+lavfi.signalstats.YAVG=7.85803
+frame:438  pts:224768  pts_time:18.2917
+lavfi.signalstats.YAVG=0.373222
+frame:439  pts:225280  pts_time:18.3333
+lavfi.signalstats.YAVG=0.332681
+frame:440  pts:225792  pts_time:18.375
+lavfi.signalstats.YAVG=12.5889
+frame:441  pts:226304  pts_time:18.4167
+lavfi.signalstats.YAVG=14.6636
+frame:442  pts:226816  pts_time:18.4583
+lavfi.signalstats.YAVG=2.01826
+frame:443  pts:227328  pts_time:18.5
+lavfi.signalstats.YAVG=0.313903
+frame:444  pts:227840  pts_time:18.5417
+lavfi.signalstats.YAVG=7.78282
+frame:445  pts:228352  pts_time:18.5833
+lavfi.signalstats.YAVG=0.161806
+frame:446  pts:228864  pts_time:18.625
+lavfi.signalstats.YAVG=7.29204
+frame:447  pts:229376  pts_time:18.6667
+lavfi.signalstats.YAVG=0.332222
+frame:448  pts:229888  pts_time:18.7083
+lavfi.signalstats.YAVG=0.247167
+frame:449  pts:230400  pts_time:18.75
+lavfi.signalstats.YAVG=6.65239
+frame:450  pts:230912  pts_time:18.7917
+lavfi.signalstats.YAVG=7.97779
+frame:451  pts:231424  pts_time:18.8333
+lavfi.signalstats.YAVG=0.354083
+frame:452  pts:231936  pts_time:18.875
+lavfi.signalstats.YAVG=0.543819
+frame:453  pts:232448  pts_time:18.9167
+lavfi.signalstats.YAVG=11.2857
+frame:454  pts:232960  pts_time:18.9583
+lavfi.signalstats.YAVG=12.7113
+frame:455  pts:233472  pts_time:19
+lavfi.signalstats.YAVG=5.70465
+frame:456  pts:233984  pts_time:19.0417
+lavfi.signalstats.YAVG=0.144861
+frame:457  pts:234496  pts_time:19.0833
+lavfi.signalstats.YAVG=0.137903
+frame:458  pts:235008  pts_time:19.125
+lavfi.signalstats.YAVG=12.8479
+frame:459  pts:235520  pts_time:19.1667
+lavfi.signalstats.YAVG=15.2156
+frame:460  pts:236032  pts_time:19.2083
+lavfi.signalstats.YAVG=14.4313
+frame:461  pts:236544  pts_time:19.25
+lavfi.signalstats.YAVG=0.653722
+frame:462  pts:237056  pts_time:19.2917
+lavfi.signalstats.YAVG=14.3867
+frame:463  pts:237568  pts_time:19.3333
+lavfi.signalstats.YAVG=19.1647
+frame:464  pts:238080  pts_time:19.375
+lavfi.signalstats.YAVG=17.63
+frame:465  pts:238592  pts_time:19.4167
+lavfi.signalstats.YAVG=0.960958
+frame:466  pts:239104  pts_time:19.4583
+lavfi.signalstats.YAVG=17.591
+frame:467  pts:239616  pts_time:19.5
+lavfi.signalstats.YAVG=0.327681
+frame:468  pts:240128  pts_time:19.5417
+lavfi.signalstats.YAVG=24.034
+frame:469  pts:240640  pts_time:19.5833
+lavfi.signalstats.YAVG=18.3185
+frame:470  pts:241152  pts_time:19.625
+lavfi.signalstats.YAVG=0.866667
+frame:471  pts:241664  pts_time:19.6667
+lavfi.signalstats.YAVG=23.3724
+frame:472  pts:242176  pts_time:19.7083
+lavfi.signalstats.YAVG=31.7572
+frame:473  pts:242688  pts_time:19.75
+lavfi.signalstats.YAVG=22.5234
+frame:474  pts:243200  pts_time:19.7917
+lavfi.signalstats.YAVG=0.430278
+frame:475  pts:243712  pts_time:19.8333
+lavfi.signalstats.YAVG=19.5922
+frame:476  pts:244224  pts_time:19.875
+lavfi.signalstats.YAVG=23.874
+frame:477  pts:244736  pts_time:19.9167
+lavfi.signalstats.YAVG=18.0356
+frame:478  pts:245248  pts_time:19.9583
+lavfi.signalstats.YAVG=0.633069
+frame:479  pts:245760  pts_time:20
+lavfi.signalstats.YAVG=1.44528
+frame:480  pts:246272  pts_time:20.0417
+lavfi.signalstats.YAVG=17.063
+frame:481  pts:246784  pts_time:20.0833
+lavfi.signalstats.YAVG=21.461
+frame:482  pts:247296  pts_time:20.125
+lavfi.signalstats.YAVG=15.1858
+frame:483  pts:247808  pts_time:20.1667
+lavfi.signalstats.YAVG=0.808958
+frame:484  pts:248320  pts_time:20.2083
+lavfi.signalstats.YAVG=15.5505
+frame:485  pts:248832  pts_time:20.25
+lavfi.signalstats.YAVG=19.9476
+frame:486  pts:249344  pts_time:20.2917
+lavfi.signalstats.YAVG=13.0996
+frame:487  pts:249856  pts_time:20.3333
+lavfi.signalstats.YAVG=0.862167
+frame:488  pts:250368  pts_time:20.375
+lavfi.signalstats.YAVG=12.1679
+frame:489  pts:250880  pts_time:20.4167
+lavfi.signalstats.YAVG=15.488
+frame:490  pts:251392  pts_time:20.4583
+lavfi.signalstats.YAVG=0.157444
+frame:491  pts:251904  pts_time:20.5
+lavfi.signalstats.YAVG=9.18487
+frame:492  pts:252416  pts_time:20.5417
+lavfi.signalstats.YAVG=0.556708
+frame:493  pts:252928  pts_time:20.5833
+lavfi.signalstats.YAVG=8.74579
+frame:494  pts:253440  pts_time:20.625
+lavfi.signalstats.YAVG=10.9419
+frame:495  pts:253952  pts_time:20.6667
+lavfi.signalstats.YAVG=5.67057
+frame:496  pts:254464  pts_time:20.7083
+lavfi.signalstats.YAVG=0.684042
+frame:497  pts:254976  pts_time:20.75
+lavfi.signalstats.YAVG=4.47743
+frame:498  pts:255488  pts_time:20.7917
+lavfi.signalstats.YAVG=5.83611
+frame:499  pts:256000  pts_time:20.8333
+lavfi.signalstats.YAVG=3.16986
+frame:500  pts:256512  pts_time:20.875
+lavfi.signalstats.YAVG=0.594917
+frame:501  pts:257024  pts_time:20.9167
+lavfi.signalstats.YAVG=0.556792
+frame:502  pts:257536  pts_time:20.9583
+lavfi.signalstats.YAVG=2.43601
+frame:503  pts:258048  pts_time:21
+lavfi.signalstats.YAVG=2.88888
+frame:504  pts:258560  pts_time:21.0417
+lavfi.signalstats.YAVG=1.2146
+frame:505  pts:259072  pts_time:21.0833
+lavfi.signalstats.YAVG=0.607042
+frame:506  pts:259584  pts_time:21.125
+lavfi.signalstats.YAVG=1.29371
+frame:507  pts:260096  pts_time:21.1667
+lavfi.signalstats.YAVG=1.41417
+frame:508  pts:260608  pts_time:21.2083
+lavfi.signalstats.YAVG=0.577681
+frame:509  pts:261120  pts_time:21.25
+lavfi.signalstats.YAVG=0.409361
+frame:510  pts:261632  pts_time:21.2917
+lavfi.signalstats.YAVG=1.15696
+frame:511  pts:262144  pts_time:21.3333
+lavfi.signalstats.YAVG=0.755
+frame:512  pts:262656  pts_time:21.375
+lavfi.signalstats.YAVG=0.226139
+frame:513  pts:263168  pts_time:21.4167
+lavfi.signalstats.YAVG=0.221861
+frame:514  pts:263680  pts_time:21.4583
+lavfi.signalstats.YAVG=0.179792
+frame:515  pts:264192  pts_time:21.5
+lavfi.signalstats.YAVG=0.943444
+frame:516  pts:264704  pts_time:21.5417
+lavfi.signalstats.YAVG=1.19128
+frame:517  pts:265216  pts_time:21.5833
+lavfi.signalstats.YAVG=0.215583
+frame:518  pts:265728  pts_time:21.625
+lavfi.signalstats.YAVG=0.132542
+frame:519  pts:266240  pts_time:21.6667
+lavfi.signalstats.YAVG=0.688097
+frame:520  pts:266752  pts_time:21.7083
+lavfi.signalstats.YAVG=0.380389
+frame:521  pts:267264  pts_time:21.75
+lavfi.signalstats.YAVG=0.270153
+frame:522  pts:267776  pts_time:21.7917
+lavfi.signalstats.YAVG=0.427847
+frame:523  pts:268288  pts_time:21.8333
+lavfi.signalstats.YAVG=0.370903
+frame:524  pts:268800  pts_time:21.875
+lavfi.signalstats.YAVG=0.241236
+frame:525  pts:269312  pts_time:21.9167
+lavfi.signalstats.YAVG=0.163903
+frame:526  pts:269824  pts_time:21.9583
+lavfi.signalstats.YAVG=0.141556
+frame:527  pts:270336  pts_time:22
+lavfi.signalstats.YAVG=0.353931
+frame:528  pts:270848  pts_time:22.0417
+lavfi.signalstats.YAVG=0.275375
+frame:529  pts:271360  pts_time:22.0833
+lavfi.signalstats.YAVG=85.6424
+frame:530  pts:271872  pts_time:22.125
+lavfi.signalstats.YAVG=15.8834
+frame:531  pts:272384  pts_time:22.1667
+lavfi.signalstats.YAVG=0.719361
+frame:532  pts:272896  pts_time:22.2083
+lavfi.signalstats.YAVG=11.9792
+frame:533  pts:273408  pts_time:22.25
+lavfi.signalstats.YAVG=21.2718
+frame:534  pts:273920  pts_time:22.2917
+lavfi.signalstats.YAVG=0.458125
+frame:535  pts:274432  pts_time:22.3333
+lavfi.signalstats.YAVG=19.3783
+frame:536  pts:274944  pts_time:22.375
+lavfi.signalstats.YAVG=0.503097
+frame:537  pts:275456  pts_time:22.4167
+lavfi.signalstats.YAVG=20.3844
+frame:538  pts:275968  pts_time:22.4583
+lavfi.signalstats.YAVG=19.5006
+frame:539  pts:276480  pts_time:22.5
+lavfi.signalstats.YAVG=13.2577
+frame:540  pts:276992  pts_time:22.5417
+lavfi.signalstats.YAVG=0.652319
+frame:541  pts:277504  pts_time:22.5833
+lavfi.signalstats.YAVG=20.0206
+frame:542  pts:278016  pts_time:22.625
+lavfi.signalstats.YAVG=24.2086
+frame:543  pts:278528  pts_time:22.6667
+lavfi.signalstats.YAVG=10.0753
+frame:544  pts:279040  pts_time:22.7083
+lavfi.signalstats.YAVG=0.162347
+frame:545  pts:279552  pts_time:22.75
+lavfi.signalstats.YAVG=0.105833
+frame:546  pts:280064  pts_time:22.7917
+lavfi.signalstats.YAVG=21.9493
+frame:547  pts:280576  pts_time:22.8333
+lavfi.signalstats.YAVG=25.4311
+frame:548  pts:281088  pts_time:22.875
+lavfi.signalstats.YAVG=5.29756
+frame:549  pts:281600  pts_time:22.9167
+lavfi.signalstats.YAVG=0.472278
+frame:550  pts:282112  pts_time:22.9583
+lavfi.signalstats.YAVG=29.704
+frame:551  pts:282624  pts_time:23
+lavfi.signalstats.YAVG=19.7196
+frame:552  pts:283136  pts_time:23.0417
+lavfi.signalstats.YAVG=14.6872
+frame:553  pts:283648  pts_time:23.0833
+lavfi.signalstats.YAVG=0.266472
+frame:554  pts:284160  pts_time:23.125
+lavfi.signalstats.YAVG=22.7008
+frame:555  pts:284672  pts_time:23.1667
+lavfi.signalstats.YAVG=16.1634
+frame:556  pts:285184  pts_time:23.2083
+lavfi.signalstats.YAVG=0.181153
+frame:557  pts:285696  pts_time:23.25
+lavfi.signalstats.YAVG=13.8885
+frame:558  pts:286208  pts_time:23.2917
+lavfi.signalstats.YAVG=0.270431
+frame:559  pts:286720  pts_time:23.3333
+lavfi.signalstats.YAVG=11.9339
+frame:560  pts:287232  pts_time:23.375
+lavfi.signalstats.YAVG=12.4167
+frame:561  pts:287744  pts_time:23.4167
+lavfi.signalstats.YAVG=6.55808
+frame:562  pts:288256  pts_time:23.4583
+lavfi.signalstats.YAVG=0.593528
+frame:563  pts:288768  pts_time:23.5
+lavfi.signalstats.YAVG=11.2493
+frame:564  pts:289280  pts_time:23.5417
+lavfi.signalstats.YAVG=10.9536
+frame:565  pts:289792  pts_time:23.5833
+lavfi.signalstats.YAVG=5.01569
+frame:566  pts:290304  pts_time:23.625
+lavfi.signalstats.YAVG=0.661708
+frame:567  pts:290816  pts_time:23.6667
+lavfi.signalstats.YAVG=0.162361
+frame:568  pts:291328  pts_time:23.7083
+lavfi.signalstats.YAVG=8.72985
+frame:569  pts:291840  pts_time:23.75
+lavfi.signalstats.YAVG=8.70476
+frame:570  pts:292352  pts_time:23.7917
+lavfi.signalstats.YAVG=4.4649
+frame:571  pts:292864  pts_time:23.8333
+lavfi.signalstats.YAVG=0.691333
+frame:572  pts:293376  pts_time:23.875
+lavfi.signalstats.YAVG=11.6309
+frame:573  pts:293888  pts_time:23.9167
+lavfi.signalstats.YAVG=9.38186
+frame:574  pts:294400  pts_time:23.9583
+lavfi.signalstats.YAVG=1.14046
+frame:575  pts:294912  pts_time:24
+lavfi.signalstats.YAVG=0.837194
+frame:576  pts:295424  pts_time:24.0417
+lavfi.signalstats.YAVG=1.69738
+frame:577  pts:295936  pts_time:24.0833
+lavfi.signalstats.YAVG=2.01381
+frame:578  pts:296448  pts_time:24.125
+lavfi.signalstats.YAVG=1.13914
+frame:579  pts:296960  pts_time:24.1667
+lavfi.signalstats.YAVG=0.313444
+frame:580  pts:297472  pts_time:24.2083
+lavfi.signalstats.YAVG=0.885319
+frame:581  pts:297984  pts_time:24.25
+lavfi.signalstats.YAVG=1.33808
+frame:582  pts:298496  pts_time:24.2917
+lavfi.signalstats.YAVG=1.20682
+frame:583  pts:299008  pts_time:24.3333
+lavfi.signalstats.YAVG=1.46707
+frame:584  pts:299520  pts_time:24.375
+lavfi.signalstats.YAVG=0.905986
+frame:585  pts:300032  pts_time:24.4167
+lavfi.signalstats.YAVG=0.817361
+frame:586  pts:300544  pts_time:24.4583
+lavfi.signalstats.YAVG=0.811764
+frame:587  pts:301056  pts_time:24.5
+lavfi.signalstats.YAVG=0.933722
+frame:588  pts:301568  pts_time:24.5417
+lavfi.signalstats.YAVG=0.561167
+frame:589  pts:302080  pts_time:24.5833
+lavfi.signalstats.YAVG=0.486139
+frame:590  pts:302592  pts_time:24.625
+lavfi.signalstats.YAVG=0.469694
+frame:591  pts:303104  pts_time:24.6667
+lavfi.signalstats.YAVG=0.534569
+frame:592  pts:303616  pts_time:24.7083
+lavfi.signalstats.YAVG=0.449708
+frame:593  pts:304128  pts_time:24.75
+lavfi.signalstats.YAVG=0.388847
+frame:594  pts:304640  pts_time:24.7917
+lavfi.signalstats.YAVG=0.720958
+frame:595  pts:305152  pts_time:24.8333
+lavfi.signalstats.YAVG=0.787722
+frame:596  pts:305664  pts_time:24.875
+lavfi.signalstats.YAVG=0.565875
+frame:597  pts:306176  pts_time:24.9167
+lavfi.signalstats.YAVG=0.302264
+frame:598  pts:306688  pts_time:24.9583
+lavfi.signalstats.YAVG=0.534222
+frame:599  pts:307200  pts_time:25
+lavfi.signalstats.YAVG=1.60638
+frame:600  pts:307712  pts_time:25.0417
+lavfi.signalstats.YAVG=0.893653
+frame:601  pts:308224  pts_time:25.0833
+lavfi.signalstats.YAVG=0.659278
+frame:602  pts:308736  pts_time:25.125
+lavfi.signalstats.YAVG=0.342819
+frame:603  pts:309248  pts_time:25.1667
+lavfi.signalstats.YAVG=0.465889
+frame:604  pts:309760  pts_time:25.2083
+lavfi.signalstats.YAVG=0.886847
+frame:605  pts:310272  pts_time:25.25
+lavfi.signalstats.YAVG=0.578528
+frame:606  pts:310784  pts_time:25.2917
+lavfi.signalstats.YAVG=57.4248
+frame:607  pts:311296  pts_time:25.3333
+lavfi.signalstats.YAVG=0.420944
+frame:608  pts:311808  pts_time:25.375
+lavfi.signalstats.YAVG=1.26246
+frame:609  pts:312320  pts_time:25.4167
+lavfi.signalstats.YAVG=1.12733
+frame:610  pts:312832  pts_time:25.4583
+lavfi.signalstats.YAVG=1.45896
+frame:611  pts:313344  pts_time:25.5
+lavfi.signalstats.YAVG=1.08621
+frame:612  pts:313856  pts_time:25.5417
+lavfi.signalstats.YAVG=0.336028
+frame:613  pts:314368  pts_time:25.5833
+lavfi.signalstats.YAVG=1.27204
+frame:614  pts:314880  pts_time:25.625
+lavfi.signalstats.YAVG=0.879903
+frame:615  pts:315392  pts_time:25.6667
+lavfi.signalstats.YAVG=1.75513
+frame:616  pts:315904  pts_time:25.7083
+lavfi.signalstats.YAVG=1.10954
+frame:617  pts:316416  pts_time:25.75
+lavfi.signalstats.YAVG=1.90362
+frame:618  pts:316928  pts_time:25.7917
+lavfi.signalstats.YAVG=0.964056
+frame:619  pts:317440  pts_time:25.8333
+lavfi.signalstats.YAVG=2.00406
+frame:620  pts:317952  pts_time:25.875
+lavfi.signalstats.YAVG=0.995708
+frame:621  pts:318464  pts_time:25.9167
+lavfi.signalstats.YAVG=2.19122
+frame:622  pts:318976  pts_time:25.9583
+lavfi.signalstats.YAVG=0.309681
+frame:623  pts:319488  pts_time:26
+lavfi.signalstats.YAVG=1.16144
+frame:624  pts:320000  pts_time:26.0417
+lavfi.signalstats.YAVG=2.84843
+frame:625  pts:320512  pts_time:26.0833
+lavfi.signalstats.YAVG=1.27871
+frame:626  pts:321024  pts_time:26.125
+lavfi.signalstats.YAVG=2.69278
+frame:627  pts:321536  pts_time:26.1667
+lavfi.signalstats.YAVG=1.42394
+frame:628  pts:322048  pts_time:26.2083
+lavfi.signalstats.YAVG=2.8684
+frame:629  pts:322560  pts_time:26.25
+lavfi.signalstats.YAVG=1.45999
+frame:630  pts:323072  pts_time:26.2917
+lavfi.signalstats.YAVG=2.59779
+frame:631  pts:323584  pts_time:26.3333
+lavfi.signalstats.YAVG=1.58811
+frame:632  pts:324096  pts_time:26.375
+lavfi.signalstats.YAVG=0.291264
+frame:633  pts:324608  pts_time:26.4167
+lavfi.signalstats.YAVG=2.13693
+frame:634  pts:325120  pts_time:26.4583
+lavfi.signalstats.YAVG=2.13265
+frame:635  pts:325632  pts_time:26.5
+lavfi.signalstats.YAVG=2.27061
+frame:636  pts:326144  pts_time:26.5417
+lavfi.signalstats.YAVG=1.29783
+frame:637  pts:326656  pts_time:26.5833
+lavfi.signalstats.YAVG=1.90857
+frame:638  pts:327168  pts_time:26.625
+lavfi.signalstats.YAVG=1.08561
+frame:639  pts:327680  pts_time:26.6667
+lavfi.signalstats.YAVG=1.62549
+frame:640  pts:328192  pts_time:26.7083
+lavfi.signalstats.YAVG=1.77032
+frame:641  pts:328704  pts_time:26.75
+lavfi.signalstats.YAVG=2.74769
+frame:642  pts:329216  pts_time:26.7917
+lavfi.signalstats.YAVG=0.632236
+frame:643  pts:329728  pts_time:26.8333
+lavfi.signalstats.YAVG=1.18214
+frame:644  pts:330240  pts_time:26.875
+lavfi.signalstats.YAVG=2.42537
+frame:645  pts:330752  pts_time:26.9167
+lavfi.signalstats.YAVG=1.59711
+frame:646  pts:331264  pts_time:26.9583
+lavfi.signalstats.YAVG=2.2156
+frame:647  pts:331776  pts_time:27
+lavfi.signalstats.YAVG=1.81232
+frame:648  pts:332288  pts_time:27.0417
+lavfi.signalstats.YAVG=4.7341
+frame:649  pts:332800  pts_time:27.0833
+lavfi.signalstats.YAVG=1.20396
+frame:650  pts:333312  pts_time:27.125
+lavfi.signalstats.YAVG=4.67365
+frame:651  pts:333824  pts_time:27.1667
+lavfi.signalstats.YAVG=1.25122
+frame:652  pts:334336  pts_time:27.2083
+lavfi.signalstats.YAVG=0.120292
+frame:653  pts:334848  pts_time:27.25
+lavfi.signalstats.YAVG=5.88281
+frame:654  pts:335360  pts_time:27.2917
+lavfi.signalstats.YAVG=1.24872
+frame:655  pts:335872  pts_time:27.3333
+lavfi.signalstats.YAVG=5.71419
+frame:656  pts:336384  pts_time:27.375
+lavfi.signalstats.YAVG=1.60907
+frame:657  pts:336896  pts_time:27.4167
+lavfi.signalstats.YAVG=5.00019
+frame:658  pts:337408  pts_time:27.4583
+lavfi.signalstats.YAVG=1.22301
+frame:659  pts:337920  pts_time:27.5
+lavfi.signalstats.YAVG=4.11935
+frame:660  pts:338432  pts_time:27.5417
+lavfi.signalstats.YAVG=1.27968
+frame:661  pts:338944  pts_time:27.5833
+lavfi.signalstats.YAVG=2.12049
+frame:662  pts:339456  pts_time:27.625
+lavfi.signalstats.YAVG=0.700403
+frame:663  pts:339968  pts_time:27.6667
+lavfi.signalstats.YAVG=1.16661
+frame:664  pts:340480  pts_time:27.7083
+lavfi.signalstats.YAVG=1.8624
+frame:665  pts:340992  pts_time:27.75
+lavfi.signalstats.YAVG=1.36054
+frame:666  pts:341504  pts_time:27.7917
+lavfi.signalstats.YAVG=1.39969
+frame:667  pts:342016  pts_time:27.8333
+lavfi.signalstats.YAVG=1.09715
+frame:668  pts:342528  pts_time:27.875
+lavfi.signalstats.YAVG=1.80462
+frame:669  pts:343040  pts_time:27.9167
+lavfi.signalstats.YAVG=1.4364
+frame:670  pts:343552  pts_time:27.9583
+lavfi.signalstats.YAVG=1.3865
+frame:671  pts:344064  pts_time:28
+lavfi.signalstats.YAVG=1.55718
+frame:672  pts:344576  pts_time:28.0417
+lavfi.signalstats.YAVG=0.509944
+frame:673  pts:345088  pts_time:28.0833
+lavfi.signalstats.YAVG=0.987375
+frame:674  pts:345600  pts_time:28.125
+lavfi.signalstats.YAVG=1.27631
+frame:675  pts:346112  pts_time:28.1667
+lavfi.signalstats.YAVG=1.44804
+frame:676  pts:346624  pts_time:28.2083
+lavfi.signalstats.YAVG=1.27642
+frame:677  pts:347136  pts_time:28.25
+lavfi.signalstats.YAVG=1.08878
+frame:678  pts:347648  pts_time:28.2917
+lavfi.signalstats.YAVG=1.01443
+frame:679  pts:348160  pts_time:28.3333
+lavfi.signalstats.YAVG=0.912542
+frame:680  pts:348672  pts_time:28.375
+lavfi.signalstats.YAVG=0.940986
+frame:681  pts:349184  pts_time:28.4167
+lavfi.signalstats.YAVG=1.01658
+frame:682  pts:349696  pts_time:28.4583
+lavfi.signalstats.YAVG=0.299639
+frame:683  pts:350208  pts_time:28.5
+lavfi.signalstats.YAVG=0.932194
+frame:684  pts:350720  pts_time:28.5417
+lavfi.signalstats.YAVG=1.46149
+frame:685  pts:351232  pts_time:28.5833
+lavfi.signalstats.YAVG=0.911667
+frame:686  pts:351744  pts_time:28.625
+lavfi.signalstats.YAVG=0.852486
+frame:687  pts:352256  pts_time:28.6667
+lavfi.signalstats.YAVG=0.890417
+frame:688  pts:352768  pts_time:28.7083
+lavfi.signalstats.YAVG=46.0278
+frame:689  pts:353280  pts_time:28.75
+lavfi.signalstats.YAVG=0.16425
+frame:690  pts:353792  pts_time:28.7917
+lavfi.signalstats.YAVG=0.975236
+frame:691  pts:354304  pts_time:28.8333
+lavfi.signalstats.YAVG=0.475847
+frame:692  pts:354816  pts_time:28.875
+lavfi.signalstats.YAVG=1.84757
+frame:693  pts:355328  pts_time:28.9167
+lavfi.signalstats.YAVG=1.26476
+frame:694  pts:355840  pts_time:28.9583
+lavfi.signalstats.YAVG=1.70388
+frame:695  pts:356352  pts_time:29
+lavfi.signalstats.YAVG=1.69508
+frame:696  pts:356864  pts_time:29.0417
+lavfi.signalstats.YAVG=1.54733
+frame:697  pts:357376  pts_time:29.0833
+lavfi.signalstats.YAVG=1.65919
+frame:698  pts:357888  pts_time:29.125
+lavfi.signalstats.YAVG=1.94213
+frame:699  pts:358400  pts_time:29.1667
+lavfi.signalstats.YAVG=2.07107
+frame:700  pts:358912  pts_time:29.2083
+lavfi.signalstats.YAVG=1.90362
+frame:701  pts:359424  pts_time:29.25
+lavfi.signalstats.YAVG=2.02832
+frame:702  pts:359936  pts_time:29.2917
+lavfi.signalstats.YAVG=0.393361
+frame:703  pts:360448  pts_time:29.3333
+lavfi.signalstats.YAVG=1.85914
+frame:704  pts:360960  pts_time:29.375
+lavfi.signalstats.YAVG=1.94883
+frame:705  pts:361472  pts_time:29.4167
+lavfi.signalstats.YAVG=2.23404
+frame:706  pts:361984  pts_time:29.4583
+lavfi.signalstats.YAVG=1.82033
+frame:707  pts:362496  pts_time:29.5
+lavfi.signalstats.YAVG=2.36204
+frame:708  pts:363008  pts_time:29.5417
+lavfi.signalstats.YAVG=1.66668
+frame:709  pts:363520  pts_time:29.5833
+lavfi.signalstats.YAVG=2.04915
+frame:710  pts:364032  pts_time:29.625
+lavfi.signalstats.YAVG=1.78617
+frame:711  pts:364544  pts_time:29.6667
+lavfi.signalstats.YAVG=1.94314
+frame:712  pts:365056  pts_time:29.7083
+lavfi.signalstats.YAVG=1.90456
+frame:713  pts:365568  pts_time:29.75
+lavfi.signalstats.YAVG=0.392583
+frame:714  pts:366080  pts_time:29.7917
+lavfi.signalstats.YAVG=1.83346
+frame:715  pts:366592  pts_time:29.8333
+lavfi.signalstats.YAVG=1.93897
+frame:716  pts:367104  pts_time:29.875
+lavfi.signalstats.YAVG=1.98342
+frame:717  pts:367616  pts_time:29.9167
+lavfi.signalstats.YAVG=1.8886
+frame:718  pts:368128  pts_time:29.9583
+lavfi.signalstats.YAVG=2.00519
+frame:719  pts:368640  pts_time:30
+lavfi.signalstats.YAVG=2.26939
+frame:720  pts:369152  pts_time:30.0417
+lavfi.signalstats.YAVG=1.98008
+frame:721  pts:369664  pts_time:30.0833
+lavfi.signalstats.YAVG=1.68325
+frame:722  pts:370176  pts_time:30.125
+lavfi.signalstats.YAVG=1.92032
+frame:723  pts:370688  pts_time:30.1667
+lavfi.signalstats.YAVG=1.86529
+frame:724  pts:371200  pts_time:30.2083
+lavfi.signalstats.YAVG=0.692181
+frame:725  pts:371712  pts_time:30.25
+lavfi.signalstats.YAVG=1.98733
+frame:726  pts:372224  pts_time:30.2917
+lavfi.signalstats.YAVG=2.30408
+frame:727  pts:372736  pts_time:30.3333
+lavfi.signalstats.YAVG=1.87811
+frame:728  pts:373248  pts_time:30.375
+lavfi.signalstats.YAVG=2.19097
+frame:729  pts:373760  pts_time:30.4167
+lavfi.signalstats.YAVG=2.11735
+frame:730  pts:374272  pts_time:30.4583
+lavfi.signalstats.YAVG=2.10608
+frame:731  pts:374784  pts_time:30.5
+lavfi.signalstats.YAVG=2.02811
+frame:732  pts:375296  pts_time:30.5417
+lavfi.signalstats.YAVG=2.24143
+frame:733  pts:375808  pts_time:30.5833
+lavfi.signalstats.YAVG=2.37328
+frame:734  pts:376320  pts_time:30.625
+lavfi.signalstats.YAVG=2.10686
+frame:735  pts:376832  pts_time:30.6667
+lavfi.signalstats.YAVG=1.07767
+frame:736  pts:377344  pts_time:30.7083
+lavfi.signalstats.YAVG=2.29122
+frame:737  pts:377856  pts_time:30.75
+lavfi.signalstats.YAVG=1.8834
+frame:738  pts:378368  pts_time:30.7917
+lavfi.signalstats.YAVG=2.51443
+frame:739  pts:378880  pts_time:30.8333
+lavfi.signalstats.YAVG=2.62836
+frame:740  pts:379392  pts_time:30.875
+lavfi.signalstats.YAVG=2.42322
+frame:741  pts:379904  pts_time:30.9167
+lavfi.signalstats.YAVG=2.17924
+frame:742  pts:380416  pts_time:30.9583
+lavfi.signalstats.YAVG=2.37189
+frame:743  pts:380928  pts_time:31
+lavfi.signalstats.YAVG=1.82493
+frame:744  pts:381440  pts_time:31.0417
+lavfi.signalstats.YAVG=2.29508
+frame:745  pts:381952  pts_time:31.0833
+lavfi.signalstats.YAVG=1.68583
+frame:746  pts:382464  pts_time:31.125
+lavfi.signalstats.YAVG=0.408778
+frame:747  pts:382976  pts_time:31.1667
+lavfi.signalstats.YAVG=1.91407
+frame:748  pts:383488  pts_time:31.2083
+lavfi.signalstats.YAVG=1.92893
+frame:749  pts:384000  pts_time:31.25
+lavfi.signalstats.YAVG=3.2649
+frame:750  pts:384512  pts_time:31.2917
+lavfi.signalstats.YAVG=1.8101
+frame:751  pts:385024  pts_time:31.3333
+lavfi.signalstats.YAVG=2.21433
+frame:752  pts:385536  pts_time:31.375
+lavfi.signalstats.YAVG=2.07951
+frame:753  pts:386048  pts_time:31.4167
+lavfi.signalstats.YAVG=1.74988
+frame:754  pts:386560  pts_time:31.4583
+lavfi.signalstats.YAVG=1.75486
+frame:755  pts:387072  pts_time:31.5
+lavfi.signalstats.YAVG=1.95471
+frame:756  pts:387584  pts_time:31.5417
+lavfi.signalstats.YAVG=1.90061
+frame:757  pts:388096  pts_time:31.5833
+lavfi.signalstats.YAVG=0.583819
+frame:758  pts:388608  pts_time:31.625
+lavfi.signalstats.YAVG=2.29143
+frame:759  pts:389120  pts_time:31.6667
+lavfi.signalstats.YAVG=2.02311
+frame:760  pts:389632  pts_time:31.7083
+lavfi.signalstats.YAVG=2.2595
+frame:761  pts:390144  pts_time:31.75
+lavfi.signalstats.YAVG=1.85651
+frame:762  pts:390656  pts_time:31.7917
+lavfi.signalstats.YAVG=2.15794
+frame:763  pts:391168  pts_time:31.8333
+lavfi.signalstats.YAVG=2.12542
+frame:764  pts:391680  pts_time:31.875
+lavfi.signalstats.YAVG=2.49456
+frame:765  pts:392192  pts_time:31.9167
+lavfi.signalstats.YAVG=2.60743
+frame:766  pts:392704  pts_time:31.9583
+lavfi.signalstats.YAVG=2.01993
+frame:767  pts:393216  pts_time:32
+lavfi.signalstats.YAVG=2.29469
+frame:768  pts:393728  pts_time:32.0417
+lavfi.signalstats.YAVG=0.532
+frame:769  pts:394240  pts_time:32.0833
+lavfi.signalstats.YAVG=2.60896
+frame:770  pts:394752  pts_time:32.125
+lavfi.signalstats.YAVG=2.2005
+frame:771  pts:395264  pts_time:32.1667
+lavfi.signalstats.YAVG=2.42794
+frame:772  pts:395776  pts_time:32.2083
+lavfi.signalstats.YAVG=1.83108
+frame:773  pts:396288  pts_time:32.25
+lavfi.signalstats.YAVG=3.08319
+frame:774  pts:396800  pts_time:32.2917
+lavfi.signalstats.YAVG=2.16576
+frame:775  pts:397312  pts_time:32.3333
+lavfi.signalstats.YAVG=2.48225
+frame:776  pts:397824  pts_time:32.375
+lavfi.signalstats.YAVG=2.10881
+frame:777  pts:398336  pts_time:32.4167
+lavfi.signalstats.YAVG=2.268
+frame:778  pts:398848  pts_time:32.4583
+lavfi.signalstats.YAVG=1.81971
+frame:779  pts:399360  pts_time:32.5
+lavfi.signalstats.YAVG=0.368903
+frame:780  pts:399872  pts_time:32.5417
+lavfi.signalstats.YAVG=2.03808
+frame:781  pts:400384  pts_time:32.5833
+lavfi.signalstats.YAVG=1.92639
+frame:782  pts:400896  pts_time:32.625
+lavfi.signalstats.YAVG=1.85544
+frame:783  pts:401408  pts_time:32.6667
+lavfi.signalstats.YAVG=1.92056
+frame:784  pts:401920  pts_time:32.7083
+lavfi.signalstats.YAVG=1.64114
+frame:785  pts:402432  pts_time:32.75
+lavfi.signalstats.YAVG=1.735
+frame:786  pts:402944  pts_time:32.7917
+lavfi.signalstats.YAVG=1.64712
+frame:787  pts:403456  pts_time:32.8333
+lavfi.signalstats.YAVG=1.75443
+frame:788  pts:403968  pts_time:32.875
+lavfi.signalstats.YAVG=1.47101
+frame:789  pts:404480  pts_time:32.9167
+lavfi.signalstats.YAVG=1.52997
+frame:790  pts:404992  pts_time:32.9583
+lavfi.signalstats.YAVG=1.35838
+frame:791  pts:405504  pts_time:33
+lavfi.signalstats.YAVG=0.357208
+frame:792  pts:406016  pts_time:33.0417
+lavfi.signalstats.YAVG=1.995
+frame:793  pts:406528  pts_time:33.0833
+lavfi.signalstats.YAVG=1.76096
+frame:794  pts:407040  pts_time:33.125
+lavfi.signalstats.YAVG=1.30233
+frame:795  pts:407552  pts_time:33.1667
+lavfi.signalstats.YAVG=47.9663
+frame:796  pts:408064  pts_time:33.2083
+lavfi.signalstats.YAVG=0.323417
+frame:797  pts:408576  pts_time:33.25
+lavfi.signalstats.YAVG=8.94503
+frame:798  pts:409088  pts_time:33.2917
+lavfi.signalstats.YAVG=9.3666
+frame:799  pts:409600  pts_time:33.3333
+lavfi.signalstats.YAVG=9.52107
+frame:800  pts:410112  pts_time:33.375
+lavfi.signalstats.YAVG=9.54279
+frame:801  pts:410624  pts_time:33.4167
+lavfi.signalstats.YAVG=9.48139
+frame:802  pts:411136  pts_time:33.4583
+lavfi.signalstats.YAVG=9.56779
+frame:803  pts:411648  pts_time:33.5
+lavfi.signalstats.YAVG=10.2818
+frame:804  pts:412160  pts_time:33.5417
+lavfi.signalstats.YAVG=9.64479
+frame:805  pts:412672  pts_time:33.5833
+lavfi.signalstats.YAVG=10.1628
+frame:806  pts:413184  pts_time:33.625
+lavfi.signalstats.YAVG=8.80576
+frame:807  pts:413696  pts_time:33.6667
+lavfi.signalstats.YAVG=10.1939
+frame:808  pts:414208  pts_time:33.7083
+lavfi.signalstats.YAVG=9.40947
+frame:809  pts:414720  pts_time:33.75
+lavfi.signalstats.YAVG=8.99522
+frame:810  pts:415232  pts_time:33.7917
+lavfi.signalstats.YAVG=9.60668
+frame:811  pts:415744  pts_time:33.8333
+lavfi.signalstats.YAVG=8.98731
+frame:812  pts:416256  pts_time:33.875
+lavfi.signalstats.YAVG=8.74422
+frame:813  pts:416768  pts_time:33.9167
+lavfi.signalstats.YAVG=10.243
+frame:814  pts:417280  pts_time:33.9583
+lavfi.signalstats.YAVG=9.24372
+frame:815  pts:417792  pts_time:34
+lavfi.signalstats.YAVG=9.60251
+frame:816  pts:418304  pts_time:34.0417
+lavfi.signalstats.YAVG=9.73706
+frame:817  pts:418816  pts_time:34.0833
+lavfi.signalstats.YAVG=9.59067
+frame:818  pts:419328  pts_time:34.125
+lavfi.signalstats.YAVG=9.69743
+frame:819  pts:419840  pts_time:34.1667
+lavfi.signalstats.YAVG=10.1013
+frame:820  pts:420352  pts_time:34.2083
+lavfi.signalstats.YAVG=9.92528
+frame:821  pts:420864  pts_time:34.25
+lavfi.signalstats.YAVG=9.83322
+frame:822  pts:421376  pts_time:34.2917
+lavfi.signalstats.YAVG=9.55735
+frame:823  pts:421888  pts_time:34.3333
+lavfi.signalstats.YAVG=9.66728
+frame:824  pts:422400  pts_time:34.375
+lavfi.signalstats.YAVG=9.36647
+frame:825  pts:422912  pts_time:34.4167
+lavfi.signalstats.YAVG=9.59781
+frame:826  pts:423424  pts_time:34.4583
+lavfi.signalstats.YAVG=9.60656
+frame:827  pts:423936  pts_time:34.5
+lavfi.signalstats.YAVG=9.41692
+frame:828  pts:424448  pts_time:34.5417
+lavfi.signalstats.YAVG=8.95736
+frame:829  pts:424960  pts_time:34.5833
+lavfi.signalstats.YAVG=8.96647
+frame:830  pts:425472  pts_time:34.625
+lavfi.signalstats.YAVG=8.96985
+frame:831  pts:425984  pts_time:34.6667
+lavfi.signalstats.YAVG=8.41669
+frame:832  pts:426496  pts_time:34.7083
+lavfi.signalstats.YAVG=8.39342
+frame:833  pts:427008  pts_time:34.75
+lavfi.signalstats.YAVG=8.09011
+frame:834  pts:427520  pts_time:34.7917
+lavfi.signalstats.YAVG=7.7324
+frame:835  pts:428032  pts_time:34.8333
+lavfi.signalstats.YAVG=7.36551
+frame:836  pts:428544  pts_time:34.875
+lavfi.signalstats.YAVG=7.3596
+frame:837  pts:429056  pts_time:34.9167
+lavfi.signalstats.YAVG=6.20185
+frame:838  pts:429568  pts_time:34.9583
+lavfi.signalstats.YAVG=5.78862
+frame:839  pts:430080  pts_time:35
+lavfi.signalstats.YAVG=5.75961
+frame:840  pts:430592  pts_time:35.0417
+lavfi.signalstats.YAVG=4.41053
+frame:841  pts:431104  pts_time:35.0833
+lavfi.signalstats.YAVG=3.65165
+frame:842  pts:431616  pts_time:35.125
+lavfi.signalstats.YAVG=3.73121
+frame:843  pts:432128  pts_time:35.1667
+lavfi.signalstats.YAVG=3.21687
+frame:844  pts:432640  pts_time:35.2083
+lavfi.signalstats.YAVG=5.55814
+frame:845  pts:433152  pts_time:35.25
+lavfi.signalstats.YAVG=1.75414
+frame:846  pts:433664  pts_time:35.2917
+lavfi.signalstats.YAVG=5.07501
+frame:847  pts:434176  pts_time:35.3333
+lavfi.signalstats.YAVG=0.426139
+frame:848  pts:434688  pts_time:35.375
+lavfi.signalstats.YAVG=7.79676
+frame:849  pts:435200  pts_time:35.4167
+lavfi.signalstats.YAVG=0.140236
+frame:850  pts:435712  pts_time:35.4583
+lavfi.signalstats.YAVG=11.3086
+frame:851  pts:436224  pts_time:35.5
+lavfi.signalstats.YAVG=0.432139
+frame:852  pts:436736  pts_time:35.5417
+lavfi.signalstats.YAVG=10.3595
+frame:853  pts:437248  pts_time:35.5833
+lavfi.signalstats.YAVG=0.123292
+frame:854  pts:437760  pts_time:35.625
+lavfi.signalstats.YAVG=13.5537
+frame:855  pts:438272  pts_time:35.6667
+lavfi.signalstats.YAVG=0.0885833
+frame:856  pts:438784  pts_time:35.7083
+lavfi.signalstats.YAVG=14.2213
+frame:857  pts:439296  pts_time:35.75
+lavfi.signalstats.YAVG=0.231722
+frame:858  pts:439808  pts_time:35.7917
+lavfi.signalstats.YAVG=19.4394
+frame:859  pts:440320  pts_time:35.8333
+lavfi.signalstats.YAVG=0.512306
+frame:860  pts:440832  pts_time:35.875
+lavfi.signalstats.YAVG=24.0598
+frame:861  pts:441344  pts_time:35.9167
+lavfi.signalstats.YAVG=0.460375
+frame:862  pts:441856  pts_time:35.9583
+lavfi.signalstats.YAVG=34.1368
+frame:863  pts:442368  pts_time:36
+lavfi.signalstats.YAVG=0.584861
+frame:864  pts:442880  pts_time:36.0417
+lavfi.signalstats.YAVG=38.0309
+frame:865  pts:443392  pts_time:36.0833
+lavfi.signalstats.YAVG=0.917694
+frame:866  pts:443904  pts_time:36.125
+lavfi.signalstats.YAVG=31.2771
+frame:867  pts:444416  pts_time:36.1667
+lavfi.signalstats.YAVG=41.3108
+frame:868  pts:444928  pts_time:36.2083
+lavfi.signalstats.YAVG=0.852181
+frame:869  pts:445440  pts_time:36.25
+lavfi.signalstats.YAVG=3.31497
+frame:870  pts:445952  pts_time:36.2917
+lavfi.signalstats.YAVG=0.956417
+frame:871  pts:446464  pts_time:36.3333
+lavfi.signalstats.YAVG=4.43687
+frame:872  pts:446976  pts_time:36.375
+lavfi.signalstats.YAVG=0.191292
+frame:873  pts:447488  pts_time:36.4167
+lavfi.signalstats.YAVG=4.86119
+frame:874  pts:448000  pts_time:36.4583
+lavfi.signalstats.YAVG=0.745486
+frame:875  pts:448512  pts_time:36.5
+lavfi.signalstats.YAVG=5.84701
+frame:876  pts:449024  pts_time:36.5417
+lavfi.signalstats.YAVG=0.71225
+frame:877  pts:449536  pts_time:36.5833
+lavfi.signalstats.YAVG=5.57993
+frame:878  pts:450048  pts_time:36.625
+lavfi.signalstats.YAVG=0.100069
+frame:879  pts:450560  pts_time:36.6667
+lavfi.signalstats.YAVG=4.64503
+frame:880  pts:451072  pts_time:36.7083
+lavfi.signalstats.YAVG=0.273556
+frame:881  pts:451584  pts_time:36.75
+lavfi.signalstats.YAVG=3.94921
+frame:882  pts:452096  pts_time:36.7917
+lavfi.signalstats.YAVG=0.137694
+frame:883  pts:452608  pts_time:36.8333
+lavfi.signalstats.YAVG=3.02542
+frame:884  pts:453120  pts_time:36.875
+lavfi.signalstats.YAVG=0.626917
+frame:885  pts:453632  pts_time:36.9167
+lavfi.signalstats.YAVG=3.03007
+frame:886  pts:454144  pts_time:36.9583
+lavfi.signalstats.YAVG=0.634319
+frame:887  pts:454656  pts_time:37
+lavfi.signalstats.YAVG=1.95731
+frame:888  pts:455168  pts_time:37.0417
+lavfi.signalstats.YAVG=0.568611
+frame:889  pts:455680  pts_time:37.0833
+lavfi.signalstats.YAVG=1.33692
+frame:890  pts:456192  pts_time:37.125
+lavfi.signalstats.YAVG=0.508278
+frame:891  pts:456704  pts_time:37.1667
+lavfi.signalstats.YAVG=1.02922
+frame:892  pts:457216  pts_time:37.2083
+lavfi.signalstats.YAVG=0.914431
+frame:893  pts:457728  pts_time:37.25
+lavfi.signalstats.YAVG=0.767681
+frame:894  pts:458240  pts_time:37.2917
+lavfi.signalstats.YAVG=0.889986
+frame:895  pts:458752  pts_time:37.3333
+lavfi.signalstats.YAVG=0.499431
+frame:896  pts:459264  pts_time:37.375
+lavfi.signalstats.YAVG=0.829014
+frame:897  pts:459776  pts_time:37.4167
+lavfi.signalstats.YAVG=0.662208
+frame:898  pts:460288  pts_time:37.4583
+lavfi.signalstats.YAVG=1.0094
+frame:899  pts:460800  pts_time:37.5
+lavfi.signalstats.YAVG=0.942306
+frame:900  pts:461312  pts_time:37.5417
+lavfi.signalstats.YAVG=1.16601
+frame:901  pts:461824  pts_time:37.5833
+lavfi.signalstats.YAVG=0.931861
+frame:902  pts:462336  pts_time:37.625
+lavfi.signalstats.YAVG=1.08374
+frame:903  pts:462848  pts_time:37.6667
+lavfi.signalstats.YAVG=1.57818
+frame:904  pts:463360  pts_time:37.7083
+lavfi.signalstats.YAVG=1.46146
+frame:905  pts:463872  pts_time:37.75
+lavfi.signalstats.YAVG=2.84683
+frame:906  pts:464384  pts_time:37.7917
+lavfi.signalstats.YAVG=0.99775
+frame:907  pts:464896  pts_time:37.8333
+lavfi.signalstats.YAVG=1.83231
+frame:908  pts:465408  pts_time:37.875
+lavfi.signalstats.YAVG=1.08335
+frame:909  pts:465920  pts_time:37.9167
+lavfi.signalstats.YAVG=2.13936
+frame:910  pts:466432  pts_time:37.9583
+lavfi.signalstats.YAVG=0.773625
+frame:911  pts:466944  pts_time:38
+lavfi.signalstats.YAVG=2.70613
+frame:912  pts:467456  pts_time:38.0417
+lavfi.signalstats.YAVG=0.494125
+frame:913  pts:467968  pts_time:38.0833
+lavfi.signalstats.YAVG=2.61343
+frame:914  pts:468480  pts_time:38.125
+lavfi.signalstats.YAVG=0.227708
+frame:915  pts:468992  pts_time:38.1667
+lavfi.signalstats.YAVG=3.88583
+frame:916  pts:469504  pts_time:38.2083
+lavfi.signalstats.YAVG=0.101069
+frame:917  pts:470016  pts_time:38.25
+lavfi.signalstats.YAVG=4.45137
+frame:918  pts:470528  pts_time:38.2917
+lavfi.signalstats.YAVG=0.219333
+frame:919  pts:471040  pts_time:38.3333
+lavfi.signalstats.YAVG=2.99631
+frame:920  pts:471552  pts_time:38.375
+lavfi.signalstats.YAVG=0.202931
+frame:921  pts:472064  pts_time:38.4167
+lavfi.signalstats.YAVG=3.381
+frame:922  pts:472576  pts_time:38.4583
+lavfi.signalstats.YAVG=0.105333
+frame:923  pts:473088  pts_time:38.5
+lavfi.signalstats.YAVG=2.80235
+frame:924  pts:473600  pts_time:38.5417
+lavfi.signalstats.YAVG=48.032
+frame:925  pts:474112  pts_time:38.5833
+lavfi.signalstats.YAVG=0.813667
+frame:926  pts:474624  pts_time:38.625
+lavfi.signalstats.YAVG=0.318028
+frame:927  pts:475136  pts_time:38.6667
+lavfi.signalstats.YAVG=3.27824
+frame:928  pts:475648  pts_time:38.7083
+lavfi.signalstats.YAVG=0.699431
+frame:929  pts:476160  pts_time:38.75
+lavfi.signalstats.YAVG=3.05494
+frame:930  pts:476672  pts_time:38.7917
+lavfi.signalstats.YAVG=0.229403
+frame:931  pts:477184  pts_time:38.8333
+lavfi.signalstats.YAVG=3.48399
+frame:932  pts:477696  pts_time:38.875
+lavfi.signalstats.YAVG=1.0985
+frame:933  pts:478208  pts_time:38.9167
+lavfi.signalstats.YAVG=3.85304
+frame:934  pts:478720  pts_time:38.9583
+lavfi.signalstats.YAVG=0.838458
+frame:935  pts:479232  pts_time:39
+lavfi.signalstats.YAVG=3.32951
+frame:936  pts:479744  pts_time:39.0417
+lavfi.signalstats.YAVG=0.294361
+frame:937  pts:480256  pts_time:39.0833
+lavfi.signalstats.YAVG=0.419167
+frame:938  pts:480768  pts_time:39.125
+lavfi.signalstats.YAVG=2.95903
+frame:939  pts:481280  pts_time:39.1667
+lavfi.signalstats.YAVG=0.763444
+frame:940  pts:481792  pts_time:39.2083
+lavfi.signalstats.YAVG=2.39594
+frame:941  pts:482304  pts_time:39.25
+lavfi.signalstats.YAVG=0.664139
+frame:942  pts:482816  pts_time:39.2917
+lavfi.signalstats.YAVG=1.63743
+frame:943  pts:483328  pts_time:39.3333
+lavfi.signalstats.YAVG=0.698389
+frame:944  pts:483840  pts_time:39.375
+lavfi.signalstats.YAVG=1.98371
+frame:945  pts:484352  pts_time:39.4167
+lavfi.signalstats.YAVG=0.815472
+frame:946  pts:484864  pts_time:39.4583
+lavfi.signalstats.YAVG=1.26985
+frame:947  pts:485376  pts_time:39.5
+lavfi.signalstats.YAVG=0.372208
+frame:948  pts:485888  pts_time:39.5417
+lavfi.signalstats.YAVG=0.0845278
+frame:949  pts:486400  pts_time:39.5833
+lavfi.signalstats.YAVG=0.733944
+frame:950  pts:486912  pts_time:39.625
+lavfi.signalstats.YAVG=0.139819
+frame:951  pts:487424  pts_time:39.6667
+lavfi.signalstats.YAVG=0.874944
+frame:952  pts:487936  pts_time:39.7083
+lavfi.signalstats.YAVG=1.16818
+frame:953  pts:488448  pts_time:39.75
+lavfi.signalstats.YAVG=1.88097
+frame:954  pts:488960  pts_time:39.7917
+lavfi.signalstats.YAVG=2.26236
+frame:955  pts:489472  pts_time:39.8333
+lavfi.signalstats.YAVG=3.13264
+frame:956  pts:489984  pts_time:39.875
+lavfi.signalstats.YAVG=4.9966
+frame:957  pts:490496  pts_time:39.9167
+lavfi.signalstats.YAVG=4.64103
+frame:958  pts:491008  pts_time:39.9583
+lavfi.signalstats.YAVG=4.87971
+frame:959  pts:491520  pts_time:40
+lavfi.signalstats.YAVG=1.32718
+frame:960  pts:492032  pts_time:40.0417
+lavfi.signalstats.YAVG=5.55936
+frame:961  pts:492544  pts_time:40.0833
+lavfi.signalstats.YAVG=6.32075
+frame:962  pts:493056  pts_time:40.125
+lavfi.signalstats.YAVG=6.68592
+frame:963  pts:493568  pts_time:40.1667
+lavfi.signalstats.YAVG=6.77438
+frame:964  pts:494080  pts_time:40.2083
+lavfi.signalstats.YAVG=7.1271
+frame:965  pts:494592  pts_time:40.25
+lavfi.signalstats.YAVG=7.44657
+frame:966  pts:495104  pts_time:40.2917
+lavfi.signalstats.YAVG=8.03204
+frame:967  pts:495616  pts_time:40.3333
+lavfi.signalstats.YAVG=8.17001
+frame:968  pts:496128  pts_time:40.375
+lavfi.signalstats.YAVG=8.21275
+frame:969  pts:496640  pts_time:40.4167
+lavfi.signalstats.YAVG=8.53343
+frame:970  pts:497152  pts_time:40.4583
+lavfi.signalstats.YAVG=0.685361
+frame:971  pts:497664  pts_time:40.5
+lavfi.signalstats.YAVG=8.39204
+frame:972  pts:498176  pts_time:40.5417
+lavfi.signalstats.YAVG=8.90083
+frame:973  pts:498688  pts_time:40.5833
+lavfi.signalstats.YAVG=8.59611
+frame:974  pts:499200  pts_time:40.625
+lavfi.signalstats.YAVG=8.87586
+frame:975  pts:499712  pts_time:40.6667
+lavfi.signalstats.YAVG=9.14776
+frame:976  pts:500224  pts_time:40.7083
+lavfi.signalstats.YAVG=8.75357
+frame:977  pts:500736  pts_time:40.75
+lavfi.signalstats.YAVG=8.14108
+frame:978  pts:501248  pts_time:40.7917
+lavfi.signalstats.YAVG=8.99297
+frame:979  pts:501760  pts_time:40.8333
+lavfi.signalstats.YAVG=8.92458
+frame:980  pts:502272  pts_time:40.875
+lavfi.signalstats.YAVG=8.07442
+frame:981  pts:502784  pts_time:40.9167
+lavfi.signalstats.YAVG=0.442194
+frame:982  pts:503296  pts_time:40.9583
+lavfi.signalstats.YAVG=7.50774
+frame:983  pts:503808  pts_time:41
+lavfi.signalstats.YAVG=43.3251
+frame:984  pts:504320  pts_time:41.0417
+lavfi.signalstats.YAVG=0.312917
+frame:985  pts:504832  pts_time:41.0833
+lavfi.signalstats.YAVG=0.800208
+frame:986  pts:505344  pts_time:41.125
+lavfi.signalstats.YAVG=0.720611
+frame:987  pts:505856  pts_time:41.1667
+lavfi.signalstats.YAVG=0.795514
+frame:988  pts:506368  pts_time:41.2083
+lavfi.signalstats.YAVG=0.81825
+frame:989  pts:506880  pts_time:41.25
+lavfi.signalstats.YAVG=0.662514
+frame:990  pts:507392  pts_time:41.2917
+lavfi.signalstats.YAVG=0.663833
+frame:991  pts:507904  pts_time:41.3333
+lavfi.signalstats.YAVG=0.701431
+frame:992  pts:508416  pts_time:41.375
+lavfi.signalstats.YAVG=0.925347
+frame:993  pts:508928  pts_time:41.4167
+lavfi.signalstats.YAVG=0.863597
+frame:994  pts:509440  pts_time:41.4583
+lavfi.signalstats.YAVG=0.596028
+frame:995  pts:509952  pts_time:41.5
+lavfi.signalstats.YAVG=0.694708
+frame:996  pts:510464  pts_time:41.5417
+lavfi.signalstats.YAVG=1.31403
+frame:997  pts:510976  pts_time:41.5833
+lavfi.signalstats.YAVG=0.888167
+frame:998  pts:511488  pts_time:41.625
+lavfi.signalstats.YAVG=1.0164
+frame:999  pts:512000  pts_time:41.6667
+lavfi.signalstats.YAVG=1.1439
+frame:1000 pts:512512  pts_time:41.7083
+lavfi.signalstats.YAVG=0.895819
+frame:1001 pts:513024  pts_time:41.75
+lavfi.signalstats.YAVG=1.15461
+frame:1002 pts:513536  pts_time:41.7917
+lavfi.signalstats.YAVG=1.1145
+frame:1003 pts:514048  pts_time:41.8333
+lavfi.signalstats.YAVG=1.14837
+frame:1004 pts:514560  pts_time:41.875
+lavfi.signalstats.YAVG=0.606778
+frame:1005 pts:515072  pts_time:41.9167
+lavfi.signalstats.YAVG=1.47422
+frame:1006 pts:515584  pts_time:41.9583
+lavfi.signalstats.YAVG=0.760222
+frame:1007 pts:516096  pts_time:42
+lavfi.signalstats.YAVG=1.19971
+frame:1008 pts:516608  pts_time:42.0417
+lavfi.signalstats.YAVG=1.18658
+frame:1009 pts:517120  pts_time:42.0833
+lavfi.signalstats.YAVG=1.32229
+frame:1010 pts:517632  pts_time:42.125
+lavfi.signalstats.YAVG=1.07867
+frame:1011 pts:518144  pts_time:42.1667
+lavfi.signalstats.YAVG=1.41474
+frame:1012 pts:518656  pts_time:42.2083
+lavfi.signalstats.YAVG=0.768597
+frame:1013 pts:519168  pts_time:42.25
+lavfi.signalstats.YAVG=1.10343
+frame:1014 pts:519680  pts_time:42.2917
+lavfi.signalstats.YAVG=1.14897
+frame:1015 pts:520192  pts_time:42.3333
+lavfi.signalstats.YAVG=0.90575
+frame:1016 pts:520704  pts_time:42.375
+lavfi.signalstats.YAVG=0.936736
+frame:1017 pts:521216  pts_time:42.4167
+lavfi.signalstats.YAVG=0.911708
+frame:1018 pts:521728  pts_time:42.4583
+lavfi.signalstats.YAVG=0.813264
+frame:1019 pts:522240  pts_time:42.5
+lavfi.signalstats.YAVG=1.33544
+frame:1020 pts:522752  pts_time:42.5417
+lavfi.signalstats.YAVG=1.14099
+frame:1021 pts:523264  pts_time:42.5833
+lavfi.signalstats.YAVG=1.02981
+frame:1022 pts:523776  pts_time:42.625
+lavfi.signalstats.YAVG=0.925625
+frame:1023 pts:524288  pts_time:42.6667
+lavfi.signalstats.YAVG=1.32019
+frame:1024 pts:524800  pts_time:42.7083
+lavfi.signalstats.YAVG=0.133319
+frame:1025 pts:525312  pts_time:42.75
+lavfi.signalstats.YAVG=0.950431
+frame:1026 pts:525824  pts_time:42.7917
+lavfi.signalstats.YAVG=1.15082
+frame:1027 pts:526336  pts_time:42.8333
+lavfi.signalstats.YAVG=0.961347
+frame:1028 pts:526848  pts_time:42.875
+lavfi.signalstats.YAVG=1.74154
+frame:1029 pts:527360  pts_time:42.9167
+lavfi.signalstats.YAVG=1.21925
+frame:1030 pts:527872  pts_time:42.9583
+lavfi.signalstats.YAVG=1.37856
+frame:1031 pts:528384  pts_time:43
+lavfi.signalstats.YAVG=0.898917
+frame:1032 pts:528896  pts_time:43.0417
+lavfi.signalstats.YAVG=1.30985
+frame:1033 pts:529408  pts_time:43.0833
+lavfi.signalstats.YAVG=1.19456
+frame:1034 pts:529920  pts_time:43.125
+lavfi.signalstats.YAVG=0.924264
+frame:1035 pts:530432  pts_time:43.1667
+lavfi.signalstats.YAVG=1.38336
+frame:1036 pts:530944  pts_time:43.2083
+lavfi.signalstats.YAVG=0.912528
+frame:1037 pts:531456  pts_time:43.25
+lavfi.signalstats.YAVG=1.23704
+frame:1038 pts:531968  pts_time:43.2917
+lavfi.signalstats.YAVG=1.21633
+frame:1039 pts:532480  pts_time:43.3333
+lavfi.signalstats.YAVG=1.54729
+frame:1040 pts:532992  pts_time:43.375
+lavfi.signalstats.YAVG=1.16124
+frame:1041 pts:533504  pts_time:43.4167
+lavfi.signalstats.YAVG=0.996153
+frame:1042 pts:534016  pts_time:43.4583
+lavfi.signalstats.YAVG=1.21143
+frame:1043 pts:534528  pts_time:43.5
+lavfi.signalstats.YAVG=1.48068
+frame:1044 pts:535040  pts_time:43.5417
+lavfi.signalstats.YAVG=0.571889
+frame:1045 pts:535552  pts_time:43.5833
+lavfi.signalstats.YAVG=1.24943
+frame:1046 pts:536064  pts_time:43.625
+lavfi.signalstats.YAVG=1.21724
+frame:1047 pts:536576  pts_time:43.6667
+lavfi.signalstats.YAVG=0.918097
+frame:1048 pts:537088  pts_time:43.7083
+lavfi.signalstats.YAVG=1.14806
+frame:1049 pts:537600  pts_time:43.75
+lavfi.signalstats.YAVG=0.93075
+frame:1050 pts:538112  pts_time:43.7917
+lavfi.signalstats.YAVG=0.950639
+frame:1051 pts:538624  pts_time:43.8333
+lavfi.signalstats.YAVG=0.900472
+frame:1052 pts:539136  pts_time:43.875
+lavfi.signalstats.YAVG=1.00768
+frame:1053 pts:539648  pts_time:43.9167
+lavfi.signalstats.YAVG=0.870208
+frame:1054 pts:540160  pts_time:43.9583
+lavfi.signalstats.YAVG=0.310861
+frame:1055 pts:540672  pts_time:44
+lavfi.signalstats.YAVG=0.878611
+frame:1056 pts:541184  pts_time:44.0417
+lavfi.signalstats.YAVG=0.95075
+frame:1057 pts:541696  pts_time:44.0833
+lavfi.signalstats.YAVG=0.897861
+frame:1058 pts:542208  pts_time:44.125
+lavfi.signalstats.YAVG=0.855847
+frame:1059 pts:542720  pts_time:44.1667
+lavfi.signalstats.YAVG=71.9326
+frame:1060 pts:543232  pts_time:44.2083
+lavfi.signalstats.YAVG=0.158847
+frame:1061 pts:543744  pts_time:44.25
+lavfi.signalstats.YAVG=15.5237
+frame:1062 pts:544256  pts_time:44.2917
+lavfi.signalstats.YAVG=16.9398
+frame:1063 pts:544768  pts_time:44.3333
+lavfi.signalstats.YAVG=15.9149
+frame:1064 pts:545280  pts_time:44.375
+lavfi.signalstats.YAVG=0.364347
+frame:1065 pts:545792  pts_time:44.4167
+lavfi.signalstats.YAVG=12.7113
+frame:1066 pts:546304  pts_time:44.4583
+lavfi.signalstats.YAVG=16.8229
+frame:1067 pts:546816  pts_time:44.5
+lavfi.signalstats.YAVG=15.6568
+frame:1068 pts:547328  pts_time:44.5417
+lavfi.signalstats.YAVG=18.2127
+frame:1069 pts:547840  pts_time:44.5833
+lavfi.signalstats.YAVG=15.8532
+frame:1070 pts:548352  pts_time:44.625
+lavfi.signalstats.YAVG=14.8053
+frame:1071 pts:548864  pts_time:44.6667
+lavfi.signalstats.YAVG=13.373
+frame:1072 pts:549376  pts_time:44.7083
+lavfi.signalstats.YAVG=0.565458
+frame:1073 pts:549888  pts_time:44.75
+lavfi.signalstats.YAVG=14.6622
+frame:1074 pts:550400  pts_time:44.7917
+lavfi.signalstats.YAVG=15.131
+frame:1075 pts:550912  pts_time:44.8333
+lavfi.signalstats.YAVG=12.3551
+frame:1076 pts:551424  pts_time:44.875
+lavfi.signalstats.YAVG=20.3701
+frame:1077 pts:551936  pts_time:44.9167
+lavfi.signalstats.YAVG=16.9421
+frame:1078 pts:552448  pts_time:44.9583
+lavfi.signalstats.YAVG=16.6257
+frame:1079 pts:552960  pts_time:45
+lavfi.signalstats.YAVG=1.61265
+frame:1080 pts:553472  pts_time:45.0417
+lavfi.signalstats.YAVG=14.5658
+frame:1081 pts:553984  pts_time:45.0833
+lavfi.signalstats.YAVG=15.9712
+frame:1082 pts:554496  pts_time:45.125
+lavfi.signalstats.YAVG=15.2862
+frame:1083 pts:555008  pts_time:45.1667
+lavfi.signalstats.YAVG=13.9028
+frame:1084 pts:555520  pts_time:45.2083
+lavfi.signalstats.YAVG=15.552
+frame:1085 pts:556032  pts_time:45.25
+lavfi.signalstats.YAVG=18.1042
+frame:1086 pts:556544  pts_time:45.2917
+lavfi.signalstats.YAVG=0.259181
+frame:1087 pts:557056  pts_time:45.3333
+lavfi.signalstats.YAVG=20.2867
+frame:1088 pts:557568  pts_time:45.375
+lavfi.signalstats.YAVG=21.5602
+frame:1089 pts:558080  pts_time:45.4167
+lavfi.signalstats.YAVG=29.4418
+frame:1090 pts:558592  pts_time:45.4583
+lavfi.signalstats.YAVG=33.2574
+frame:1091 pts:559104  pts_time:45.5
+lavfi.signalstats.YAVG=31.2915
+frame:1092 pts:559616  pts_time:45.5417
+lavfi.signalstats.YAVG=24.6909
+frame:1093 pts:560128  pts_time:45.5833
+lavfi.signalstats.YAVG=0.218986
+frame:1094 pts:560640  pts_time:45.625
+lavfi.signalstats.YAVG=21.0699
+frame:1095 pts:561152  pts_time:45.6667
+lavfi.signalstats.YAVG=22.6134
+frame:1096 pts:561664  pts_time:45.7083
+lavfi.signalstats.YAVG=21.5238
+frame:1097 pts:562176  pts_time:45.75
+lavfi.signalstats.YAVG=68.3562
+frame:1098 pts:562688  pts_time:45.7917
+lavfi.signalstats.YAVG=0.483528
+frame:1099 pts:563200  pts_time:45.8333
+lavfi.signalstats.YAVG=1.04053
+frame:1100 pts:563712  pts_time:45.875
+lavfi.signalstats.YAVG=1.35156
+frame:1101 pts:564224  pts_time:45.9167
+lavfi.signalstats.YAVG=1.60933
+frame:1102 pts:564736  pts_time:45.9583
+lavfi.signalstats.YAVG=1.70246
+frame:1103 pts:565248  pts_time:46
+lavfi.signalstats.YAVG=1.65701
+frame:1104 pts:565760  pts_time:46.0417
+lavfi.signalstats.YAVG=1.78172
+frame:1105 pts:566272  pts_time:46.0833
+lavfi.signalstats.YAVG=1.96042
+frame:1106 pts:566784  pts_time:46.125
+lavfi.signalstats.YAVG=1.13249
+frame:1107 pts:567296  pts_time:46.1667
+lavfi.signalstats.YAVG=1.95199
+frame:1108 pts:567808  pts_time:46.2083
+lavfi.signalstats.YAVG=1.52778
+frame:1109 pts:568320  pts_time:46.25
+lavfi.signalstats.YAVG=1.46353
+frame:1110 pts:568832  pts_time:46.2917
+lavfi.signalstats.YAVG=1.49026
+frame:1111 pts:569344  pts_time:46.3333
+lavfi.signalstats.YAVG=1.64863
+frame:1112 pts:569856  pts_time:46.375
+lavfi.signalstats.YAVG=1.19075
+frame:1113 pts:570368  pts_time:46.4167
+lavfi.signalstats.YAVG=1.7449
+frame:1114 pts:570880  pts_time:46.4583
+lavfi.signalstats.YAVG=1.48867
+frame:1115 pts:571392  pts_time:46.5
+lavfi.signalstats.YAVG=1.56519
+frame:1116 pts:571904  pts_time:46.5417
+lavfi.signalstats.YAVG=1.41449
+frame:1117 pts:572416  pts_time:46.5833
+lavfi.signalstats.YAVG=1.27817
+frame:1118 pts:572928  pts_time:46.625
+lavfi.signalstats.YAVG=1.23361
+frame:1119 pts:573440  pts_time:46.6667
+lavfi.signalstats.YAVG=1.30113
+frame:1120 pts:573952  pts_time:46.7083
+lavfi.signalstats.YAVG=1.68532
+frame:1121 pts:574464  pts_time:46.75
+lavfi.signalstats.YAVG=1.52369
+frame:1122 pts:574976  pts_time:46.7917
+lavfi.signalstats.YAVG=1.61501
+frame:1123 pts:575488  pts_time:46.8333
+lavfi.signalstats.YAVG=1.45058
+frame:1124 pts:576000  pts_time:46.875
+lavfi.signalstats.YAVG=1.99886
+frame:1125 pts:576512  pts_time:46.9167
+lavfi.signalstats.YAVG=1.7236
+frame:1126 pts:577024  pts_time:46.9583
+lavfi.signalstats.YAVG=1.60828
+frame:1127 pts:577536  pts_time:47
+lavfi.signalstats.YAVG=1.55543
+frame:1128 pts:578048  pts_time:47.0417
+lavfi.signalstats.YAVG=2.01185
+frame:1129 pts:578560  pts_time:47.0833
+lavfi.signalstats.YAVG=1.59075
+frame:1130 pts:579072  pts_time:47.125
+lavfi.signalstats.YAVG=1.98014
+frame:1131 pts:579584  pts_time:47.1667
+lavfi.signalstats.YAVG=1.76251
+frame:1132 pts:580096  pts_time:47.2083
+lavfi.signalstats.YAVG=1.9041
+frame:1133 pts:580608  pts_time:47.25
+lavfi.signalstats.YAVG=1.75621
+frame:1134 pts:581120  pts_time:47.2917
+lavfi.signalstats.YAVG=2.06906
+frame:1135 pts:581632  pts_time:47.3333
+lavfi.signalstats.YAVG=1.59563
+frame:1136 pts:582144  pts_time:47.375
+lavfi.signalstats.YAVG=2.20439
+frame:1137 pts:582656  pts_time:47.4167
+lavfi.signalstats.YAVG=2.0209
+frame:1138 pts:583168  pts_time:47.4583
+lavfi.signalstats.YAVG=2.18525
+frame:1139 pts:583680  pts_time:47.5
+lavfi.signalstats.YAVG=2.09503
+frame:1140 pts:584192  pts_time:47.5417
+lavfi.signalstats.YAVG=2.46787
+frame:1141 pts:584704  pts_time:47.5833
+lavfi.signalstats.YAVG=1.71162
+frame:1142 pts:585216  pts_time:47.625
+lavfi.signalstats.YAVG=1.9439
+frame:1143 pts:585728  pts_time:47.6667
+lavfi.signalstats.YAVG=2.68285
+frame:1144 pts:586240  pts_time:47.7083
+lavfi.signalstats.YAVG=2.39192
+frame:1145 pts:586752  pts_time:47.75
+lavfi.signalstats.YAVG=2.15379
+frame:1146 pts:587264  pts_time:47.7917
+lavfi.signalstats.YAVG=2.16233
+frame:1147 pts:587776  pts_time:47.8333
+lavfi.signalstats.YAVG=1.64854
+frame:1148 pts:588288  pts_time:47.875
+lavfi.signalstats.YAVG=2.13756
+frame:1149 pts:588800  pts_time:47.9167
+lavfi.signalstats.YAVG=1.96442
+frame:1150 pts:589312  pts_time:47.9583
+lavfi.signalstats.YAVG=1.82515
+frame:1151 pts:589824  pts_time:48
+lavfi.signalstats.YAVG=1.71943
+frame:1152 pts:590336  pts_time:48.0417
+lavfi.signalstats.YAVG=1.75988
+frame:1153 pts:590848  pts_time:48.0833
+lavfi.signalstats.YAVG=1.66397
+frame:1154 pts:591360  pts_time:48.125
+lavfi.signalstats.YAVG=1.78376
+frame:1155 pts:591872  pts_time:48.1667
+lavfi.signalstats.YAVG=1.78607
+frame:1156 pts:592384  pts_time:48.2083
+lavfi.signalstats.YAVG=1.54865
+frame:1157 pts:592896  pts_time:48.25
+lavfi.signalstats.YAVG=63.7632
+frame:1158 pts:593408  pts_time:48.2917
+lavfi.signalstats.YAVG=0.911639
+frame:1159 pts:593920  pts_time:48.3333
+lavfi.signalstats.YAVG=0.907431
+frame:1160 pts:594432  pts_time:48.375
+lavfi.signalstats.YAVG=1.07801
+frame:1161 pts:594944  pts_time:48.4167
+lavfi.signalstats.YAVG=0.993722
+frame:1162 pts:595456  pts_time:48.4583
+lavfi.signalstats.YAVG=1.08182
+frame:1163 pts:595968  pts_time:48.5
+lavfi.signalstats.YAVG=1.21733
+frame:1164 pts:596480  pts_time:48.5417
+lavfi.signalstats.YAVG=1.12356
+frame:1165 pts:596992  pts_time:48.5833
+lavfi.signalstats.YAVG=1.14769
+frame:1166 pts:597504  pts_time:48.625
+lavfi.signalstats.YAVG=1.00504
+frame:1167 pts:598016  pts_time:48.6667
+lavfi.signalstats.YAVG=1.03185
+frame:1168 pts:598528  pts_time:48.7083
+lavfi.signalstats.YAVG=1.43871
+frame:1169 pts:599040  pts_time:48.75
+lavfi.signalstats.YAVG=1.15946
+frame:1170 pts:599552  pts_time:48.7917
+lavfi.signalstats.YAVG=0.965042
+frame:1171 pts:600064  pts_time:48.8333
+lavfi.signalstats.YAVG=1.25751
+frame:1172 pts:600576  pts_time:48.875
+lavfi.signalstats.YAVG=1.81989
+frame:1173 pts:601088  pts_time:48.9167
+lavfi.signalstats.YAVG=1.34621
+frame:1174 pts:601600  pts_time:48.9583
+lavfi.signalstats.YAVG=1.44869
+frame:1175 pts:602112  pts_time:49
+lavfi.signalstats.YAVG=1.32563
+frame:1176 pts:602624  pts_time:49.0417
+lavfi.signalstats.YAVG=1.3124
+frame:1177 pts:603136  pts_time:49.0833
+lavfi.signalstats.YAVG=1.30065
+frame:1178 pts:603648  pts_time:49.125
+lavfi.signalstats.YAVG=1.67718
+frame:1179 pts:604160  pts_time:49.1667
+lavfi.signalstats.YAVG=1.43342
+frame:1180 pts:604672  pts_time:49.2083
+lavfi.signalstats.YAVG=1.69289
+frame:1181 pts:605184  pts_time:49.25
+lavfi.signalstats.YAVG=1.61353
+frame:1182 pts:605696  pts_time:49.2917
+lavfi.signalstats.YAVG=1.10875
+frame:1183 pts:606208  pts_time:49.3333
+lavfi.signalstats.YAVG=1.34908
+frame:1184 pts:606720  pts_time:49.375
+lavfi.signalstats.YAVG=1.1386
+frame:1185 pts:607232  pts_time:49.4167
+lavfi.signalstats.YAVG=1.14067
+frame:1186 pts:607744  pts_time:49.4583
+lavfi.signalstats.YAVG=1.02575
+frame:1187 pts:608256  pts_time:49.5
+lavfi.signalstats.YAVG=1.17365
+frame:1188 pts:608768  pts_time:49.5417
+lavfi.signalstats.YAVG=1.0289
+frame:1189 pts:609280  pts_time:49.5833
+lavfi.signalstats.YAVG=1.08528
+frame:1190 pts:609792  pts_time:49.625
+lavfi.signalstats.YAVG=1.37228
+frame:1191 pts:610304  pts_time:49.6667
+lavfi.signalstats.YAVG=1.0936
+frame:1192 pts:610816  pts_time:49.7083
+lavfi.signalstats.YAVG=1.07196
+frame:1193 pts:611328  pts_time:49.75
+lavfi.signalstats.YAVG=1.03582
+frame:1194 pts:611840  pts_time:49.7917
+lavfi.signalstats.YAVG=1.01893
+frame:1195 pts:612352  pts_time:49.8333
+lavfi.signalstats.YAVG=1.139
+frame:1196 pts:612864  pts_time:49.875
+lavfi.signalstats.YAVG=1.21069
+frame:1197 pts:613376  pts_time:49.9167
+lavfi.signalstats.YAVG=1.30703
+frame:1198 pts:613888  pts_time:49.9583
+lavfi.signalstats.YAVG=1.28154
+frame:1199 pts:614400  pts_time:50
+lavfi.signalstats.YAVG=1.53929
+frame:1200 pts:614912  pts_time:50.0417
+lavfi.signalstats.YAVG=1.07812
+frame:1201 pts:615424  pts_time:50.0833
+lavfi.signalstats.YAVG=1.17135
+frame:1202 pts:615936  pts_time:50.125
+lavfi.signalstats.YAVG=1.27699
+frame:1203 pts:616448  pts_time:50.1667
+lavfi.signalstats.YAVG=59.9705
+frame:1204 pts:616960  pts_time:50.2083
+lavfi.signalstats.YAVG=0.530778
+frame:1205 pts:617472  pts_time:50.25
+lavfi.signalstats.YAVG=0.199278
+frame:1206 pts:617984  pts_time:50.2917
+lavfi.signalstats.YAVG=3.03808
+frame:1207 pts:618496  pts_time:50.3333
+lavfi.signalstats.YAVG=0.664764
+frame:1208 pts:619008  pts_time:50.375
+lavfi.signalstats.YAVG=3.21047
+frame:1209 pts:619520  pts_time:50.4167
+lavfi.signalstats.YAVG=0.707569
+frame:1210 pts:620032  pts_time:50.4583
+lavfi.signalstats.YAVG=4.12676
+frame:1211 pts:620544  pts_time:50.5
+lavfi.signalstats.YAVG=0.132736
+frame:1212 pts:621056  pts_time:50.5417
+lavfi.signalstats.YAVG=0.753819
+frame:1213 pts:621568  pts_time:50.5833
+lavfi.signalstats.YAVG=4.65419
+frame:1214 pts:622080  pts_time:50.625
+lavfi.signalstats.YAVG=0.715486
+frame:1215 pts:622592  pts_time:50.6667
+lavfi.signalstats.YAVG=5.93453
+frame:1216 pts:623104  pts_time:50.7083
+lavfi.signalstats.YAVG=0.506764
+frame:1217 pts:623616  pts_time:50.75
+lavfi.signalstats.YAVG=5.63879
+frame:1218 pts:624128  pts_time:50.7917
+lavfi.signalstats.YAVG=0.359931
+frame:1219 pts:624640  pts_time:50.8333
+lavfi.signalstats.YAVG=0.493583
+frame:1220 pts:625152  pts_time:50.875
+lavfi.signalstats.YAVG=6.22331
+frame:1221 pts:625664  pts_time:50.9167
+lavfi.signalstats.YAVG=0.402861
+frame:1222 pts:626176  pts_time:50.9583
+lavfi.signalstats.YAVG=7.21064
+frame:1223 pts:626688  pts_time:51
+lavfi.signalstats.YAVG=0.550625
+frame:1224 pts:627200  pts_time:51.0417
+lavfi.signalstats.YAVG=7.69257
+frame:1225 pts:627712  pts_time:51.0833
+lavfi.signalstats.YAVG=0.184097
+frame:1226 pts:628224  pts_time:51.125
+lavfi.signalstats.YAVG=0.195861
+frame:1227 pts:628736  pts_time:51.1667
+lavfi.signalstats.YAVG=6.66185
+frame:1228 pts:629248  pts_time:51.2083
+lavfi.signalstats.YAVG=0.549625
+frame:1229 pts:629760  pts_time:51.25
+lavfi.signalstats.YAVG=6.59418
+frame:1230 pts:630272  pts_time:51.2917
+lavfi.signalstats.YAVG=0.414653
+frame:1231 pts:630784  pts_time:51.3333
+lavfi.signalstats.YAVG=6.03825
+frame:1232 pts:631296  pts_time:51.375
+lavfi.signalstats.YAVG=0.594903
+frame:1233 pts:631808  pts_time:51.4167
+lavfi.signalstats.YAVG=0.475722
+frame:1234 pts:632320  pts_time:51.4583
+lavfi.signalstats.YAVG=3.57578
+frame:1235 pts:632832  pts_time:51.5
+lavfi.signalstats.YAVG=0.399667
+frame:1236 pts:633344  pts_time:51.5417
+lavfi.signalstats.YAVG=4.80725
+frame:1237 pts:633856  pts_time:51.5833
+lavfi.signalstats.YAVG=0.773278
+frame:1238 pts:634368  pts_time:51.625
+lavfi.signalstats.YAVG=4.45182
+frame:1239 pts:634880  pts_time:51.6667
+lavfi.signalstats.YAVG=0.433083
+frame:1240 pts:635392  pts_time:51.7083
+lavfi.signalstats.YAVG=0.424597
+frame:1241 pts:635904  pts_time:51.75
+lavfi.signalstats.YAVG=4.17424
+frame:1242 pts:636416  pts_time:51.7917
+lavfi.signalstats.YAVG=1.1476
+frame:1243 pts:636928  pts_time:51.8333
+lavfi.signalstats.YAVG=3.38208
+frame:1244 pts:637440  pts_time:51.875
+lavfi.signalstats.YAVG=0.663069
+frame:1245 pts:637952  pts_time:51.9167
+lavfi.signalstats.YAVG=3.22451
+frame:1246 pts:638464  pts_time:51.9583
+lavfi.signalstats.YAVG=0.245972
+frame:1247 pts:638976  pts_time:52
+lavfi.signalstats.YAVG=0.546486
+frame:1248 pts:639488  pts_time:52.0417
+lavfi.signalstats.YAVG=2.68487
+frame:1249 pts:640000  pts_time:52.0833
+lavfi.signalstats.YAVG=1.24278
+frame:1250 pts:640512  pts_time:52.125
+lavfi.signalstats.YAVG=2.78646
+frame:1251 pts:641024  pts_time:52.1667
+lavfi.signalstats.YAVG=2.02196
+frame:1252 pts:641536  pts_time:52.2083
+lavfi.signalstats.YAVG=3.26319
+frame:1253 pts:642048  pts_time:52.25
+lavfi.signalstats.YAVG=2.81006
+frame:1254 pts:642560  pts_time:52.2917
+lavfi.signalstats.YAVG=0.134028
+frame:1255 pts:643072  pts_time:52.3333
+lavfi.signalstats.YAVG=4.17004
+frame:1256 pts:643584  pts_time:52.375
+lavfi.signalstats.YAVG=4.05007
+frame:1257 pts:644096  pts_time:52.4167
+lavfi.signalstats.YAVG=4.85308
+frame:1258 pts:644608  pts_time:52.4583
+lavfi.signalstats.YAVG=4.67435
+frame:1259 pts:645120  pts_time:52.5
+lavfi.signalstats.YAVG=5.58868
+frame:1260 pts:645632  pts_time:52.5417
+lavfi.signalstats.YAVG=5.61218
+frame:1261 pts:646144  pts_time:52.5833
+lavfi.signalstats.YAVG=0.223292
+frame:1262 pts:646656  pts_time:52.625
+lavfi.signalstats.YAVG=6.28992
+frame:1263 pts:647168  pts_time:52.6667
+lavfi.signalstats.YAVG=6.35712
+frame:1264 pts:647680  pts_time:52.7083
+lavfi.signalstats.YAVG=7.08108
+frame:1265 pts:648192  pts_time:52.75
+lavfi.signalstats.YAVG=7.30728
+frame:1266 pts:648704  pts_time:52.7917
+lavfi.signalstats.YAVG=7.65567
+frame:1267 pts:649216  pts_time:52.8333
+lavfi.signalstats.YAVG=7.748
+frame:1268 pts:649728  pts_time:52.875
+lavfi.signalstats.YAVG=0.180181
+frame:1269 pts:650240  pts_time:52.9167
+lavfi.signalstats.YAVG=8.29494
+frame:1270 pts:650752  pts_time:52.9583
+lavfi.signalstats.YAVG=8.36682
+frame:1271 pts:651264  pts_time:53
+lavfi.signalstats.YAVG=8.90497
+frame:1272 pts:651776  pts_time:53.0417
+lavfi.signalstats.YAVG=8.98839
+frame:1273 pts:652288  pts_time:53.0833
+lavfi.signalstats.YAVG=8.59514
+frame:1274 pts:652800  pts_time:53.125
+lavfi.signalstats.YAVG=9.27125
+frame:1275 pts:653312  pts_time:53.1667
+lavfi.signalstats.YAVG=0.8515
+frame:1276 pts:653824  pts_time:53.2083
+lavfi.signalstats.YAVG=8.65111
+frame:1277 pts:654336  pts_time:53.25
+lavfi.signalstats.YAVG=9.04475
+frame:1278 pts:654848  pts_time:53.2917
+lavfi.signalstats.YAVG=8.5875
+frame:1279 pts:655360  pts_time:53.3333
+lavfi.signalstats.YAVG=9.70121
+frame:1280 pts:655872  pts_time:53.375
+lavfi.signalstats.YAVG=9.31367
+frame:1281 pts:656384  pts_time:53.4167
+lavfi.signalstats.YAVG=9.55235
+frame:1282 pts:656896  pts_time:53.4583
+lavfi.signalstats.YAVG=0.572347
+frame:1283 pts:657408  pts_time:53.5
+lavfi.signalstats.YAVG=9.82385
+frame:1284 pts:657920  pts_time:53.5417
+lavfi.signalstats.YAVG=10.1237
+frame:1285 pts:658432  pts_time:53.5833
+lavfi.signalstats.YAVG=9.99561
+frame:1286 pts:658944  pts_time:53.625
+lavfi.signalstats.YAVG=10.5297
+frame:1287 pts:659456  pts_time:53.6667
+lavfi.signalstats.YAVG=10.5953
+frame:1288 pts:659968  pts_time:53.7083
+lavfi.signalstats.YAVG=11.3737
+frame:1289 pts:660480  pts_time:53.75
+lavfi.signalstats.YAVG=0.290139
+frame:1290 pts:660992  pts_time:53.7917
+lavfi.signalstats.YAVG=11.1376
+frame:1291 pts:661504  pts_time:53.8333
+lavfi.signalstats.YAVG=11.3467
+frame:1292 pts:662016  pts_time:53.875
+lavfi.signalstats.YAVG=11.1242
+frame:1293 pts:662528  pts_time:53.9167
+lavfi.signalstats.YAVG=11.2689
+frame:1294 pts:663040  pts_time:53.9583
+lavfi.signalstats.YAVG=11.2988
+frame:1295 pts:663552  pts_time:54
+lavfi.signalstats.YAVG=11.301
+frame:1296 pts:664064  pts_time:54.0417
+lavfi.signalstats.YAVG=0.0769722
+frame:1297 pts:664576  pts_time:54.0833
+lavfi.signalstats.YAVG=11.0448
+frame:1298 pts:665088  pts_time:54.125
+lavfi.signalstats.YAVG=11.5633
+frame:1299 pts:665600  pts_time:54.1667
+lavfi.signalstats.YAVG=11.4845
+frame:1300 pts:666112  pts_time:54.2083
+lavfi.signalstats.YAVG=11.4757
+frame:1301 pts:666624  pts_time:54.25
+lavfi.signalstats.YAVG=11.519
+frame:1302 pts:667136  pts_time:54.2917
+lavfi.signalstats.YAVG=12.7565
+frame:1303 pts:667648  pts_time:54.3333
+lavfi.signalstats.YAVG=12.4571
+frame:1304 pts:668160  pts_time:54.375
+lavfi.signalstats.YAVG=0.381278
+frame:1305 pts:668672  pts_time:54.4167
+lavfi.signalstats.YAVG=12.6161
+frame:1306 pts:669184  pts_time:54.4583
+lavfi.signalstats.YAVG=12.9659
+frame:1307 pts:669696  pts_time:54.5
+lavfi.signalstats.YAVG=13.4578
+frame:1308 pts:670208  pts_time:54.5417
+lavfi.signalstats.YAVG=13.4816
+frame:1309 pts:670720  pts_time:54.5833
+lavfi.signalstats.YAVG=13.2661
+frame:1310 pts:671232  pts_time:54.625
+lavfi.signalstats.YAVG=13.5087
+frame:1311 pts:671744  pts_time:54.6667
+lavfi.signalstats.YAVG=0.00916667
+frame:1312 pts:672256  pts_time:54.7083
+lavfi.signalstats.YAVG=13.4438
+frame:1313 pts:672768  pts_time:54.75
+lavfi.signalstats.YAVG=13.5728
+frame:1314 pts:673280  pts_time:54.7917
+lavfi.signalstats.YAVG=13.1736
+frame:1315 pts:673792  pts_time:54.8333
+lavfi.signalstats.YAVG=13.394
+frame:1316 pts:674304  pts_time:54.875
+lavfi.signalstats.YAVG=14.5525
+frame:1317 pts:674816  pts_time:54.9167
+lavfi.signalstats.YAVG=14.7028
+frame:1318 pts:675328  pts_time:54.9583
+lavfi.signalstats.YAVG=0.325222
+frame:1319 pts:675840  pts_time:55
+lavfi.signalstats.YAVG=14.5839
+frame:1320 pts:676352  pts_time:55.0417
+lavfi.signalstats.YAVG=14.4652
+frame:1321 pts:676864  pts_time:55.0833
+lavfi.signalstats.YAVG=14.3199
+frame:1322 pts:677376  pts_time:55.125
+lavfi.signalstats.YAVG=14.2452
+frame:1323 pts:677888  pts_time:55.1667
+lavfi.signalstats.YAVG=14.2883
+frame:1324 pts:678400  pts_time:55.2083
+lavfi.signalstats.YAVG=14.2253
+frame:1325 pts:678912  pts_time:55.25
+lavfi.signalstats.YAVG=0.199486
+frame:1326 pts:679424  pts_time:55.2917
+lavfi.signalstats.YAVG=14.712
+frame:1327 pts:679936  pts_time:55.3333
+lavfi.signalstats.YAVG=14.7838
+frame:1328 pts:680448  pts_time:55.375
+lavfi.signalstats.YAVG=14.4665
+frame:1329 pts:680960  pts_time:55.4167
+lavfi.signalstats.YAVG=14.0234
+frame:1330 pts:681472  pts_time:55.4583
+lavfi.signalstats.YAVG=14.4394
+frame:1331 pts:681984  pts_time:55.5
+lavfi.signalstats.YAVG=14.1261
+frame:1332 pts:682496  pts_time:55.5417
+lavfi.signalstats.YAVG=0.334333
+frame:1333 pts:683008  pts_time:55.5833
+lavfi.signalstats.YAVG=14.094
+frame:1334 pts:683520  pts_time:55.625
+lavfi.signalstats.YAVG=13.495
+frame:1335 pts:684032  pts_time:55.6667
+lavfi.signalstats.YAVG=13.6689
+frame:1336 pts:684544  pts_time:55.7083
+lavfi.signalstats.YAVG=13.6777
+frame:1337 pts:685056  pts_time:55.75
+lavfi.signalstats.YAVG=13.4492
+frame:1338 pts:685568  pts_time:55.7917
+lavfi.signalstats.YAVG=12.9293
+frame:1339 pts:686080  pts_time:55.8333
+lavfi.signalstats.YAVG=0.647222
+frame:1340 pts:686592  pts_time:55.875
+lavfi.signalstats.YAVG=13.0151
+frame:1341 pts:687104  pts_time:55.9167
+lavfi.signalstats.YAVG=12.8354
+frame:1342 pts:687616  pts_time:55.9583
+lavfi.signalstats.YAVG=12.3332
+frame:1343 pts:688128  pts_time:56
+lavfi.signalstats.YAVG=11.9366
+frame:1344 pts:688640  pts_time:56.0417
+lavfi.signalstats.YAVG=0.505389

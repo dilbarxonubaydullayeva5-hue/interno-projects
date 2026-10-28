@@ -1,2 +1,6 @@
 node_modules
 out
+.venv
+ref/*/audio.pcm
+ref/*/ref.mp4
+ref/*/ref.mov
