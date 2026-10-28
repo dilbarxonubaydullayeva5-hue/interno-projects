@@ -1,0 +1,230 @@
+<title>Разбор «Нужен выдох»</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;500;700&family=Golos+Text:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one reading column on the reference's own night palette; the timeline band is the hero, sections follow the order of the breakdown */
+:root{
+  --night:#16151F; --panel:#1F1D2C; --line:#34324A; --dusk:#3F3E5D;
+  --fg:#E7E4EC; --mute:#A19FB4; --lip:#D9434E; --rose:#BF6E66; --warm:#B67B6A; --ok:#7FB79A; --warn:#E0A458;
+  --display:"Unbounded","Arial Black",system-ui,sans-serif;
+  --body:"Golos Text",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+  color-scheme:dark;
+}
+body{background:var(--night);color:var(--fg);font:16px/1.55 var(--body);padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:32px 64px}
+.wrap{max-width:980px;margin:0 auto;display:flex;flex-direction:column;gap:56px}
+h1,h2,h3{font-family:var(--display);font-weight:500;text-wrap:balance;margin:0;letter-spacing:.01em}
+h1{font-size:clamp(28px,5vw,44px);line-height:1.1;text-transform:uppercase}
+h2{font-size:20px;text-transform:uppercase;letter-spacing:.06em}
+h3{font-size:14px;text-transform:uppercase;letter-spacing:.08em;color:var(--mute)}
+p{margin:0;max-width:68ch}
+section{display:flex;flex-direction:column;gap:18px}
+.eyebrow{font:500 12px var(--mono);color:var(--mute);letter-spacing:.08em;text-transform:uppercase}
+.meta{display:flex;flex-wrap:wrap;gap:8px 20px;font:13px var(--mono);color:var(--mute)}
+.meta b{color:var(--fg);font-weight:500}
+.lede{font-size:18px;color:var(--fg)}
+.lede em{font-style:normal;color:var(--lip)}
+img{display:block;border-radius:4px}
+.fig{display:flex;flex-direction:column;gap:8px}
+.fig figcaption{font-size:13px;color:var(--mute)}
+figure{margin:0}
+.scroll{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14px;font-variant-numeric:tabular-nums}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font:500 11px var(--mono);text-transform:uppercase;letter-spacing:.08em;color:var(--mute)}
+td.n{font-family:var(--mono);white-space:nowrap}
+.finds{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:14px}
+.find{background:var(--panel);border-radius:6px;padding:16px;display:flex;flex-direction:column;gap:6px;min-width:0}
+.find b{font-family:var(--display);font-weight:500;font-size:14px;text-transform:uppercase;letter-spacing:.04em}
+.find span{font-size:14px;color:var(--mute)}
+/* timeline */
+.tl{display:flex;flex-direction:column;gap:6px}
+.tl-row{display:flex;height:64px;gap:2px;border-radius:4px;overflow:hidden}
+.tl-row div{background-size:cover;background-position:center;min-width:0;position:relative}
+.tl-row div:hover{outline:2px solid var(--fg);outline-offset:-2px}
+.beats{display:flex;height:26px;gap:2px}
+.beats div{font:500 10px var(--mono);color:var(--night);display:flex;align-items:center;padding:0 6px;overflow:hidden;white-space:nowrap;border-radius:2px;min-width:0}
+.ticks{position:relative;height:16px;font:11px var(--mono);color:var(--mute)}
+.ticks span{position:absolute;transform:translateX(-50%)}
+/* caption demo */
+.demo{background:#000;border-radius:6px;display:flex;flex-direction:column;align-items:center;gap:10px;padding:18px 16px}
+.stage{width:100%;max-width:520px;aspect-ratio:16/9;position:relative;border-radius:2px;overflow:hidden;background:linear-gradient(180deg,#3B3B52 0%,#221E30 55%,#585A7B 100%)}
+.stage .sub{position:absolute;left:0;right:0;bottom:9%;text-align:center;font:500 clamp(12px,2.6vw,17px) var(--display);text-transform:uppercase;color:#fff;letter-spacing:.02em;text-shadow:0 1px 3px rgba(0,0,0,.5)}
+.stage .sub span{opacity:0}
+.stage .sub span.on{animation:wf .14s linear forwards}
+@keyframes wf{from{opacity:.3}to{opacity:1}}
+@media (prefers-reduced-motion:reduce){.stage .sub span{opacity:1}.stage .sub span.on{animation:none}}
+.demo button{font:500 12px var(--mono);background:var(--dusk);color:var(--fg);border:0;border-radius:4px;padding:6px 12px;cursor:pointer}
+.demo button:focus-visible{outline:2px solid var(--fg)}
+.script{display:flex;flex-direction:column;gap:2px}
+.script div{display:grid;grid-template-columns:150px 1fr;gap:12px;padding:8px 0;border-bottom:1px solid var(--line);font-size:15px}
+.script div span:first-child{font:12px var(--mono);color:var(--mute);padding-top:2px}
+@media (max-width:560px){.script div{grid-template-columns:1fr;gap:2px}}
+.score{display:grid;grid-template-columns:1fr auto;gap:0 16px;align-items:center}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden;grid-column:1/-1;margin:4px 0 12px}
+.bar i{display:block;height:100%}
+.total{font:700 56px/1 var(--display);color:var(--fg)}
+.total small{font-size:18px;color:var(--mute);font-weight:400}
+.fix{display:grid;grid-template-columns:auto 1fr;gap:6px 14px;background:var(--panel);border-radius:6px;padding:16px;border-left:3px solid var(--lip)}
+.fix .k{font:11px var(--mono);color:var(--mute);text-transform:uppercase;letter-spacing:.06em;padding-top:3px}
+.pal{display:flex;flex-wrap:wrap;gap:14px}
+.pal>div{display:flex;flex-direction:column;gap:6px;min-width:0}
+.sw{display:flex;height:34px;width:200px;max-width:100%;border-radius:3px;overflow:hidden}
+.sw i{flex:1}
+.pal span{font-size:12px;color:var(--mute)}
+details{background:var(--panel);border-radius:6px;padding:12px 16px}
+summary{cursor:pointer;font:500 13px var(--mono)}
+pre{font:12px/1.5 var(--mono);white-space:pre;overflow-x:auto;margin:12px 0 0;color:var(--mute)}
+.tag{display:inline-block;font:500 11px var(--mono);padding:2px 8px;border-radius:10px;background:var(--dusk);color:var(--fg)}
+.tag.w{background:var(--warn);color:var(--night)}
+ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px;max-width:70ch}
+</style>
+
+<div class="wrap">
+<header style="display:flex;flex-direction:column;gap:16px">
+  <div class="eyebrow">Разбор референса · ref01 · режим A</div>
+  <h1>Иногда ты не ленишься. <span style="color:var(--lip)">Тебе нужен выдох</span></h1>
+  <div class="meta"><span><b>56,1 с</b> · 1346 кадров</span><span><b>24 к/с</b></span><span>720×1280, картинка 16:9 в полях</span><span><b>111 слов</b> · 122 сл/мин</span><span><b>17 планов</b> · средний 3,3 с</span><span>−14,5 LUFS</span></div>
+  <p class="lede">AI-аниме в ретро-стиле и спокойный закадровый голос. Ролик целиком на эмпатии: 45 секунд зеркалит усталость зрителя, потом одной фразой снимает с него вину. Сила здесь в сценарии и ритме пауз. Монтаж намеренно тихий. Оценка: <em>67/100</em>. Хук и формат кадра тянут вниз.</p>
+</header>
+
+<section>
+  <h2>Таймлайн</h2>
+  <div class="tl" id="tl"></div>
+  <p style="font-size:13px;color:var(--mute)">Ширина плана пропорциональна длительности. Цвет полосы под ним — бит истории. Наведи на план, чтобы увидеть кадры и описание.</p>
+</section>
+
+<section>
+  <h2>Неочевидное</h2>
+  <div class="finds">
+    <div class="find"><b>Кадр занимает треть экрана</b><span>Картинка 16:9 лежит в полосе y 437–842 из 1280. Это 32% вертикали, остальное чёрное. Субтитры при этом 18 px высоты букв на 1080.</span></div>
+    <div class="find"><b>Нет ни одного выделения</b><span>Все 45 кусков субтитров белые, одним шрифтом. Слово проявляется из 30% в 100% за 3–4 кадра. Фраза заранее разложена по центру, поэтому слова не прыгают.</span></div>
+    <div class="find"><b>Цвет как драматургия</b><span>На «слишком долго жил» кадр за 45 кадров уходит в ч/б. Следом жёсткая склейка в самый тёплый и насыщенный кадр ролика: слеза, насыщенность ×2.</span></div>
+    <div class="find"><b>Отъезд камеры = «выдох»</b><span>Последний план длится 142 кадра, камера отъезжает от лица к общему. Монтажного эффекта нет, метафору делает сама генерация.</span></div>
+    <div class="find"><b>Хвостовые слова отдельно</b><span>«Минут», «час», «себя», «так», «выдох» показаны отдельным куском на 4–11 кадров. Это удар интонации без единого графического эффекта.</span></div>
+    <div class="find"><b>Подложка громкая</b><span>В паузах −24 dB при голосе −18 dB, то есть музыка всего на ~7 dB тише речи. Это вывод по графику громкости, на слух не проверено.</span></div>
+  </div>
+</section>
+
+<section>
+  <h2>Драматургия</h2>
+  <div class="script" id="script"></div>
+  <p>Дуга: <b>боль → зеркало (утро, вечер, давление, потеря) → сомнение → переворот → облегчение</b>. Воды нет, каждая фраза добавляет конкретную бытовую деталь («открываешь ноутбук», «лежал с телефоном»). Зритель узнаёт себя на 2–3 детали подряд, отсюда сохранения и пересылки. CTA нет.</p>
+</section>
+
+<section>
+  <h2>Субтитры</h2>
+  <div class="demo">
+    <div class="stage"><div class="sub" id="sub"></div></div>
+    <button id="replay" type="button">Повторить</button>
+  </div>
+  <div class="scroll"><table>
+    <tr><th>Параметр</th><th>Замер</th></tr>
+    <tr><td>Позиция</td><td>y = 0,64 кадра, по центру, внизу картинки поверх изображения</td></tr>
+    <tr><td>Шрифт</td><td>широкий геометрический гротеск, капс, ~500. Похож на Benzin, Unbounded 500, Druk Wide Medium <span class="tag w">не точно</span></td></tr>
+    <tr><td>Размер</td><td>высота букв ≈ 18 px на 1080 (очень мелко)</td></tr>
+    <tr><td>Появление слова</td><td>opacity 0,3 → 1 за 3–4 кадра, linear, без сдвига и blur</td></tr>
+    <tr><td>Исчезновение</td><td>жёсткое, за 1 кадр; пауза до следующего куска 0–1,25 с</td></tr>
+    <tr><td>Кусок</td><td>1–3 слова (в среднем 2,5), медиана 0,83 с на экране</td></tr>
+    <tr><td>Скорость чтения</td><td>медиана 3,1 сл/с на экране. Норма для русского ≤3, на грани</td></tr>
+    <tr><td>Безопасные зоны</td><td>нарушений нет: текст на y≈818 из 1280 (≈1228 на 1920), выше нижней зоны 1500</td></tr>
+  </table></div>
+  <figure class="fig"><img src="{{img:chunks.jpg}}" alt="Все 45 кусков субтитров, последний кадр каждого"><figcaption>Последний кадр каждого из 45 кусков. Отсюда восстановлены текст и тайминг слов: Whisper в этом окружении недоступен, HuggingFace закрыт.</figcaption></figure>
+  <figure class="fig"><img src="{{img:ch6.jpg}}" alt="Пословное проявление"><figcaption>Шаг 4 кадра: слово входит серым и доходит до белого. Позиции не меняются, фраза разложена заранее.</figcaption></figure>
+</section>
+
+<section>
+  <h2>Моушн и переходы</h2>
+  <div class="scroll"><table>
+    <tr><th>Кадр</th><th>Тип</th><th>Длит.</th><th>Что</th></tr>
+    <tr><td class="n">77…1204</td><td>hardCut ×15</td><td class="n">1</td><td>основной приём, склейки на начале фразы в 60% случаев (±0,25 с)</td></tr>
+    <tr><td class="n">370</td><td>dissolve, двойная экспозиция</td><td class="n">~40</td><td>лицо → список дел → город, три слоя</td></tr>
+    <tr><td class="n">855</td><td>панорама внутри кадра</td><td class="n">13</td><td>движение камеры в генерации, склейка в конце движения</td></tr>
+    <tr><td class="n">1110</td><td>desaturate</td><td class="n">~45</td><td>цвет → ч/б на «слишком долго»</td></tr>
+    <tr><td class="n">1158</td><td>hardCut в контраст</td><td class="n">1</td><td>ч/б → розовая слеза</td></tr>
+    <tr><td class="n">1240</td><td>dollyOut</td><td class="n">~100</td><td>отъезд на «выдох»</td></tr>
+  </table></div>
+  <figure class="fig"><img src="{{img:strips.jpg}}" alt="Ленты кадров у склеек"><figcaption>Ленты у склеек 77, 183, растворения 330–410, склеек 433, 530, панорамы 855–870, ленты соцсетей 1084–1100 и финала 1204–1345.</figcaption></figure>
+  <figure class="fig"><img src="{{img:kb.jpg}}" alt="Движение внутри планов"><figcaption>Внутри плана меняются свет (гаснет телефон), цвет (уход в ч/б) и камера. Ken Burns не нужен, движение даёт сама генерация.</figcaption></figure>
+  <p>Поверх всего ролика идут мелкие белые частицы-пылинки. Графики, плашек и эффектов на тексте нет.</p>
+</section>
+
+<section>
+  <h2>Звук</h2>
+  <div class="scroll"><table>
+    <tr><th>Замер</th><th>Значение</th><th>Вывод</th></tr>
+    <tr><td>Громкость</td><td class="n">−14,5 LUFS</td><td>норма для рилсов</td></tr>
+    <tr><td>Голос / паузы</td><td class="n">−17,7 / −24,4 dB</td><td>подложка всего ~7 dB под голосом, норма −20…−25 dB <span class="tag w">по графику</span></td></tr>
+    <tr><td>Спектр пауз</td><td>плотный низ &lt;200 Гц</td><td>пэд или пиано, жанр не определён на слух</td></tr>
+    <tr><td>Темп</td><td class="n">~104 BPM</td><td>под голосом ненадёжно</td></tr>
+    <tr><td>Склейки в бит</td><td class="n">40% (случайно 24%)</td><td>лёгкая привязка к биту</td></tr>
+    <tr><td>Акценты</td><td class="n">кадры 0, 77, 433, 1158</td><td>всплески onset ×3–6 к медиане: удар на 0-м кадре есть</td></tr>
+  </table></div>
+  <p style="color:var(--mute);font-size:14px">Magnific (video_analyze) не подключён, поэтому музыка, SFX и подача голоса не прослушаны. Всё выше выведено по графику громкости.</p>
+</section>
+
+<section>
+  <h2>Цвет миров</h2>
+  <div class="pal" id="pal"></div>
+</section>
+
+<section>
+  <h2>Оценка</h2>
+  <div style="display:flex;flex-wrap:wrap;gap:32px;align-items:flex-start">
+    <div class="total">67<small> / 100</small></div>
+    <div class="score" id="score" style="flex:1;min-width:260px"></div>
+  </div>
+  <p style="color:var(--mute);font-size:14px">Это мнение по шкале скилла, а не прогноз. Higgsfield (virality_predictor) не подключён, поэтому удержание по секундам не замерено. Главная проверка — реальная статистика после публикации.</p>
+</section>
+
+<section>
+  <h2>Что исправить в своей версии</h2>
+  <div class="fix"><span class="k">где</span><span>весь ролик</span><span class="k">почему</span><span>картинка занимает 32% экрана, субтитры 18 px</span><span class="k">как</span><span>генерировать сцены сразу 9:16 (или кроп 16:9→9:16 по лицу), субтитры ×2,5 на y≈0,62</span></div>
+  <div class="fix"><span class="k">где</span><span>хук 0–110</span><span class="k">почему</span><span>парадокс досказан только к 4,1 с, на 0-м кадре будильник, а не лицо</span><span class="k">как</span><span>начать с глаз крупно (план 77–182 переезжает в начало), «Ты не ленишься. У тебя нет сил.» ≤1,5 с</span></div>
+  <div class="fix"><span class="k">где</span><span>финал 1316–1346</span><span class="k">почему</span><span>CTA нет, ролик просто затухает</span><span class="k">как</span><span>2 с тихого текста после «выдох»: «Сохрани на день, когда опять будешь себя винить»</span></div>
+  <h3>Не трогать</h3>
+  <ul><li>медленный темп и паузы до 1,25 с: в этом жанре они и есть «выдох»</li><li>белые пословные субтитры без выделений</li><li>уход в ч/б → розовая слеза, отъезд камеры в финале, двойная экспозиция со списком дел</li></ul>
+  <h3>Заменить своим</h3>
+  <ul><li>все кадры: свой персонаж и стиль, свои генерации</li><li>голос (свой или синтез с правами) и музыка с лицензией</li></ul>
+</section>
+
+<section>
+  <h2>Паспорт</h2>
+  <p>Машинная версия для Remotion лежит в <code>ref/ref01/passport.json</code>, все значения в кадрах при 24 к/с. Пословный тайминг — в <code>words.json</code>, куски субтитров — в <code>captions.json</code>.</p>
+  <details><summary>passport.json</summary><pre id="pj"></pre></details>
+</section>
+</div>
+
+<script>
+const P={{passport}};
+const thumbs={{thumbs}};
+const beatColor={"hook-paradox":"#D9434E","mirror-morning":"#585A7B","mirror-evening-guilt":"#B67B6A","pressure":"#99757A","loss":"#616280","self-doubt":"#3F3E5D","turn-reframe":"#BF6E66","release":"#A19FAA"};
+const N=P.source.durationFrames, fps=P.source.fps;
+const tl=document.getElementById('tl');
+const row=document.createElement('div');row.className='tl-row';
+P.shots.forEach((s,i)=>{const d=document.createElement('div');d.style.flex=(s.to-s.from+1);d.style.backgroundImage=`url(${thumbs[i]})`;d.title=`${s.from}–${s.to} (${((s.to-s.from+1)/fps).toFixed(1)} с): ${s.what}. ${s.move}`;row.appendChild(d)});
+const beats=document.createElement('div');beats.className='beats';
+let last=0;P.structure.filter(b=>b.from!==null).forEach(b=>{if(b.from>last){const g=document.createElement('div');g.style.flex=b.from-last;beats.appendChild(g)}const d=document.createElement('div');d.style.flex=(b.to-b.from);d.style.background=beatColor[b.beat]||'#555';d.textContent=b.beat;d.title=b.text;beats.appendChild(d);last=b.to});
+if(N>last){const g=document.createElement('div');g.style.flex=N-last;beats.appendChild(g)}
+const ticks=document.createElement('div');ticks.className='ticks';
+for(let t=0;t<=55;t+=5){const s=document.createElement('span');s.style.left=(t*fps/N*100)+'%';s.textContent=t+'с';ticks.appendChild(s)}
+tl.append(row,beats,ticks);
+const sc=document.getElementById('script');
+P.structure.forEach(b=>{const d=document.createElement('div');const a=document.createElement('span');a.textContent=b.from===null?'—':`${b.beat} · ${(b.from/fps).toFixed(1)}–${(b.to/fps).toFixed(1)} с`;const t=document.createElement('span');t.textContent=b.text;d.append(a,t);sc.appendChild(d)});
+const pal=document.getElementById('pal');
+Object.entries(P.worlds).filter(([k,v])=>v.palette).forEach(([k,v])=>{const w=document.createElement('div');const sw=document.createElement('div');sw.className='sw';v.palette.forEach(c=>{const i=document.createElement('i');i.style.background=c;i.title=c;sw.appendChild(i)});const l=document.createElement('span');l.textContent=`${k}: ${v.role}`;w.append(sw,l);pal.appendChild(w)});
+const S=[["Хук 0–3 с",25,55,"парадокс сильный, но досказан к 4,1 с; на 0-м кадре нет лица; текст пословно"],["Удержание и ритм",20,75,"планы по 3,3 с, но новое слово каждые <1 с; провалов >3 с нет"],["История",15,90,"чистая дуга боль → переворот → облегчение, узнаваемые детали"],["Субтитры",10,60,"в такт, 3,1 сл/с, но мелко и без выделений"],["Моушн и переходы",10,75,"жёсткие склейки + сильные приёмы цвета и камеры"],["Звук",10,65,"подложка громкая по графику; SFX не прослушаны"],["Картинка",5,70,"единый стиль; поля 16:9; мыло в UI телефона"],["CTA и упаковка",5,30,"CTA нет; первый кадр слабая обложка"]];
+const so=document.getElementById('score');
+S.forEach(([n,w,v,why])=>{const a=document.createElement('div');a.innerHTML=`<b style="font-weight:600">${n}</b> <span style="color:var(--mute);font-size:13px">· вес ${w} · ${why}</span>`;const b=document.createElement('div');b.style.cssText='font:500 15px var(--mono)';b.textContent=v;b.style.color=v<70?'var(--warn)':'var(--fg)';const bar=document.createElement('div');bar.className='bar';bar.innerHTML=`<i style="width:${v}%;background:${v<70?'var(--warn)':'var(--ok)'}"></i>`;so.append(a,b,bar)});
+document.getElementById('pj').textContent=JSON.stringify(P,null,2);
+// caption demo: real timings of the first three chunks (frames at 24 fps)
+const C={{captions}};
+const sub=document.getElementById('sub');let timers=[];
+function play(){timers.forEach(clearTimeout);timers=[];sub.innerHTML='';
+  C.slice(0,6).forEach(c=>{timers.push(setTimeout(()=>{sub.innerHTML='';const ws=c.text.split(' ');const spans=ws.map((w,i)=>{const s=document.createElement('span');s.textContent=(i?' ':'')+w;sub.appendChild(s);return s});
+    ws.forEach((w,i)=>timers.push(setTimeout(()=>spans[i].classList.add('on'),((c.wordFrames[i]??c.from)-c.from)/fps*1000)));
+    timers.push(setTimeout(()=>{sub.innerHTML=''},(c.to-c.from)/fps*1000));},c.from/fps*1000))});}
+document.getElementById('replay').addEventListener('click',play);
+if(matchMedia('(prefers-reduced-motion: reduce)').matches){sub.innerHTML='<span class="on" style="opacity:1">ИНОГДА ТЫ НЕ</span>'}else play();
+</script>

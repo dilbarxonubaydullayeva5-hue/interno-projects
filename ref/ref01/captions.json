@@ -1,0 +1,473 @@
+[
+ {
+  "text": "ИНОГДА ТЫ НЕ",
+  "from": 6,
+  "to": 24,
+  "wordFrames": [
+   6,
+   14,
+   20
+  ],
+  "approx": false
+ },
+ {
+  "text": "ЛЕНИШЬСЯ",
+  "from": 28,
+  "to": 38,
+  "wordFrames": [
+   28
+  ],
+  "approx": false
+ },
+ {
+  "text": "У ТЕБЯ ПРОСТО",
+  "from": 62,
+  "to": 74,
+  "wordFrames": [
+   62,
+   63,
+   66
+  ],
+  "approx": true
+ },
+ {
+  "text": "БОЛЬШЕ НЕТ СИЛ",
+  "from": 76,
+  "to": 99,
+  "wordFrames": [
+   76,
+   84,
+   91
+  ],
+  "approx": false
+ },
+ {
+  "text": "ТЫ ПРОСЫПАЕШЬСЯ УЖЕ",
+  "from": 112,
+  "to": 143,
+  "wordFrames": [
+   112,
+   123,
+   139
+  ],
+  "approx": false
+ },
+ {
+  "text": "УСТАВШИМ",
+  "from": 147,
+  "to": 162,
+  "wordFrames": [
+   147
+  ],
+  "approx": false
+ },
+ {
+  "text": "ОТКРЫВАЕШЬ НОУТБУК СМОТРИШЬ",
+  "from": 177,
+  "to": 213,
+  "wordFrames": [
+   177,
+   191,
+   206
+  ],
+  "approx": false
+ },
+ {
+  "text": "НА СПИСОК ДЕЛ",
+  "from": 213,
+  "to": 240,
+  "wordFrames": [
+   213,
+   219,
+   233
+  ],
+  "approx": false
+ },
+ {
+  "text": "И ДАЖЕ САМОЕ",
+  "from": 248,
+  "to": 265,
+  "wordFrames": [
+   248,
+   253,
+   259
+  ],
+  "approx": false
+ },
+ {
+  "text": "ПРОСТОЕ КАЖЕТСЯ ОГРОМНЫМ",
+  "from": 268,
+  "to": 302,
+  "wordFrames": [
+   268,
+   281,
+   292
+  ],
+  "approx": false
+ },
+ {
+  "text": "ОТКЛАДЫВАЕШЬ НА ПЯТЬ",
+  "from": 325,
+  "to": 349,
+  "wordFrames": [
+   325,
+   341,
+   345
+  ],
+  "approx": false
+ },
+ {
+  "text": "МИНУТ",
+  "from": 351,
+  "to": 357,
+  "wordFrames": [
+   351
+  ],
+  "approx": false
+ },
+ {
+  "text": "ПОТОМ ЕЩЁ НА",
+  "from": 374,
+  "to": 396,
+  "wordFrames": [
+   374,
+   382,
+   386
+  ],
+  "approx": true
+ },
+ {
+  "text": "ЧАС",
+  "from": 397,
+  "to": 401,
+  "wordFrames": [
+   397
+  ],
+  "approx": false
+ },
+ {
+  "text": "А ВЕЧЕРОМ ВИНИШЬ",
+  "from": 416,
+  "to": 447,
+  "wordFrames": [
+   416,
+   418,
+   428
+  ],
+  "approx": true
+ },
+ {
+  "text": "СЕБЯ",
+  "from": 448,
+  "to": 453,
+  "wordFrames": [
+   448
+  ],
+  "approx": false
+ },
+ {
+  "text": "ПОЧЕМУ Я ОПЯТЬ",
+  "from": 461,
+  "to": 485,
+  "wordFrames": [
+   461,
+   469,
+   471
+  ],
+  "approx": true
+ },
+ {
+  "text": "НИЧЕГО НЕ СДЕЛАЛ",
+  "from": 487,
+  "to": 511,
+  "wordFrames": [
+   487,
+   497,
+   502
+  ],
+  "approx": false
+ },
+ {
+  "text": "ХОТЯ ТЫ ДАЖЕ",
+  "from": 538,
+  "to": 566,
+  "wordFrames": [
+   538,
+   555,
+   562
+  ],
+  "approx": false
+ },
+ {
+  "text": "НЕ ОТДЫХАЛ",
+  "from": 567,
+  "to": 585,
+  "wordFrames": [
+   567,
+   575
+  ],
+  "approx": false
+ },
+ {
+  "text": "ПРОСТО ЛЕЖАЛ С",
+  "from": 604,
+  "to": 625,
+  "wordFrames": [
+   604,
+   611,
+   617
+  ],
+  "approx": true
+ },
+ {
+  "text": "ТЕЛЕФОНОМ",
+  "from": 628,
+  "to": 635,
+  "wordFrames": [
+   628
+  ],
+  "approx": true
+ },
+ {
+  "text": "ДУМАЯ ОБО ВСЁМ",
+  "from": 640,
+  "to": 660,
+  "wordFrames": [
+   640,
+   650,
+   656
+  ],
+  "approx": false
+ },
+ {
+  "text": "ЧТО",
+  "from": 661,
+  "to": 663,
+  "wordFrames": [
+   661
+  ],
+  "approx": false
+ },
+ {
+  "text": "ЧТО ТЕБЕ НАДО",
+  "from": 668,
+  "to": 685,
+  "wordFrames": [
+   668,
+   671,
+   676
+  ],
+  "approx": true
+ },
+ {
+  "text": "РАБОТАТЬ РАЗВИВАТЬСЯ ЗАРАБАТЫВАТЬ",
+  "from": 703,
+  "to": 750,
+  "wordFrames": [
+   703,
+   718,
+   736
+  ],
+  "approx": false
+ },
+ {
+  "text": "НЕ ОТСТАВАТЬ ОТ",
+  "from": 751,
+  "to": 774,
+  "wordFrames": [
+   751,
+   757,
+   770
+  ],
+  "approx": false
+ },
+ {
+  "text": "ДРУГИХ",
+  "from": 775,
+  "to": 782,
+  "wordFrames": [
+   775
+  ],
+  "approx": false
+ },
+ {
+  "text": "И ПОСТЕПЕННО ПРОПАДАЕТ",
+  "from": 798,
+  "to": 845,
+  "wordFrames": [
+   798,
+   800,
+   816
+  ],
+  "approx": true
+ },
+ {
+  "text": "ВСЁ",
+  "from": 847,
+  "to": 852,
+  "wordFrames": [
+   847
+  ],
+  "approx": false
+ },
+ {
+  "text": "ЖЕЛАНИЕ ИНТЕРЕС ЭНЕРГИЯ",
+  "from": 866,
+  "to": 906,
+  "wordFrames": [
+   866,
+   881,
+   895
+  ],
+  "approx": false
+ },
+ {
+  "text": "ДАЖЕ НА ТО",
+  "from": 908,
+  "to": 928,
+  "wordFrames": [
+   908,
+   913,
+   920
+  ],
+  "approx": false
+ },
+ {
+  "text": "ЧТО РАНЬШЕ НРАВИЛОСЬ",
+  "from": 930,
+  "to": 957,
+  "wordFrames": [
+   930,
+   936,
+   947
+  ],
+  "approx": false
+ },
+ {
+  "text": "ТЫ ДУМАЕШЬ ЧТО",
+  "from": 976,
+  "to": 1015,
+  "wordFrames": [
+   976,
+   988,
+   1010
+  ],
+  "approx": false
+ },
+ {
+  "text": "СО МНОЙ НЕ",
+  "from": 1016,
+  "to": 1031,
+  "wordFrames": [
+   1016,
+   1021,
+   1027
+  ],
+  "approx": false
+ },
+ {
+  "text": "ТАК",
+  "from": 1032,
+  "to": 1036,
+  "wordFrames": [
+   1032
+  ],
+  "approx": false
+ },
+ {
+  "text": "НО ВОЗМОЖНО ДЕЛО",
+  "from": 1066,
+  "to": 1089,
+  "wordFrames": [
+   1066,
+   1068,
+   1078
+  ],
+  "approx": true
+ },
+ {
+  "text": "НЕ В ЛЕНИ",
+  "from": 1090,
+  "to": 1106,
+  "wordFrames": [
+   1090,
+   1094,
+   1100
+  ],
+  "approx": false
+ },
+ {
+  "text": "ВОЗМОЖНО ТЫ ПРОСТО",
+  "from": 1125,
+  "to": 1144,
+  "wordFrames": [
+   1125,
+   1135,
+   1140
+  ],
+  "approx": false
+ },
+ {
+  "text": "СЛИШКОМ ДОЛГО ЖИЛ",
+  "from": 1146,
+  "to": 1173,
+  "wordFrames": [
+   1146,
+   1156,
+   1166
+  ],
+  "approx": false
+ },
+ {
+  "text": "НА ПРЕДЕЛЕ",
+  "from": 1174,
+  "to": 1191,
+  "wordFrames": [
+   1174,
+   1177
+  ],
+  "approx": true
+ },
+ {
+  "text": "И ТЕБЕ НЕ",
+  "from": 1205,
+  "to": 1216,
+  "wordFrames": [
+   1205,
+   1209,
+   1213
+  ],
+  "approx": false
+ },
+ {
+  "text": "НУЖЕН ЕЩЁ ОДИН",
+  "from": 1218,
+  "to": 1239,
+  "wordFrames": [
+   1218,
+   1226,
+   1233
+  ],
+  "approx": false
+ },
+ {
+  "text": "РЫВОК ТЕБЕ НУЖЕН",
+  "from": 1247,
+  "to": 1303,
+  "wordFrames": [
+   1247,
+   1272,
+   1282
+  ],
+  "approx": false
+ },
+ {
+  "text": "ВЫДОХ",
+  "from": 1306,
+  "to": 1317,
+  "wordFrames": [
+   1306
+  ],
+  "approx": false
+ }
+]
