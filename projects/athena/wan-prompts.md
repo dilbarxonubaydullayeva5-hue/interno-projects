@@ -7,6 +7,7 @@
 
 | Сцена | media_id | с | кр | Промпт движения |
 |---|---|---|---|---|
+| S01 | 39aa53a3-f768-4e05-ad83-d5cfe74cfed7 | 3 | 5.25 | The blue streak of moonlight slowly slides across her eyes from left to right, she narrows her eyes slightly and her gaze sharpens toward the camera. Very slow push-in. |
 | S03 | 4eb49200-674c-4694-a833-916e5732d6b9 | 4 | 7 | The huge shadow slowly spreads across the hall and swallows Metis; she pulls her hands closer to her belly and looks up in fear. Static camera, slight slow push-in. Ends with the frame almost fully dark. |
 | S04 | 70b690f5-03b8-4351-9edf-03aa8467184f | 3 | 5.25 | The golden glow pulses slowly like a heartbeat, gold dust drifts around it. Static camera. |
 | S05 | 0bbe6fae-6505-4cef-a9ac-15145c78e584 | 4 | 7 | Zeus squeezes his head harder and groans, lightning sparks crackle and flicker around his skull, the camera shakes slightly. |
@@ -24,6 +25,6 @@
 | S15 | 2ded4825-e3a2-4658-b78f-56eafedc32cd | 5 | 8.75 | The face of Metis in the shield becomes clearer, as if rising through water, and she slowly closes and opens her eyes. Very slow push-in. |
 | S17 | 194dc7c1-5564-4559-84a9-072c0a486673 | 6 | 10.5 | Slow camera pull-back revealing more of the night city and sky, her hair and dress move in the wind, the owl settles its wings. |
 
-**Итого 16 клипов: 61 с = 106,75 кредита.**
+**Итого 17 клипов: 64 с = 112 кредитов.**
 
-Ждут перегенерации во Flow: S01 (3 с, 5,25 кр.), S02 (4 с, 7 кр.), S16 (4 с, 7 кр.) — ещё 19,25 кредита.
+Ждут перегенерации во Flow: S02 (4 с, 7 кр.), S16 (4 с, 7 кр.) — ещё 14 кредитов.
