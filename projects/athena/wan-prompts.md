@@ -24,9 +24,12 @@
 | S13 | eee75aad-3ca3-4343-8515-8a9a3fe7bd07 | 5 | 8.75 | The olive tree grows taller and its leaves unfold, catching the dawn light; the people below raise their hands. Slow push-in toward the tree. |
 | S14 | ff478d0e-f831-465a-bbf0-8c3f4728e5a4 | 4 | 7 | Slow push-in toward her reflection in the shield, the candle flame flickers, she blinks slowly. |
 | S15 | 2ded4825-e3a2-4658-b78f-56eafedc32cd | 5 | 8.75 | The face of Metis in the shield becomes clearer, as if rising through water, and she slowly closes and opens her eyes. Very slow push-in. |
-| S16 | 29803ce8-00a0-447e-8976-6a0dd473a883 | 4 | 7 | She slowly lifts the helmet off her head, her dark hair falls loose around her face, a tear rolls down her cheek, candle flames flicker behind her. Very slow push-in. |
+| S16 | 0604a5e8-60bb-4fff-9691-cfddc72d42c0 | 4 | 7 | She slowly lifts the helmet off her head, her dark hair falls loose around her face, a tear rolls down her cheek, candle flames flicker behind her. Very slow push-in. |
 | S17 | 194dc7c1-5564-4559-84a9-072c0a486673 | 6 | 10.5 | Slow camera pull-back revealing more of the night city and sky, her hair and dress move in the wind, the owl settles its wings. |
 
 **Итого 19 клипов: 72 с = 126 кредитов.**
 
 Все сцены готовы.
+
+## Запуски Wan 3.0
+- S01: job 4c5e82ae-b957-4391-8785-94fa2837d453 (3 с, 5,25 кр.)
