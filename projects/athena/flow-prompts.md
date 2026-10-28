@@ -177,3 +177,21 @@ Style: 1990s Japanese cel animation, thick clean ink outlines, flat cel shading 
 ## Итого
 3 референса + 19 сцен = **22 картинки**, с вариантами и переделками ~25–30 генераций во Flow.
 Видео в Wan 3.0 (Higgsfield) — по расчёту ≈131 кредит с запасом +1 с на клип.
+
+---
+
+## Переделки (v2)
+
+### S02 v2 — Зевс на троне (ингредиент R2)
+```
+Zeus from the reference image, the same man: thick curly grey-white hair and grey-white beard, gold laurel wreath (no crown), piercing pale blue eyes, deep-blue himation over one shoulder. He sits on a massive white-marble throne on Mount Olympus, seen from a low angle, his face in the upper third of the frame, his right hand gripping a glowing lightning bolt, storm clouds behind him lit from inside by lightning. Mood: ominous, suspicious, he glares at the viewer. Keep his face, hair, beard color and wreath identical to the reference.
+
+Style: 1990s Japanese cel animation, thick clean ink outlines, flat cel shading with two-tone shadows, subtle film grain, deep indigo and violet night palette with warm gold as the only accent color. Vertical 9:16 portrait orientation, full-bleed image with no black bars. No dark beard, no crown. No text, no logos, no watermark.
+```
+
+### S16 v2 — снимает шлем (ингредиент R1)
+```
+Close-up of Athena from the reference image, the same woman: olive-brown skin, pale grey eyes with visible dark pupils, dark wavy hair, exactly like the reference. Both of her hands hold the bronze Corinthian helmet and she is beginning to lift it off her head, her dark wavy hair starting to fall loose, her grey eyes glistening with tears, warm golden candlelight on her face. The warmest and most intimate shot of the film, her face upright in the upper half of the frame. Keep her face, skin tone and eye color identical to the reference.
+
+Style: 1990s Japanese cel animation, thick clean ink outlines, flat cel shading with two-tone shadows, subtle film grain, warm gold and rose palette for this shot, soft deep-violet shadows. Vertical 9:16 portrait orientation, upright head, full-bleed image with no black bars. No brown eyes, no pale skin. No text, no logos, no watermark.
+```
